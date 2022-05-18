@@ -1,0 +1,390 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Expository and Developmental</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3e4d380f-b754-4028-bf0d-02d039e8def4</md:uuid>
+</metadata>
+<content>
+
+
+<note id="idm9537776">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="id30548858">In order to listen with a larger perspective
+of a musical work, it is important to distinguish between
+<term>expository</term> and <term>developmental</term> passages.</para>
+
+<para id="id6603589">The function of an expository section is to
+establish <emphasis>identity</emphasis>. Its goal is to make a musical material
+<emphasis>memorable</emphasis> and <emphasis>recognizable</emphasis>. “My name is Bond—James Bond” is an
+expository statement.</para>
+
+<para id="id32500006">The following are examples of expository
+statements:</para>
+
+<example id="id8428815"><media id="idm9662944" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/mozart_piano.mp3" id="mus_mozartpiano" mime-type="audio/mpeg"><param name="composer" value="Mozart"/><param name="title" value="Piano Concerto in B-flat Major, II"/><param name="comments" value="Ivor Bolton, Royal Philharmonic Orchestra"/><param name="total-time" value="55"/><param name="label-number" value="Hybrid Sacd 2866"/><param name="performer" value="Mariaclara Monetti"/></audio></media>
+</example>
+
+<example id="organsymph"><media id="idm8357136" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/saintsaens_organ.mp3" id="mus_organ" mime-type="audio/mpeg"><param name="composer" value="Camille Saint-Saens"/><param name="title" value="Symphony No. 3 in c-minor, “Organ,” II"/><param name="comments" value="Baltimore Symphony Orchestra"/><param name="total-time" value="23"/><param name="label-number" value="Vanguard 4014"/><param name="performer" value="Sergiu Commissiona"/></audio></media>
+</example>
+
+<example id="berceuse"><media id="idm2601632" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/stravinsky_firebird.mp3" id="mus_berceuse" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Berceuse” from The Firebird"/><param name="comments" value=""/><param name="total-time" value="59"/><param name="label-number" value=""/><param name="performer" value="Pierre Boulez, Chicago Symphony Orchestra"/></audio></media>
+</example>
+
+<para id="id16463670">Whereas an expository section shows what a
+musical material <emphasis>is</emphasis>, a developmental section shows what the
+material <emphasis>can do</emphasis>. Development sections are characterized by
+instability and rapid change; they <emphasis>postpone rest</emphasis>. 007 jumps from a
+plane and speeds down a mountainside on one ski, pursued by
+villains from every direction. This is an example of
+<term>development</term>.</para>
+
+<para id="id35777134">The terms <term>exposition</term> and <term>development</term> are
+commonly used in classical music, to denote large sections where
+material is either introduced or rapidly transformed. However, the
+concept of <term>expository</term> or <term>developmental</term> may be generalized to any
+kind of music.</para>
+
+<exercise id="ex1_kreutzer">
+	<q:item id="kreu_item1" type="single-response">
+		<q:question>
+			<section id="kreu_q_s">
+				<para id="id4987795">In the following excerpt from Beethoven:
+				Violin Sonata No. 7, “Kreutzer,” which comes first—an expository
+				passage or a developmental one?</para>
+
+				<media id="idm2140192" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/beethoven_violin.mp3" id="mus_kreu" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Violin Sonata in A-Major, opus 47, “Kreutzer”"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Teldec 4509-95998-2"/><param name="performer" value="Nathan Milstein, violin; Georges Pludermacher, piano"/></audio></media>
+
+				<para id="id35960286">Which comes first?</para>
+			</section>
+		</q:question>
+		<q:answer id="kreu_exp"><q:response>Expository</q:response></q:answer>
+		<q:answer id="kreu_dev"><q:response>Developmental</q:response></q:answer>		
+		<q:feedback>The first portion of the excerpt is highly
+		active and fast changing. This leads to an arrival point that is
+		much more relaxed and stable. Therefore, a developmental section
+		leads to an expository one.</q:feedback>
+		<q:key answer="kreu_dev"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_fantasy">
+	<q:item id="fantasy" type="single-response">
+		<q:question>
+			<section id="fantasy_s">
+				<para id="id32855778">In this excerpt from Arnold Schoenberg’s
+				Fantasy for violin and piano, which comes first—the expository
+				section of the developmental one?</para>
+
+				<media id="idm530112" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/schoenberg_fantasy.mp3" id="mus_fantasy" mime-type="audio/mpeg"><param name="composer" value="Arnold Schoenberg"/><param name="title" value="Fantasy for violin and piano"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 447 112-2"/><param name="performer" value="Gidon Kremer, violin; Oleg Maisenberg, piano"/></audio></media>
+
+				<para id="id35722957">Which comes first?</para>
+			</section>
+		</q:question>
+		<q:answer id="fantasy_exp"><q:response>Expository</q:response></q:answer>
+		<q:answer id="fantasy_dev"><q:response>Developmental</q:response></q:answer>
+		<q:feedback>Schoenberg’s musical language is far removed
+		from Beethoven’s. However, the same distinction between expository
+		and developmental exists. Just as in Beethoven, a mercurial,
+		forward moving section leads to a calmer, more grounded one: A
+		developmental section is followed by an expository one.</q:feedback>
+		<q:key answer="fantasy_dev"/>
+	</q:item>
+</exercise>
+
+
+<section id="id31480270">
+	<title>Distinguishing between the Expository and the Developmental</title>
+
+	<para id="id15297911">Stability facilitates recognition: That is
+	why suspects in a police line-up are asked to stand still. In
+	music, <term>expository statements</term> are usually “grounded” in some way:
+	They are often repetitive; and they are often supported by a fixed,
+	reliable accompaniment.</para>
+
+	<para id="id32453304">On the other hand, if a suspect is trying to
+	escape, it is better to <emphasis>keep moving</emphasis>. In <term>developmental passages</term>,
+	stability is undercut: Repetitions become more cursory and
+	incomplete; fixed accompaniments are absent.</para>
+
+	<example id="ex_quintet"><para id="id34747799">The opening of the fourth movement of Robert
+		Schumann’s Piano Quintet in E-flat Major is grounded by both
+		extensive repetition and a steady accompaniment.</para>
+
+		<media id="idm8271840" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/schumann_quintet_1.mp3" id="mus_quintet_1" mime-type="audio/mpeg"><param name="composer" value="Robert Schumann"/><param name="title" value="Piano Quintet in E-flat Major"/><param name="comments" value="opening"/><param name="total-time" value=""/><param name="label-number" value="CBS MPK 45885"/><param name="performer" value="Rudolf Serkin, piano; The Budapest String Quartet"/></audio></media>
+
+		<para id="id32202004">In the following developmental passage,
+		Schumann’s theme is no longer anchored: The instruments enter in
+		imitation, pushing the music towards new destinations. Notice that
+		the original steady accompaniment is replaced by faster moving
+		figures.</para>
+
+		<media id="idp3786512" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/schumann_quintet_2.mp3" id="mus_quintet_2" mime-type="audio/mpeg"><param name="composer" value="Robert Schumann"/><param name="title" value="Piano Quintet in E-flat Major"/><param name="comments" value="developmental passage"/><param name="total-time" value=""/><param name="label-number" value="CBS MPK 45885"/><param name="performer" value="Rudolf Serkin, piano; The Budapest String Quartet"/></audio></media>
+	</example>
+
+	<example id="ex_quartet"><para id="id4380380">As in the Schumann example, the opening of the
+		second movement of Bela Bartok’s String Quartet No. 2 is grounded
+		by repetition and a steady accompaniment.</para>
+
+		<media id="idm893264" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/bartok_quartet2_1.mp3" id="mus_bartok4_2_1" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="String Quartet No. 2, II"/><param name="comments" value="opening"/><param name="total-time" value=""/><param name="label-number" value="Simax, PSC 1197"/><param name="performer" value="Vervato String Quartet"/></audio></media>
+
+		<para id="id36140148">Once again, in the following developmental
+		passage, the music becomes more mobile and unrooted.</para>
+
+		<media id="idm1163872" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/bartok_quartet2_2.mp3" id="mus_bartok4_2_2" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="String Quartet No. 2, II"/><param name="comments" value="developmental passage"/><param name="total-time" value=""/><param name="label-number" value="Simax, PSC 1197"/><param name="performer" value="Vervato String Quartet"/></audio></media>
+	</example>
+
+	<para id="id30969277">As the above examples indicate, the pace of
+	events speeds up in developmental passages. Thus, whereas
+	<term>expository passages</term> allow the time for <emphasis>complete statements</emphasis>,
+	<term>development passages</term> are characterized by <emphasis>fragmentation</emphasis>.
+	<emphasis>Fragmentation</emphasis> enables the music’s progress to accelerate. When you
+	travel, you can’t bring all of your belongings with you; instead,
+	you bring just an overnight bag with a change of clothes.
+	Similarly, you can’t afford to carry a whole theme with you during
+	a developmental passage: Taking the time to play the theme in its
+	entirety would slow you down. Instead, you must travel “light,”
+	with just a fragment of the theme.</para>
+
+	<example id="ex_mozart40"><para id="id16464701">The Finale of Mozart’s Symphony no. 40 in
+		g-minor begins with the following expository statement. Note how
+		each half of the theme is repeated, increasing its
+		stability.</para>
+
+		<media id="idm2851200" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/mozart_sym40IV_1.mp3" id="mus_mozart40_1" mime-type="audio/mpeg"><param name="composer" value="Mozart"/><param name="title" value="Symphony No. 40, IV"/><param name="comments" value="expository statement"/><param name="total-time" value=""/><param name="label-number" value="DG 427 210-2"/><param name="performer" value="Karl Böhm, Berlin Philharmonic"/></audio></media>
+
+		<para id="id15411825">Later in the movement, Mozart creates a
+		developmental passage based entirely on the upward motion with
+		which the theme begins. Only fragments occur; the complete theme is
+		never stated.</para>
+
+		<media id="idm8630112" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/mozart_sym40IV_2.mp3" id="mus_mozart40_2" mime-type="audio/mpeg"><param name="composer" value="Mozart"/><param name="title" value="Symphony No. 40, IV"/><param name="comments" value="developmental passage"/><param name="total-time" value=""/><param name="label-number" value="DG 427 210-2"/><param name="performer" value="Karl Böhm, Berlin Philharmonic"/></audio></media>
+	</example>
+
+	<example id="ex_shost_quartet"><para id="id12937395">The fourth movement of Dmitri Shostakovich’s
+		String Quartet No. 2 introduces a long, lyrical theme, played
+		several times in its entirety.</para>
+
+		<media id="idp2157760" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/shostakovich_quartet_1.mp3" id="mus_shost4_1" mime-type="audio/mpeg"><param name="composer" value="Dmitri Shostakovich"/><param name="title" value="String Quartet No. 2 in A-Major, IV"/><param name="comments" value="lyrical theme"/><param name="total-time" value=""/><param name="label-number" value="Decca 455 776-2"/><param name="performer" value="Fitzwilliam Quartet"/></audio></media>
+
+		<para id="id8245412">In a subsequent developmental section, the
+		theme is broken into fragments that get shorter and shorter: at one
+		point, the theme is reduced to just two notes. As in the Mozart
+		developmental passage, the complete theme is never stated.</para>
+
+		<media id="idm8327312" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/shostakovich_quartet_2.mp3" id="mus_shost4_2" mime-type="audio/mpeg"><param name="composer" value="Dmitri Shostakovich"/><param name="title" value="String Quartet No. 2 in A-Major, IV"/><param name="comments" value="developmental section"/><param name="total-time" value=""/><param name="label-number" value="Decca 455 776-2"/><param name="performer" value="Fitzwilliam Quartet"/></audio></media>
+	</example>
+
+	<para id="id34695579">Other musical features help to differentiate
+	expository and developmental sections. In expository passages, the
+	primary activity is often concentrated in one instrument or
+	register. In development passages, multiple instruments and
+	registers may trade the musical ideas back and forth, in dialogue
+	or competition.</para>
+
+	<example id="ex2_mozart40"><para id="id28916001">In the first movement of Mozart’s Symphony
+		No. 40 in g-minor, the violins introduce the primary theme.</para>
+
+		<media id="idm2645904" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/mozart_sym40I_1.mp3" id="mus2_mozart40_1" mime-type="audio/mpeg"><param name="composer" value="Mozart"/><param name="title" value="Symphony No. 40, I"/><param name="comments" value="primary theme"/><param name="total-time" value=""/><param name="label-number" value="DG 427 210-2"/><param name="performer" value="Karl Böhm, Berlin Philharmonic"/></audio></media>
+
+		<para id="id27687499">In a subsequent developmental section, the
+		violins repeatedly play a fragment of the theme, gradually sinking
+		in register. Suddenly, the music becomes far more turbulent as the
+		fragment is traded between the violins and celli.</para>
+
+		<media id="idm894752" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/mozart_sym40I_2.mp3" id="mus2_mozart40_2" mime-type="audio/mpeg"><param name="composer" value="Mozart"/><param name="title" value="Symphony No. 40, I"/><param name="comments" value="developmental section"/><param name="total-time" value=""/><param name="label-number" value="DG 427 210-2"/><param name="performer" value="Karl Böhm, Berlin Philharmonic"/></audio></media>
+	</example>
+
+	<example id="ex_endoftime"><para id="id9864682">In the brief Intermède from Olivier Messaien’s
+		Quartet for the End of Time, the main theme is initially presented
+		fixed in register.</para>
+
+		<media id="idp574288" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/messiaen_endoftime_1.mp3" id="mus_endoftime_1" mime-type="audio/mpeg"><param name="composer" value="Olivier Messiaen"/><param name="title" value="Quartet for the End of Time, Intermède"/><param name="comments" value="main theme"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 423 247-2"/><param name="performer" value="Luben Yordanoff, violin; Albert Tetard, cello; Claude Desurmont, clarinet; Daniel Barenboim, piano"/></audio></media>
+
+		<para id="id32485006">As the theme is developed, fragments of the
+		theme shift in register:</para>
+
+		<media id="idp1677600" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/messiaen_endoftime_2.mp3" id="mus_endoftime_2" mime-type="audio/mpeg"><param name="composer" value="Olivier Messiaen"/><param name="title" value="Quartet for the End of Time, Intermède"/><param name="comments" value="fragments of the theme"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 423 247-2"/><param name="performer" value="Luben Yordanoff, violin; Albert Tetard, cello; Claude Desurmont, clarinet; Daniel Barenboim, piano"/></audio></media>
+	</example>
+
+	<para id="id29752323">Expository sections tend to be more
+	predictable. On the other hand, development sections are often
+	unpredictable and irregular, with abrupt changes of texture,
+	dynamics, rhythm, etc.</para>
+
+	<example id="ex_beethoven8"><para id="id35722686">For instance, the Finale of Beethoven’s
+		Symphony No. 8 opens with a vivacious expository section,
+		interrupted only by a few brief hesitations.</para>
+
+		<media id="idm8201520" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/beethoven_sym8_2.mp3" id="mus_beethoven8_1" mime-type="audio/mpeg"><param name="composer" value="Beethoven"/><param name="title" value="Symphony No. 8 in F-Major, IV"/><param name="comments" value="expository section"/><param name="total-time" value=""/><param name="label-number" value="SBK 89832"/><param name="performer" value="George Szell, Cleveland Orchestra"/></audio></media>
+
+		<para id="id9644514">In a later developmental section, the
+		hesitations are exaggerated and disrupt the flow of the
+		music.</para>
+
+		<media id="idm1729520" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/beethoven_sym8_1.mp3" id="mus_beethoven8_2" mime-type="audio/mpeg"><param name="composer" value="Beethoven"/><param name="title" value="Symphony No. 8 in F-Major, IV"/><param name="comments" value="developmental section"/><param name="total-time" value=""/><param name="label-number" value="SBK 89832"/><param name="performer" value="George Szell, Cleveland Orchestra"/></audio></media>
+	</example>
+
+	<example id="ex_bartok4_4"><para id="id3200951">In the fourth movement of Bela Bartok’s String
+		Quartet No. 4, each player takes a turn playing the plucked theme.
+		Occasional chords underlie the theme’s presentation.</para>
+
+		<media id="idm9621936" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/bartok_quartet4_1.mp3" id="mus_bartok4_4_1" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="String Quartet No. 4, IV"/><param name="comments" value="theme"/><param name="total-time" value=""/><param name="label-number" value="Simax PSC 1196"/><param name="performer" value="Vertavo String Quartet"/></audio></media>
+
+		<para id="id8430288">In a subsequent developmental passage, the
+		chords are brought to the fore, becoming more forceful and abrupt.
+		These and silences irregularly disrupt the music’s flow. Only
+		fragments of the theme are played, and the instruments alternate
+		more rapidly.</para>
+
+		<media id="idm1038720" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/bartok_11b.mp3" id="mus_bartok4_4_2" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="String Quartet No. 4, IV"/><param name="comments" value="developmental passage"/><param name="total-time" value=""/><param name="label-number" value="Simax PSC 1196"/><param name="performer" value="Vertavo String Quartet"/></audio></media>	
+	</example>
+
+	<para id="id32630579">In expository sections, there is usually only
+	one theme or musical idea presented at a time. In developmental
+	sections, multiple themes may be presented simultaneously.</para>
+
+	<example id="ex_sorcerer"><para id="id16470223">Paul Dukas’ The Sorcerer’s Apprentice tells
+		the story of a wizard’s assistant (played by Mickey Mouse in
+		Disney’s "Fantasia") who, rather than clean his master’s lair
+		himself, furtively casts a spell that rouses the mops, pails and
+		brooms.</para>
+
+		<para id="id29967789">As each tool is wakened, Dukas introduces a
+		new theme:</para>
+
+		<media id="idm8029200" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/dukas_sorcerer_1.mp3" id="mus_sorcerer_1" mime-type="audio/mpeg"><param name="composer" value="Paul Dukas"/><param name="title" value="The Sorcerer’s Apprentice"/><param name="comments" value="tool theme 1"/><param name="total-time" value=""/><param name="label-number" value="Telarc 80515"/><param name="performer" value="Jesús López-Cobos, Cincinnati Symphony Orchestra"/></audio></media>
+
+		<media id="idp4575920" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/dukas_sorcerer_2.mp3" id="mus_sorcerer_2" mime-type="audio/mpeg"><param name="composer" value="Paul Dukas"/><param name="title" value="The Sorcerer’s Apprentice"/><param name="comments" value="tool theme 2"/><param name="total-time" value=""/><param name="label-number" value="Telarc 80515"/><param name="performer" value="Jesús López-Cobos, Cincinnati Symphony Orchestra"/></audio></media>
+
+		<para id="id36000892">Unfortunately, the apprentice isn’t able to
+		command the tools. As chaos ensues, Dukas combines the two themes,
+		creating a developmental pandemonium:</para>
+
+		<media id="idm9740480" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/dukas_sorcerer_3.mp3" id="mus_sorcerer_3" mime-type="audio/mpeg"><param name="composer" value="Paul Dukas"/><param name="title" value="The Sorcerer’s Apprentice"/><param name="comments" value="developmental pandemonium"/><param name="total-time" value=""/><param name="label-number" value="Telarc 80515"/><param name="performer" value="Jesús López-Cobos, Cincinnati Symphony Orchestra"/></audio></media>
+	</example>
+
+	<example id="ex_lyric"><para id="id32162977">In Alban Berg’s annotated score of the "Lyric
+		Suite," the composer describes the second movement as a domestic
+		scene in which his married love interest, Hanna Fuchs-Robettin, is
+		playing with her two children. Each family member is given a
+		theme:</para>
+
+		<para id="id10921133">Hanna’s theme:</para>
+
+		<media id="idm675024" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/berg_lyric_1.mp3" id="mus_lyric_1" mime-type="audio/mpeg"><param name="composer" value="Alban Berg"/><param name="title" value="The Lyric Suite, II"/><param name="comments" value="Hanna's theme"/><param name="total-time" value=""/><param name="label-number" value="From a live performance by Da Camera of Houston"/><param name="performer" value="Curtis Macomber and Cal Wiersma, violins; Toby Appel, viola; Norman Fischer, cello"/></audio></media>
+
+		<para id="id13611324">Her son, Munzo:</para>
+
+		<media id="idm2077696" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/berg_lyric_2.mp3" id="mus_lyric_2" mime-type="audio/mpeg"><param name="composer" value="Alban Berg"/><param name="title" value="The Lyric Suite, II"/><param name="comments" value="Munzo's theme"/><param name="total-time" value=""/><param name="label-number" value="From a live performance by Da Camera of Houston"/><param name="performer" value="Curtis Macomber and Cal Wiersma, violins; Toby Appel, viola; Norman Fischer, cello"/></audio></media>
+
+		<para id="id34572332">Her daughter, Dorothea, was known by her
+		nickname, Dodo. Since “Do” is a singing syllable for the note “C”
+		(as in “do a deer, a female deer” from The Sound of Music), Dodo is
+		represented by repeated c’s in the viola.</para>
+
+		<media id="idp1028608" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/berg_lyric_3.mp3" id="mus_lyric_3" mime-type="audio/mpeg"><param name="composer" value="Alban Berg"/><param name="title" value="The Lyric Suite, II"/><param name="comments" value="Dodo's theme"/><param name="total-time" value=""/><param name="label-number" value="From a live performance by Da Camera of Houston"/><param name="performer" value="Curtis Macomber and Cal Wiersma, violins; Toby Appel, viola; Norman Fischer, cello"/></audio></media>
+
+		<para id="id15303198">The peak of the movement is an argument
+		between Munzo and Dodo that gets out of control. To depict this,
+		Berg wrote a developmental passage that combines aspects of all
+		three themes: Hanna’s lyrical melody is in the upper violin;
+		Munzo’s dance-like theme and Dodo’s repeated notes are below. By
+		the end of the excerpt, Hanna has finally quieted the children
+		down:</para>
+
+		<media id="idm1979232" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/berg_lyric_4.mp3" id="mus_lyric_4" mime-type="audio/mpeg"><param name="composer" value="Alban Berg"/><param name="title" value="The Lyric Suite, II"/><param name="comments" value="argument"/><param name="total-time" value=""/><param name="label-number" value="From a live performance by Da Camera of Houston"/><param name="performer" value="Curtis Macomber and Cal Wiersma, violins; Toby Appel, viola; Norman Fischer, cello"/></audio></media>
+	</example>
+
+	<para id="id33653897">In conclusion, expository sections tend to be
+	more straightforward and direct: one musical idea is usually
+	presented at a time; the idea is presented in its entirety; it is
+	usually played in a single instrument or register; the music’s
+	progression is more predictable. In contrast, development sections
+	are more mercurial and complex: multiple ideas may be presented
+	simultaneously; ideas may be broken into fragments and shift
+	rapidly between instruments and registers; changes and
+	interruptions may be more abrupt and extreme.</para>
+</section>
+
+<section id="s_balance">
+	<title>The Balance Between Expository and Developmental</title>
+	
+	<example id="ex_romanian"><para id="id30085444">Some music may be almost exclusively
+		<term>expository</term>. Bartok’s brief Romanian Folk Dance no. 1 consists of an
+		expository statement in two halves, each of which is
+		repeated.</para>
+
+		<media id="idm810944" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/bartok_folk.mp3" id="mus_romanian" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="Romanian Folk Dance no. 1"/><param name="comments" value="expository statement"/><param name="total-time" value=""/><param name="label-number" value="Live performance"/><param name="performer" value="Maureen Nelson, violin; Rod Waters, piano"/></audio></media>
+	</example>
+
+	<example id="ex_proc"><para id="id33079161">In contrast, some music may be almost
+		exclusively developmental: The music undergoes constant motion and
+		transformation.</para>
+
+		<media id="idm8178320" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/lieberson_proc.mp3" id="mus_proc" mime-type="audio/mpeg"><param name="composer" value="Peter Lieberson"/><param name="title" value="“Proclamation” from Bagatelles"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="09026-68189-2"/><param name="performer" value="Peter Serkin, piano"/></audio></media>
+	</example>
+	
+	<para id="id32456328">The balance between the expository and the
+	developmental is a crucial expressive feature. If you want a restful vacation, you'll plan to stay put as much as possible and minimize the time spent on the road. On the other hand, if you're up for an adrenaline rush, you'll plan some high-flying travel.  Similarly, the
+	greater the time spent in <term>exposition</term>, the greater the music’s
+	stability. The greater the time spent in <term>development</term>, the greater
+	the music’s unrest.</para>
+
+	<para id="element-637"/><para id="id35818011">What if an exposition is highly charged? Will its development be calmer? The answer is "No:" Developmental passages always "up the ante."
+	Someone fleeing from peril typically faces even greater dangers to
+	escape. Similarly, the <term>development</term> of a highly charged material
+	will tend to be even more intense.  </para>
+
+	<example id="ex_grosso"><para id="id32581685">For example, the fifth movement of Alfred
+		Schnittke’s Concerto Grosso No. 1 introduces a frantic interplay
+		between the two violin soloists, accompanied by the harpsichord.
+		The string orchestra responds with a developmental passage that is
+		even more animated and fervent. Soloists and ensemble
+		alternate twice, dramatizing the contrast between the expository
+		and the developmental.</para>
+
+		<media id="idm2784912" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/schnittke_grosso.mp3" id="mus_grosso" mime-type="audio/mpeg"><param name="composer" value="Alfred Schnittke"/><param name="title" value="Concerto Grosso"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Col Legno Collage 20510"/><param name="performer" value="Yur Bashmet, director; Gidon Kremer &amp; Tatiana Grindenko"/></audio></media>
+	</example>
+
+	<para id="id3732580">Thus, no matter what the particular mood or
+	haracter of a work, the balance of the <term>expository</term> and the
+	<term>developmental</term> is a revealing expressive feature.</para>
+
+	<example id="ex_bagatelle"><para id="id35698504">The balance between expository and
+		developmental helps to create strong contrasts in Beethoven’s
+		Bagatelle, opus 126, no. 4. [See also: <link document="m11629">Musical Form</link>] The A-section
+		begins with a brief expository statement; but development soon
+		predominates: The A-section is constantly roving, with abrupt
+		silences and sudden changes in texture.</para>
+
+		<media id="idm2445536" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/beethoven_bagatelle_1.mp3" id="mus_bagatelle_1" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Bagatelle, opus 126, no. 4"/><param name="comments" value="A-section"/><param name="total-time" value=""/><param name="label-number" value="Le Chant du Monde 2781049"/><param name="performer" value="Walter Chodack, piano"/></audio></media>
+
+		<para id="id3767953">In contrast, the B-section is almost
+		exclusively <term>expository</term>: It is grounded throughout and very
+		repetitive.</para>
+		
+		<media id="idm2082848" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/beethoven_bagatelle_2.mp3" id="mus_bagatelle_2" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Bagatelle, opus 126, no. 4"/><param name="comments" value="B-section"/><param name="total-time" value=""/><param name="label-number" value="Le Chant du Monde 2781049"/><param name="performer" value="Walter Chodack, piano"/></audio></media>
+		
+		<para id="id35754184">In the end, Beethoven establishes a relative
+		equilibrium between the expository and developmental by playing
+		each section twice.</para>
+		
+		<media id="idm8722704" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/beethoven_bagatelle_3.mp3" id="mus_bagatelle_3" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Bagatelle, opus 126, no. 4"/><param name="comments" value="equilibrium"/><param name="total-time" value=""/><param name="label-number" value="Le Chant du Monde 2781049"/><param name="performer" value="Walter Chodack, piano"/></audio></media>
+	</example>
+
+	<example id="ex_solitude"><para id="id28710958">Expository and developmental passages are
+		similarly contrasted in the second movement of John Harbison’s Four
+		Songs of Solitude. In the end, does Harbison tip the balance in
+		favor of exposition or development? How does this contribute to
+		your emotional reaction to the movement?</para>
+
+		<media id="idm529136" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/harbison_solitude.mp3" id="mus_solitude" mime-type="audio/mpeg"><param name="composer" value="John Harbison"/><param name="title" value="Four Songs of Solitude, II"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Artek 0016-2"/><param name="performer" value="Jennifer Frautschi, violin"/></audio></media>
+	</example>
+
+	<para id="id15202465">When you are studying the itinerary for a trip, you want to know how long you will spend at your destinations compared to how long you will spend en route.  Similarly, in the first few hearings of a work, try to
+	identify <term>expository</term> versus <term>developmental</term> passages. How long does
+	each type of passage last? The greater the amount of exposition,
+	the more stable, simple and direct the music.  The greater the
+	amount of development, the more the music is restless, complex and
+	ambiguous. Directing your attention to these structural features,
+	rather than to fleeting details, will help you build a more
+	comprehensive understanding of the music.</para>
+</section>
+</content>
+</document>

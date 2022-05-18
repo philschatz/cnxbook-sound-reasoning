@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Circular and Linear Progressions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35151</md:content-id>
+  <md:title>Listening Gallery: Circular and Linear Progressions</md:title>
+  <md:abstract/>
+  <md:uuid>759eed61-f018-42d7-bf21-0b9c95ec5c5f</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-909">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="eip-544">For each musical excerpt, decide whether it contains a <term>Circular</term> or <term>Linear</term> harmonic progression.</para><exercise id="eip-132"><q:item id="item_respeghi" type="single-response">
+		<q:question>
+			<section id="s_respeghi">
+				<para id="p_respeghi"> 
+<media id="id1594805" alt="" display="block"><audio src="Respighi01" id="Respighi01" mime-type="audio/mpeg"><param name="composer" value="Otto Respighi"/><param name="title" value="Ancient Airs and Dances, Suite No. 3"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="EMI Classics"/><param name="performer" value="Academy of St. Martin in the Fields, Sir Neville Marriner, conductor"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="Respeghi_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="Respeghi_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Circular harmonic progression.</q:feedback>
+
+		<q:key answer="Respeghi_C"/>
+	</q:item>
+</exercise><exercise id="eip-887"><q:item id="item_bach" type="single-response">
+		<q:question>
+			<section id="s_bach">
+				<para id="p_bach"> 
+<media id="id1594806" alt="" display="block"><audio src="Bach31" id="Bach31" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Concerto in f-minor - II"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Nimbus Records"/><param name="performer" value="Vladimir Feltsman, piano, Orchestra of St. Lukes"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="Bach_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="Bach_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Linear harmonic progression.</q:feedback>
+
+		<q:key answer="Bach_L"/>
+	</q:item>
+</exercise><exercise id="eip-299"><q:item id="item_onher" type="single-response">
+		<q:question>
+			<section id="s_onher">
+				<para id="p_onher"> 
+<media id="id1594807" alt="" display="block"><audio src="OnHer" id="OnHer" mime-type="audio/mpeg"><param name="composer" value="John Barry"/><param name="title" value="On Her Majesty's Secret Service"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Silvia SSD 1034"/><param name="performer" value="The City of Prague Philharmonic, Nic Raine, conductor"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="OnHer_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="OnHer_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Circular harmonic progression.</q:feedback>
+
+		<q:key answer="OnHer_C"/>
+	</q:item>
+</exercise><exercise id="eip-506"><q:item id="item_shosti" type="single-response">
+		<q:question>
+			<section id="s_shosti">
+				<para id="p_shosti"> 
+<media id="id1594808" alt="" display="block"><audio src="Shostakovich02" id="Shostakovich02" mime-type="audio/mpeg"><param name="composer" value="Dmitri Shostakovich"/><param name="title" value="Symphony No. 7 'Lenigrad,' - I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Daphne Records"/><param name="performer" value="Swedish Radio Symphony, Evgeny Svetlanov"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="Shostakovich_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="Shostakovich_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Circular harmonic progression.</q:feedback>
+
+		<q:key answer="Shostakovich_C"/>
+	</q:item>
+</exercise><exercise id="eip-449"><q:item id="item_schumann" type="single-response">
+		<q:question>
+			<section id="s_schumann">
+				<para id="p_schumann"> 
+<media id="id1594809" alt="" display="block"><audio src="Schumann07" id="Schumann07" mime-type="audio/mpeg"><param name="composer" value="Robert Schumann"/><param name="title" value="Symphony No. 3 in E-flat major, 'Rhenish,' - V"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Philips"/><param name="performer" value="Royal Concertgebouw Orchestra, Bernard Haitink, conductor"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="Schumann_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="Schumann_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Linear harmonic progression.</q:feedback>
+
+		<q:key answer="Schumann_L"/>
+	</q:item>
+</exercise><exercise id="eip-861"><q:item id="item_debussy" type="single-response">
+		<q:question>
+			<section id="s_debussy">
+				<para id="p_debussy"> 
+<media id="id1594801" alt="" display="block"><audio src="Debussy01" id="Debussy01" mime-type="audio/mpeg"><param name="composer" value="Claude Debussy"/><param name="title" value="Nocturnes, 'Fêtes'"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Cleveland Orchestra, Pierre Boulez, conductor"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="Debussy_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="Debussy_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Circular harmonic progression.</q:feedback>
+
+		<q:key answer="Deubssy_C"/>
+	</q:item>
+</exercise><exercise id="eip-640"><q:item id="item_debussy1" type="single-response">
+		<q:question>
+			<section id="s_debussy1">
+				<para id="p_debussy1"> 
+<media id="id1594802" alt="" display="block"><audio src="Debussy08" id="Debussy08" mime-type="audio/mpeg"><param name="composer" value="Claude Debussy"/><param name="title" value="Piano Works"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Decca"/><param name="performer" value="Pascal Rogé, piano"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="Debussy1_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="Debussy1_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Linear harmonic progression.</q:feedback>
+
+		<q:key answer="Deubssy1_L"/>
+	</q:item>
+</exercise><exercise id="eip-438"><q:item id="item_mahler" type="single-response">
+		<q:question>
+			<section id="s_mahler">
+				<para id="p_mahler"> 
+<media id="id1594803" alt="" display="block"><audio src="Mahler05" id="Mahler05" mime-type="audio/mpeg"><param name="composer" value="Gustav Mahler"/><param name="title" value="Symphony No. 1 - III"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="EMI Classics"/><param name="performer" value="Chicago Symphony Orchestra, Klaus Tennstedt"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="Mahler_C"><q:response>Circular</q:response></q:answer>
+
+		<q:answer id="Mahler_L"><q:response>Linear</q:response></q:answer>
+
+		<q:feedback>This excerpt contains a Circular harmonic progression.</q:feedback>
+
+		<q:key answer="Mahler_C"/>
+	</q:item>
+</exercise>
+</content>
+
+</document>

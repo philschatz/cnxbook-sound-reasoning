@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Listening Gallery: Making Music Modern</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m13844</md:content-id>
+  <md:title>Listening Gallery: Making Music Modern</md:title>
+  <md:abstract/>
+  <md:uuid>6a371eba-7bf6-4516-8e88-7a9ffe5ff217</md:uuid>
+</metadata>
+<content>
+
+<note id="id1168247166752">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><exercise id="ex_webern">
+	<q:item id="item_webern" type="multiple-response">
+		<q:question>
+			<section id="s_webern">
+				<para id="p_webern">How is ambiguity created in the following excerpt?</para>
+
+				<media id="id1168242640976" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musicmodern/webern_sixpieces.mp3" id="mus_webern" mime-type="audio/mpeg"><param name="composer" value="Webern"/><param name="title" value="Six Pieces for Orchestra, II"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="DG112557"/><param name="performer" value="Pierre Boulez; Berlin Philharmonic"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="webern_mpml"><q:response>More personal musical language</q:response></q:answer>
+		<q:answer id="webern_cpm"><q:response>Changing pulse and meter</q:response></q:answer>
+		<q:answer id="webern_uc"><q:response>Unpredictable continuity</q:response></q:answer>
+		<q:answer id="webern_alr"><q:response>Absence of literal repetition</q:response></q:answer>
+		<q:answer id="webern_hd"><q:response>Heightened dissonance</q:response></q:answer>
+		<q:answer id="webern_dlu"><q:response>Dissonances left unresolved</q:response></q:answer>
+
+		<q:feedback>All of the above contributed to the movement’s ambiguity.</q:feedback>
+
+		<q:key answer="webern_mpml,webern_cpm,webern_uc,webern_alr,webern_hd,webern_dlu"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_feldman">
+	<q:item id="item_feldman" type="multiple-response">
+		<q:question>
+			<section id="s_feldman">
+				<para id="p_feldman">How is ambiguity created in the following excerpt?</para>
+
+				<media id="id1168235281745" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musicmodern/young_wisp.mp3" id="mus_feldman" mime-type="audio/mpeg"><param name="composer" value="Morton Feldman"/><param name="title" value="Three Dances, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Kairos 0012362KAI"/><param name="performer" value="Siegfried Mauser, piano"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="feldman_mpml"><q:response>More personal musical language</q:response></q:answer>
+		<q:answer id="feldman_pus"><q:response>Prominent use of silence</q:response></q:answer>
+		<q:answer id="feldman_wspm"><q:response>Weakened sense of pulse and meter</q:response></q:answer>
+		<q:answer id="feldman_alr"><q:response>Absence of literal repetition</q:response></q:answer>
+		<q:answer id="feldman_uc"><q:response>Unpredictable continuity</q:response></q:answer>
+		<q:answer id="feldman_dlu"><q:response>Dissonances left unresolved</q:response></q:answer>
+
+		<q:feedback>
+All of the above are true except for the absence of literal repetition: An oscillation between two notes in the low register occurs twice during the piece. However, many sonic events occur once only; and the recurrence of the oscillation is hard to foretell.
+		</q:feedback>
+
+		<q:key answer="feldman_mpml,feldman_pus,feldman_wspm,feldman_uc,feldman_dlu"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_carter">
+	<q:item id="item_carter" type="multiple-response">
+		<q:question>
+			<section id="s_carter">
+				<para id="p_carter">How is ambiguity created in the following excerpt?</para>
+
+				<media id="id1168249617267" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musicmodern/carter_eightetudes.mp3" id="mus_carter" mime-type="audio/mpeg"><param name="composer" value="Elliott Carter"/><param name="title" value="Eight Etudes and a Fantasy, II"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Boston Skyline BSD 137"/><param name="performer" value="New York Woodwind Quintet"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="carter_mpml"><q:response>More personal musical language</q:response></q:answer>
+		<q:answer id="carter_pus"><q:response>Prominent use of silence</q:response></q:answer>
+		<q:answer id="carter_me"><q:response>Minimal exposition</q:response></q:answer>
+		<q:answer id="carter_hi"><q:response>Harmonic independence</q:response></q:answer>
+		<q:answer id="carter_hd"><q:response>Heightened dissonance</q:response></q:answer>
+		<q:answer id="carter_alr"><q:response>Absence of literal repetition</q:response></q:answer>
+		<q:answer id="carter_wrr"><q:response>Weak rhetorical reinforcement</q:response></q:answer>
+
+		<q:feedback>
+			<section id="feed">
+				<para id="id8503360">
+Carter writes in a personal musical language. His second etude for winds consists of a rapid passage that is played over and over by each of the four winds. However, each starts on a different note, leading to dissonant combinations; and the voices are out-of-phase, leading to weak rhetorical reinforcement.
+				</para>
+
+				<para id="id9706139">
+Silence does not play a role. The flute begins alone, establishing an expository statement. Each instrumental part consists only of literal repetition--so these three choices are less accurate.
+				</para>
+			</section>
+		</q:feedback>
+
+		<q:key answer="carter_mpml,carter_hi,carter_hd,carter_wrr"/>
+	</q:item>
+</exercise>	
+
+<exercise id="ex_wisp">
+	<q:item id="item_wisp" type="multiple-response">
+		<q:question>
+			<section id="s_wisp">
+				<para id="p_wisp">How is ambiguity created in the following excerpt?</para>
+
+				<media id="id1168248477516" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musicmodern/feldman_threedances.mp3" id="mus_wisp" mime-type="audio/mpeg"><param name="composer" value="LaMonte Young"/><param name="title" value="“A Wisp” from Remembering a Naiad"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Montage 782139"/><param name="performer" value="Arditti String Quartet"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="wisp_mpml"><q:response>More personal musical language</q:response></q:answer>
+		<q:answer id="wisp_pus"><q:response>Prominent use of silence</q:response></q:answer>
+		<q:answer id="wisp_wspm"><q:response>Weakened sense of pulse and meter</q:response></q:answer>
+		<q:answer id="wisp_alr"><q:response>Absence of literal repetition</q:response></q:answer>
+		<q:answer id="wisp_uc"><q:response>Unpredictable continuity</q:response></q:answer>
+		<q:answer id="wisp_hd"><q:response>Heightened dissonance</q:response></q:answer>
+		<q:answer id="wisp_dlu"><q:response>Dissonances left unresolved</q:response></q:answer>
+
+		<q:feedback>All are true.</q:feedback>
+
+		<q:key answer="wisp_mpml,wisp_pus,wisp_wspm,wisp_alr,wisp_uc,wisp_hd,wisp_dlu"/>
+	</q:item>
+</exercise>
+
+
+</content>
+</document>

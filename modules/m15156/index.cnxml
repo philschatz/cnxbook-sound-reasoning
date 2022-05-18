@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>How Identity Shapes Form</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>de11e069-d3f3-47d1-b4d4-f706983a6d35</md:uuid>
+</metadata>
+  <content>
+    <note id="idp331456">You must have the latest version of Macromedia's free <link url="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;application/x-shockwave-flash">Flash plugin</link> to play the musical
+	examples.  </note><para id="id2911496">We think of ourselves as being born with certain innate abilities and enthusiasms. Our vision of a fulfilling life is to maximize these gifts and desires. The task of a guidance counselor is to help us sort this out: The counselor assesses our strengths and recommends a path that will make greatest use of them.</para>
+    <para id="id11158013">In a sense, a composer acts as a “guidance counselor” to his or her material: The aim is to enable the material to determine its form, to allow the material a controlling influence over how its life is lived.</para>
+    <para id="id11387436">If we felt that we had an innate ability for creative work but circumstances bound us to a desk job, we would feel stifled. Similarly, if the singular qualities of a musical material were to be ignored or overlooked by the composer, the resulting music might feel rigid, arbitrary or unsatisfying. A composer’s task is to listen very carefully to his or her material and extrapolate an appropriate destiny.</para>
+    <para id="id11000010">In order to explore this principle closely, we are going to study how two traditional forms or procedures---<term>Sonata Form</term> and <term>fugue</term>—are influenced by the material in works by Mozart and Bartok. First, we will introduce a “standard” description of <term>Sonata form </term>and <term>fugue</term>. Then, we will demonstrate how the Mozart and Bartok works depart from these conventions and why.</para>
+    <para id="id2905589"><term>Sonata form</term> was one of the primary means of creating extended movements in the Classical era. Sonata Form s divided into three main sections: The <term>exposition</term>; the <term>development</term>; and the <term>recapitulation.</term></para>
+    <para id="id8641118">Sonata Form is based on <term>harmonic</term><emphasis> contrast</emphasis>. The <term>exposition </term>introduces the contrast: First, it presents the <emphasis>primary theme</emphasis> in the home key, called the <term>tonic</term>. Then, the music shifts to a contrasting key. Often, a <emphasis>second theme</emphasis> is introduced, to emphasize the new key. </para>
+    <para id="id9635507">The <term>development</term> heightens the tension introduced in the exposition by roving among many keys. Thematic fragmentation enables the harmony to progress quickly. Emphasis on the <emphasis>tonic</emphasis> is avoided at all costs, as this would undercut the harmonic suspense.</para>
+    <para id="id11040576">The <term>recapitulation</term> returns to the tonic. It offers a full restatement of the exposition but with one fundamental difference. The harmonic tension is reconciled: Both the <emphasis>primary</emphasis> and <emphasis>second themes</emphasis> are played in the tonic; all of the musical material is united within one key. A concluding section, called a <term>Coda</term>, typically rounds out the movement.</para>
+    <para id="id10244923">Many themes in the classical era were comprised of two halves of equal length. The Finale of Mozart’s <emphasis>Symphony No. 39 </emphasis>opens with a balanced theme:</para>
+    <example id="element-695"><media id="idm8812576" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex1.mp3" id="ex1" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 39 in E-flat Major, IV"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example>
+    <example id="element-949"><para id="element-535">The primary theme of <emphasis>Mozart’s Symphony No. 40 in g-minor</emphasis> could have been symmetric.
+
+	</para>
+
+<media id="idm10781968" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex2.mp3" id="ex2" mime-type="audio/mpeg"><param name="composer" value=""/><param name="title" value="Example 2"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media>
+</example>
+    
+    <example id="element-93"><para id="element-717">However, it isn’t: It is extended, leading to an emphatic cadence. Many of Mozart’s symphonic themes are asymmetric, but this theme has another idiosyncrasy: The extension causes the theme to <emphasis>overlap</emphasis> or <emphasis>elide</emphasis> with the music that follows. At the opening, a motoric accompaniment introduced the theme. When the theme repeats, it’s the other way round: The theme enters <emphasis>first</emphasis>, followed by the accompaniment.
+	</para>
+<media id="idm452256" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex3.mp3" id="ex3" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 40 in g-minor, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example><example id="element-842"><para id="element-590">
+Rather than ignoring or overlooking these idiosyncrasies, Mozart <term>amplifies</term> them in the rest of the movement. For instance, when the <emphasis>second theme</emphasis> is first played, it is symmetric:
+	</para>
+<media id="idp3677056" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex4.mp3" id="ex4" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 40 in g-minor, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example>
+    <example id="element-911"><para id="element-624">
+		However, when it is immediately repeated, Mozart adds an <emphasis>extension</emphasis>.
+	</para>
+<media id="idm10524432" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex5.mp3" id="ex5" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 40 in g-minor, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example>
+    <example id="element-674"><para id="element-456">
+		A transition typically separates the first and second themes in an exposition. In <emphasis>Symphony No. 40</emphasis> , the transition is rather short:
+	</para>
+<media id="idm9852960" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex6.mp3" id="ex6" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 40 in g-minor, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example>
+    <example id="element-332"><para id="element-54">
+		In the recapitulation, Mozart could have easily reused this transition by reworking it slightly. However, instead of a “routine” transition, Mozart more than doubles its length, offering some of the most dynamic music of the entire piece.
+	</para>
+<media id="idm10139008" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex7.mp3" id="ex7" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 40 in g-minor, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example>
+    <example id="element-101"><para id="element-628">
+		Just as there are <emphasis>extensions</emphasis> throughout the movement, so there are <emphasis>elisions</emphasis>. For instance, in the development sections, the lower strings “step on the toes” of the upper ones by entering sooner than expected.
+	</para>
+<media id="idm762880" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex8.mp3" id="ex8" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 40 in g-minor, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example><para id="id2912269">In a typical Sonata Form, the <term>recapitulation</term> is a great moment of affirmation: Stability is emphatically restored with the return of the tonic.</para>
+    
+    <example id="element-665"><para id="element-15">
+In this piece, the<term/>boundary between the <term>development </term>and the <term>recapitulation</term> is not so clear. Instead, the <emphasis>development </emphasis>and <emphasis>recapitulation</emphasis> overlap: Once again, the theme anticipates its accompaniment; as a result, the crucial tonic harmony does not arrive until the theme has already started.
+	</para>
+<media id="idm2257088" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex9.mp3" id="ex9" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Symphony No. 40 in g-minor, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 436 421-2"/><param name="performer" value="The Cleveland Orchestra, Christoph von Dohnanyi"/></audio></media>
+</example><para id="id10756543">Thus, the asymmetry of Mozart’s theme has <emphasis>deformed</emphasis> the anticipated behavior of the form. Rather than being perfectly balanced, the form resists equilibrium: It is twisted into surprising shapes by the elisions and extensions. </para>
+    <para id="id9918589">Mozart’s piece makes such a strong impact because of the depth of commitment to its material. Long before life coaches, music such as this has been telling us: “Be true to yourself.”   </para>
+    <para id="id10626405">We now turn our attention to an unusual <term>fugue</term>. Like a canon, a <term>fugue </term>is based on melodic imitation<term>. </term>However,<term/>in a <term>canon</term>, one voice leads and the others follow from beginning to end. In a <term>fugue</term>, the lead changes hands. </para>
+    <para id="id8360208">In traditional terminology, the sections where the complete theme—called the <term>fugue subject</term>-- is stated are called <term>expositions</term>; these are rooted in a specific key. The sections where the lead changes hands —and the music changes keys--are called <term>episodes</term>. 
+
+</para>
+    <para id="element-182">The opening exposition generally stays in the tonic key until all of the voices have entered.  This establishes the “home key,” from which the music then departs and to which it eventually returns.
+
+</para><para id="id7197078">The <term>fugue subject</term>—is typically drawn from the Major or minor scales.  Often, the keys of the expositions are chosen so that, taken as a whole, the sum of the fugue statements adds up to the notes of the scale from which the subject is drawn.   Thus, in a fugue in C-Major, the sum total of all the statements will reproduce the C-Major scale (or at least come close).  
+
+</para>
+    <para id="id10230705">So far, we have described the design of a traditional fugue. The first movement of Bela Bartok’s <emphasis>Music for Strings, Percussion and Celeste</emphasis> departs from the standard model.</para>
+    <para id="id9272561">Bartok’s subject is not based on the Major or minor scales. Instead, it is <emphasis>chromatic</emphasis>—that is, the notes are pressed closely together, with no open spaces. In <emphasis>Listen</emphasis>, Joseph Kerman describes the theme as “tentative, circuitous and troubled.”</para>
+    <para id="id9539785">The imitation of the subject progresses in an unorthodox way. Rather than initially remaining within a home key, the motion away from the starting point is accelerated: The voices enter in pairs, fanning out symmetrically above and below the original statement, until the subject has been played on all twelve notes of the chromatic scale.  Here is the fugue statement, followed by the first two imitations, one above and one below the original entry.</para>
+    <example id="element-526"><media id="idp3352944" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex10.mp3" id="ex10" mime-type="audio/mpeg"><param name="composer" value="Béla Bartok"/><param name="title" value="Music for Strings, Percussion and the Celeste, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Arte Nova Classics 277600"/><param name="performer" value="SWR Symphony Orchestra, Zoltán Peskó"/></audio></media>
+
+</example>
+    <example id="element-166"><para id="element-883">
+The music gets louder and louder as the entrances progress, culminating in a powerful arrival at the twelfth and final entrance. Instead of the complete subject, Bartok only plays fragments and—climactically—dwells on the note E-flat—the pitch on which the symmetrically arranged entrances have converged.
+	</para>
+<media id="idp288896" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex11.mp3" id="ex11" mime-type="audio/mpeg"><param name="composer" value="Béla Bartok"/><param name="title" value="Music for Strings, Percussion and the Celeste, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Arte Nova Classics 277600"/><param name="performer" value="SWR Symphony Orchestra, Zoltán Peskó"/></audio></media>
+</example><para id="id6911293">At the climax, Bartok flips the theme upside down—or i<emphasis>nverts</emphasis> it. He then retraces his steps back to the work’s starting point. </para>
+    
+    <example id="element-905"><para id="element-249">
+		In the excerpt that follows, you will hear the two penultimate <emphasis>inverted</emphasis> entries, which overlap, followed by the return to the original transposition. At the return, Bartok plays the theme right side up and inverted simultaneously. To reinforce the return, the celeste—a bell-like keyboard instrument—enters for the first time.
+	</para>
+<media id="idm2738816" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex12.mp3" id="ex12" mime-type="audio/mpeg"><param name="composer" value="Béla Bartok"/><param name="title" value="Music for Strings, Percussion and the Celeste, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Arte Nova Classics 277600"/><param name="performer" value="SWR Symphony Orchestra, Zoltán Peskó"/></audio></media>
+</example>
+    <example id="element-33"><para id="element-576">
+		At the close of the movement, the texture thins. Finally, the second phrase of the theme is played right side up and upside down, note against note in slow motion:
+	</para>
+<media id="idp4487296" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex13.mp3" id="ex13" mime-type="audio/mpeg"><param name="composer" value="Béla Bartok"/><param name="title" value="Music for Strings, Percussion and the Celeste, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Arte Nova Classics 277600"/><param name="performer" value="SWR Symphony Orchestra, Zoltán Peskó"/></audio></media>
+</example><para id="id11519469">By doing so, Bartok makes explicit an implicit feature of his theme: The second phrase is made up of a chromatic cluster that spans half of an octave. Its mirror is made up of the other half of the octave. Play the two clusters together and you get the complete chromatic scale. Not only that, but the note-against-note voices are combined so that they reproduce exactly the paired transpositions of the theme. Thus, this final statement reproduces the entire movement in microcosm. 
+
+</para>
+    <para id="id5633526">Describing the ending, Joseph Kerman writes: “When the celesta fades away, all that remains is a thinning group of string instruments...They seem to be searching or yearning for a resting point. In the cadence at the very end, which has become famous for its sense of simple, hushed relief, they find just that.”</para>
+    <para id="id11210068">The soft dynamic, as well as the slowness and spareness of the music contribute to the feeling of “simple, hushed relief.” The fact that the final phrase begins and ends on the pitch with which the movement opened—A-natural—contributes to the sense of a final “resting point.”</para>
+    <para id="id9516200">But what about Kerman’s word “famous”? Cadences in classical music tend to follow well-established formulas. For this work, Bartok has designed a cadence that applies <emphasis>uniquely</emphasis> to this work. If the final phrase began and ended on a different pitch than A, it might seem arbitrary:</para>
+    <example id="element-424"><media id="idp4395696" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex14.mp3" id="ex14" mime-type="audio/mpeg"><param name="composer" value="Béla Bartok"/><param name="title" value="Music for Strings, Percussion and the Celeste, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Arte Nova Classics 277600"/><param name="performer" value="SWR Symphony Orchestra, Zoltán Peskó"/></audio></media>
+</example>
+    <example id="element-87"><para id="element-364">If the phrase were played in unison rather than in mirror, it might sound incomplete:
+	</para>
+<media id="idm213840" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/shapesform/ex15.mp3" id="ex15" mime-type="audio/mpeg"><param name="composer" value=""/><param name="title" value="Example 15"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media>
+</example><para id="id9528810">Bartok’s ending is a perfect summary of the musical action that has preceded it. The final phrase even expands to the pitch E-flat—the same note with which the whole movement climaxed. Consciously or unconsciously, we acknowledge the union of material and form in our emotional response. If the concluding cadence were different, it would not seem as true. </para>
+    <para id="id2922233">Bartok adopted a traditional technique—<term>fugue</term>—but applied it with an unusual way. The more chromatic nature of his theme altered the way the fugue would normally progress.  As in the Mozart, the <emphasis>identity</emphasis> of the material had an impact on the <emphasis>life</emphasis> of the material: The theme engendered its form.   Bartok encapsulates this correspondence in his final cadence.</para>
+    <para id="id7974647">Thus, form can amplify the identity of a material, projecting it on a larger time-scale. It can magnify irregularities, making them more tangible. It can allow time for the implicit to become explicit. </para>
+    
+    <para id="id11000356">A fulfilling piece of music is a model for a fulfilling life: In showing us how identity can shape form, music can give us direction about how to compose own destinies.</para>
+
+<para id="element-133">Throughout “Sound Reasoning,” we have focused on how much you can hear, even at a first listening. Connecting material to form requires repeated listening and careful reflection.  This topic thus places us on the threshold of more advanced study, where analysis takes place outside of time and studying the score is a great aid.  One of the best motivations for close analysis is that it can reveal how material and form are interconnected.</para><section id="Conclusion">
+<title>Conclusion</title>
+<para id="element-656">In the Introductory portion of “Sound Reasoning,” we postulated that  
+musical intelligibility is rooted in repetition.   The most basic  
+popular music is primarily expository: Repetition is literal and  
+complete.  Art music tends to be much more developmental: Repetition  
+is often varied and transformed.   Therefore, in order to understand  
+more fully understand the content of music that develops, you must be  
+conversant in the “language of transformation.”  The preceding  
+modules have explored the means with which dynamic repetition is  
+created.
+</para><para id="element-374">To write music that is primarily expository, composers take on the  
+challenge of creating memorable material; that takes great skill and  
+inspiration.
+To write music that develops, composers must not only work to create  
+compelling material: Like Dr. Frankenstein trying to breathe life  
+into inanimate matter, they strive to bring the material more  
+actively to life.  Dr. Frankenstein pinned his hopes on a bolt of  
+lightning; composers depend on dynamic repetition. The larger  
+features of a piece of music—its balance of expository and  
+developmental sections, its continuities and contrasts, the placement  
+and character of its recurrences, its overall destiny—are all  
+produced through the layout, progress and effect of dynamic  
+repetition.   In the final module of this section, “How Material  
+Engenders Its Form,” we studied how the “fate” of the material—what  
+happens to it in the course of the composition—can be drawn from the  
+nature of the material itself.
+</para><para id="element-127">Once you speak the language of transformation, you will be able to  
+follow the action in music that develops.  Alert to the intensity of  
+its motion and change, this music should never again sound dull or  
+staid.</para>
+</section>
+  </content>
+</document>

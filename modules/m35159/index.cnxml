@@ -1,0 +1,121 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Expressing Harmony</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35159</md:content-id>
+  <md:title>Listening Gallery: Expressing Harmony</md:title>
+  <md:abstract/>
+  <md:uuid>d1e75595-ba4b-4841-9c69-a717f9d8c02d</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-836">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="delete_me">For each exercise, decide if both excerpts follow the <emphasis>identical</emphasis> progression. </para><exercise id="eip-264"><q:item id="item_handel" type="single-response">
+		<q:question>
+			<section id="s_handel">
+				<para id="p_handel"> 
+<media id="id1594805" alt="" display="block"><audio src="Handel02" id="Handel02" mime-type="audio/mpeg"><param name="composer" value="Handel"/><param name="title" value="Suite in E-major, HWV 430"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Philips"/><param name="performer" value="Alicia de Laroccha, piano"/></audio></media>
+</para>
+				<media id="id1169569303186" alt="" display="block"><audio src="Handel03" id="Handel03" mime-type="audio/mpeg"><param name="composer" value="Handel"/><param name="title" value="Suite in E-major, HWV 430"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Philips"/><param name="performer" value="Alicia de Laroccha, piano"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="Handel_Yes"><q:response>Yes, Excerpt 1 and Excerpt 2 share the same harmonic progression.</q:response></q:answer>
+
+		<q:answer id="Handel_No"><q:response>No, Excerpt 1 and Excerpt 2 have different harmonic progressions.</q:response></q:answer>
+
+		<q:feedback>This theme and variation share the same harmonic progression.</q:feedback>
+
+		<q:key answer="Handel_Yes"/>
+	</q:item>
+</exercise><exercise id="eip-837"><q:item id="item_schubert" type="single-response">
+		<q:question>
+			<section id="s_schubert">
+				<para id="p_schubert"> 
+<media id="id1594805a" alt="" display="block"><audio src="Schubert19" id="Schubert19" mime-type="audio/mpeg"><param name="composer" value="Schubert"/><param name="title" value="Quintet in A-Major for Piano and Strings, 'Trout'"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Bridge Records"/><param name="performer" value="Budapest String Quartet, Artur Balsam, piano"/></audio></media>
+</para>
+				<media id="id1169569303186a" alt="" display="block"><audio src="Schubert04" id="Schubert04" mime-type="audio/mpeg"><param name="composer" value="Schubert"/><param name="title" value="Quintet in A-Major for Piano and Strings, 'Trout'"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Bridge Records"/><param name="performer" value="Budapest String Quartet, Artur Balsam, piano"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="Schubert_Yes"><q:response>Yes, Excerpt 1 and Excerpt 2 share the same harmonic progression.</q:response></q:answer>
+
+		<q:answer id="Schubert_No"><q:response>No, Excerpt 1 and Excerpt 2 have different harmonic progressions.</q:response></q:answer>
+
+		<q:feedback>This theme and variation share the same harmonic progression.</q:feedback>
+
+		<q:key answer="Schubert_Yes"/>
+	</q:item>
+</exercise><exercise id="eip-323"><q:item id="item_reger" type="single-response">
+		<q:question>
+			<section id="s_reger">
+				<para id="p_reger"> 
+<media id="id1594805b" alt="" display="block"><audio src="Reger01" id="Reger01" mime-type="audio/mpeg"><param name="composer" value="Max Reger"/><param name="title" value="Maria Wiegenlied"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Newport Classics"/><param name="performer" value="Karol Bennett, soprano, John McDonald, piano"/></audio></media>
+</para>
+				<media id="id1169569303186b" alt="" display="block"><audio src="Reger02" id="Reger02" mime-type="audio/mpeg"><param name="composer" value="Max Reger"/><param name="title" value="Maria Wiegenlied"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Newport Classics"/><param name="performer" value="Karol Bennett, soprano, John McDonald, piano"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="Reger_Yes"><q:response>Yes, Excerpt 1 and Excerpt 2 share the same harmonic progression.</q:response></q:answer>
+
+		<q:answer id="Reger_No"><q:response>No, Excerpt 1 and Excerpt 2 have different harmonic progressions.</q:response></q:answer>
+
+		<q:feedback>The second verse includes an insertion before rejoining the original harmonic progression.</q:feedback>
+
+		<q:key answer="Reger_No"/>
+	</q:item>
+</exercise><exercise id="eip-468"><q:item id="item_mozart" type="single-response">
+		<q:question>
+			<section id="s_mozart">
+				<para id="p_mozart"> 
+<media id="id1594805c" alt="" display="block"><audio src="Mozart11" id="Mozart11" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Sonata in A-major, K. 331"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Philips"/><param name="performer" value="Alicia de Larrocha, piano"/></audio></media>
+</para>
+				<media id="id1169569303186c" alt="" display="block"><audio src="Mozart01" id="Mozart01" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Sonata in A-major, K. 331"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Philips"/><param name="performer" value="Alicia de Larrocha, piano"/></audio></media>
+</section>
+		</q:question>
+
+		<q:answer id="Mozart_Yes"><q:response>Yes, Excerpt 1 and Excerpt 2 share the same harmonic progression.</q:response></q:answer>
+
+		<q:answer id="Mozart_No"><q:response>No, Excerpt 1 and Excerpt 2 have different harmonic progressions.</q:response></q:answer>
+
+		<q:feedback>Both excerpts are variations on the same theme and preserve its harmony.</q:feedback>
+
+		<q:key answer="Mozart_Yes"/>
+	</q:item>
+</exercise><exercise id="eip-484"><q:item id="item_bach" type="single-response">
+		<q:question>
+			<section id="s_bach">
+				<para id="p_bach"> 
+<media id="id1594805e" alt="" display="block"><audio src="Bach29" id="Bach29" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Johannes Passion"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Harmonia Mundi"/><param name="performer" value="Collegium Vocale, Philippe Herreweghe, conductor"/></audio></media>
+</para>
+				<media id="id1169569303186e" alt="" display="block"><audio src="Bach28" id="Bach28" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Johannes Passion"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Harmonia Mundi"/><param name="performer" value="Collegium Vocale, Philippe Herreweghe, conductor"/></audio></media>			</section>
+		</q:question>
+
+		<q:answer id="Bach_Yes"><q:response>Yes, Excerpt 1 and Excerpt 2 share the same harmonic progression.</q:response></q:answer>
+
+		<q:answer id="Bach_No"><q:response>No, Excerpt 1 and Excerpt 2 have different harmonic progressions.</q:response></q:answer>
+
+		<q:feedback>These excerpts are settings of the same Chorale melody but they are harmonized differently.</q:feedback>
+
+		<q:key answer="Bach_No"/>
+	</q:item>
+</exercise><exercise id="eip-681"><q:item id="item_beethoven" type="single-response">
+		<q:question>
+			<section id="s_beethoven">
+				<para id="p_beethoven"> 
+<media id="id1594805f" alt="" display="block"><audio src="Beethoven13" id="Beethoven13" mime-type="audio/mpeg"><param name="composer" value="Beethoven"/><param name="title" value="Variations in E-flat major, Opus 35"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Philips"/><param name="performer" value="Alfred Brendel, piano"/></audio></media>
+</para>
+				<media id="id1169569303186f" alt="" display="block"><audio src="Beethoven14" id="Beethoven14" mime-type="audio/mpeg"><param name="composer" value="Beethoven"/><param name="title" value="Symphony No. 3 in E-flat major, 'Eroica,' - IV"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Cleveland Orchestra, George Szell"/></audio></media>			</section>
+		</q:question>
+
+		<q:answer id="Beethoven_Yes"><q:response>Yes, Excerpt 1 and Excerpt 2 share the same harmonic progression.</q:response></q:answer>
+
+		<q:answer id="Beethoven_No"><q:response>No, Excerpt 1 and Excerpt 2 have different harmonic progressions.</q:response></q:answer>
+
+		<q:feedback>These variations - one for piano, the other for orchestra - are based on the same harmonic progression.</q:feedback>
+
+		<q:key answer="Beethoven_Yes"/>
+	</q:item>
+</exercise>
+</content>
+
+</document>

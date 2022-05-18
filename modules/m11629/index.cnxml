@@ -1,0 +1,348 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+    <title>Musical Form</title>
+    <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>05b70822-2fea-4857-86f7-2bb2fbdac629</md:uuid>
+</metadata>
+    
+  <content>
+    <note id="idm11173488">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><section id="s1">
+      <title>Grasping the Whole Composition</title>
+      <para id="s1p1">
+	Driving through a city for the first time can be very
+	disorienting.  Building after building catches your eye.  You
+	circle past a monument, then a fountain.  Restaurants, hotels
+	and shops fly past. Trying to absorb and remember all of these
+	landmarks quickly becomes tiring.  Was the town square before
+	or after the park?  Did you pass a museum?  If you don't speak
+	the language, an extra anxiety sets in.  You try to decipher
+	the street signs, negotiate the traffic.  By the time you
+	arrive at the hotel, you fall on your bed, exhausted.
+      </para>
+      <para id="s1p2">
+	Similarly, it is easy to get lost in the moment-to-moment
+	progress of a piece of music: There are often too many details
+	to remember, too many implications to contemplate.  If the
+	work is particularly dynamic, you may become overwhelmed with
+	its rapid progress.  If the musical language is unfamiliar,
+	even one poorly understood sound may throw you into confusion.
+      </para>
+      <para id="s1p3">In your visit to a new city, it is wiser to begin with an
+	overview of the neighborhoods. First, you notice that you are
+	traversing the old town, where the buildings are closely
+	packed together and the streets narrow and winding. Then, you
+	pass into the modern section, with sleek high-rises, set apart
+	along straight thoroughfares.  You don't need to speak the
+	language; nor is there the pressure to remember facades or
+	street-names.  Later, you may revisit the old town on foot,
+	discovering quiet alleys and ancient monuments. But, for now,
+	you content yourself with a general sense of the city's
+	layout: How large is the old town compared to the new? How
+	much variety of architecture characterizes each neighborhood?
+	This more patient, disciplined approach helps to orient your
+	future explorations.  It will be harder to get lost or
+	overwhelmed when you have a commanding sense of the city's
+	geography.
+      </para>
+      <para id="s1p4">
+	Similarly, the path to informed listening begins with a grasp
+	of the whole composition.  There are tremendous advantages to
+	beginning with a commanding perspective: While details tend to
+	pass by very quickly; the overall trajectory of the music
+	unfolds more gradually, giving you more time to consider it.
+	The significance of an individual gesture is often clearer
+	when related to the work's overall destiny.  And, while the
+	immediate sounds are bristling with personality and may be
+	difficult to grasp, the larger structure is often easier to
+	hear accurately.
+      </para>
+      <para id="s1p5">
+	Thus, we will approach listening to a piece of music by moving
+	from the whole into the details: We will begin by developing
+	an awareness of the composition's form and destiny, then
+	gradually sink into the details with a stronger sense of their
+	relevance.
+      </para>
+    </section>
+    <section id="s2">
+      <para id="s2p1">
+	Musical form is the wider perspective of a piece of music.  It
+	describes the layout of a composition as divided into
+	sections, akin to the layout of a city divided into
+	neighborhoods.
+      </para>
+      <para id="s2p2">
+	Musical works may be classified into two formal types: A and
+	A/B.  Compositions exist in a boundless variety of styles,
+	instrumentation, length and content--all the factors that make
+	them singular and personal.  Yet, underlying this
+	individuality, any musical work can be interpreted as either
+	an A or A/B-form.
+      </para>
+      <para id="s2p3">
+	An <term>A-form</term> emphasizes
+	<emphasis>continuity</emphasis> and
+	<emphasis>prolongation</emphasis>.  It flows, unbroken, from
+	beginning to end.  In a unified neighborhood, wander down any
+	street and it will look very similar to any other.  Similarly,
+	in an A-form, the music has a recognizable consistency.
+      </para>
+      <para id="s2p4">
+	The other basic type is the <term>A/B-form</term>.  Whereas
+	A-forms emphasize continuity, A/B-forms emphasize
+	<emphasis>contrast</emphasis> and
+	<emphasis>diversity</emphasis>.  A/B-forms are clearly broken
+	up into sections, which differ in aurally immediate ways.  The
+	sections are often punctuated by silences or resonant pauses,
+	making them more clearly set off from one another.  Here, you
+	travel among neighborhoods travels that are noticeably
+	different from one another: The first might be a residential
+	neighborhood, with tree-lined streets and quiet cul-de-sacs.
+	The next is an industrial neighborhood, with warehouses and
+	smoke-stacks.
+      </para>
+      <para id="s2p5">
+	The prime articulants of form are <term>rhythm</term> and
+	<term>texture</term>.  If the rhythm and texture remain
+	constant, you will tend to perceive an A-form.  If there is a
+	marked change in rhythm or texture, you will tend to perceive
+	a point of contrast--a boundary, from which you pass into a
+	new neighborhood.  This will indicate an A/B-form.
+      </para>
+      <para id="s2p6">
+	Listen to the following examples.  What is the form of
+	each?
+      </para>
+      <exercise id="s2e1">
+	<q:item type="single-response" id="s2e1i">
+	  <q:question>
+	    <section id="s2e1qs1">
+	      <para id="s2e1qs1p1">
+		What is the form? 
+	      </para>
+	      <!--Missing: total time, label number, performer-->
+	      <media id="idm10241984" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Schumann__Piano_Quartet_in_E-flat_Major_I.mp3" id="s2e1music1" mime-type="audio/mpeg"><param name="composer" value="Schumann"/><param name="title" value="Piano Quartet in E-flat Major, I"/><param name="comments" value="excerpt"/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media>
+	    </section>
+	  </q:question>
+	  <q:answer id="s2e1a1">
+	    <q:response>
+	      A-form
+	    </q:response>
+	    <q:feedback>
+	      Are you sure?  Try listening to the example again.
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="s2e1a2">
+	    <q:response>
+	      A/B-form
+	    </q:response>
+	    <q:feedback>
+	      <section id="s2e1a2s1">
+		<para id="s2e1a2s1p1">
+		  The Schumann is an example of an A/B-form.  As the
+		  music commences, the pace is languorous.  The
+		  strings and piano move together.
+		</para>
+		<para id="s2e1a2s1p2">
+		  Then, there is a strong musical punctuation: The
+		  music that follows is faster; the strings and piano
+		  move in alternation.
+		</para>
+		<para id="s2e1a2s1p3">
+		  Just because the two sections contrast with each
+		  other doesn't mean they have nothing in common.  If
+		  you chose A-form as a response, it may have been
+		  that you recognized that the two sections are
+		  closely related: the B-section's melody is a speeded
+		  up version of that of A's; the key of both sections,
+		  E-flat Major, is identical.
+		</para>
+		<para id="s2e1a2s1p4">
+		  However, the contrast in rhythm and texture is too
+		  strong to overlook.  A clear division between
+		  sections is created: It would be impossible to
+		  accurately describe the music without it.
+		</para>
+	      </section>
+	    </q:feedback>
+	  </q:answer>
+	  <q:key answer="s2e1a2"/>
+	</q:item>
+      </exercise>
+      <exercise id="s2e2">
+	<q:item type="single-response" id="s2e2i">
+	  <q:question>
+	    <section id="s2e2qs1">
+	      <para id="s2e2qs1p1">
+		What is the form? 
+	      </para>
+	      <!--Missing: total time, label number, performer-->
+	      <media id="idm3635024" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Bach__Prelude_in_G_major_Well_Tempered_Clavier_Book_I.mp3" id="s2e2music1" mime-type="audio/mpeg"><param name="composer" value="Bach"/><param name="title" value="The Well-Tempered Clavier, Book I"/><param name="comments" value="Prelude in G-Major"/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media>
+	    </section>
+	  </q:question>
+	  <q:answer id="s2e2a1">
+	    <q:response>
+	      A-form
+	    </q:response>
+	    <q:feedback>
+	      <section id="s2e2a1s1">
+		<para id="s2e2a1s1p1">
+		  The Bach, unlike the Schumann, is an example of an
+		  A-form. The rhythm is unbroken from beginning to
+		  end, moving fleetly without interruption or change.
+		  The texture is similarly steady.  If there were a
+		  B-section, where would it begin?  --There is no
+		  point of punctuation.
+		</para>
+		<para id="s2e2a1s1p2">
+		  However, just because it is an A-form doesn't mean
+		  that nothing novel or exciting happens.  Bach's
+		  melodic development is wonderfully inventive and
+		  lively, and the music is harmonically active.  A lot
+		  happens in a short amount of time.  Nevertheless,
+		  the consistency of rhythm and texture, and the fact
+		  that the continuity is unbroken--the piece never
+		  pauses--support an analysis of this movement as an
+		  A-form.
+		</para>
+	      </section>
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="s2e2a2">
+	    <q:response>
+	      A/B-form
+	    </q:response>
+	    <q:feedback>
+	      Are you sure?  Try listening to the example again.
+	    </q:feedback>
+	  </q:answer>
+	  <q:key answer="s2e2a1"/>
+	</q:item>
+      </exercise>
+      <exercise id="s2e3">
+	<q:item type="single-response" id="s2e3i">
+	  <q:question>
+	    <section id="s2e3qs1">
+	      <para id="s2e3qs1p1">
+		Now consider a work in a less familiar style.  What is
+		its form?
+	      </para>
+	      <!--Missing: total time, label number, performer-->
+	      <media id="idm732912" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Boulez__Notations_4th_Movement.mp3" id="s2e3music1" mime-type="audio/mpeg"><param name="composer" value="Boulez"/><param name="title" value="Notations for piano"/><param name="comments" value="IV"/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media>
+	    </section>
+	  </q:question>
+	  <q:answer id="s2e3a1">
+	    <q:response>
+	      A-form
+	    </q:response>
+	    <q:feedback>
+	      <section id="s2e3a1s1">
+		<para id="s2e3a1s1p1">
+		  The Boulez and Bach share a lot in common: In both,
+		  the rhythmic speed and texture remain constant.
+		  Furthermore, in the Boulez, there is an insistently
+		  repeating melodic figure--known as an
+		  <term>ostinato</term>--which stretches from
+		  beginning to end.  The Boulez is an example of an
+		  A-form.
+		</para>
+		<para id="s2e3a1s1p2">
+		  Microscopically, there is a lot of diversity in this
+		  movement.  While the ostinato is a point of
+		  reference, the music around it is constantly
+		  changing.  Listening to it moment by moment, the
+		  music is filled with unpredictable events.  However,
+		  the freshness of ideas is very circumscribed: There
+		  are no dramatic changes of speed, register or
+		  density.  Stepping back to a wider perspective, the
+		  momentary gestures can be heard as an intricate
+		  shimmer; they unsettle but do not displace the
+		  movement's continuity.
+		</para>
+		<para id="s2e3a1s1p3">
+		  The sounds of this movement may have been very
+		  unfamiliar to you.  However, if this exercise was
+		  successful, you were able to follow the piece
+		  through to its completion and analyze its structure.
+		  Its language may still seem remote and intangible.
+		  Nevertheless, on first hearing, you already know
+		  something very crucial about the work: It prolongs a
+		  single idea.  You have gained a point of orientation
+		  for future hearings.
+		</para>
+	      </section>
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="s2e3a2">
+	    <q:response>
+	      A/B-form
+	    </q:response>
+	    <q:feedback>
+	      Are you sure?  Try listening to the example again.
+	    </q:feedback>
+	  </q:answer>
+	  <q:key answer="s2e3a1"/>
+	</q:item>
+      </exercise>
+    </section>
+    <section id="s3">
+      <title>Labeling the Forms</title>
+      <para id="s3p1">
+	It is conventional to give alphabetic labels to the sections
+	of a composition: A, B, C, <foreign>etc</foreign>.  If a
+	section returns, its letter is repeated: for instance, "A-B-A"
+	is a familiar layout in classical music.
+	</para>
+      <para id="s3p2">
+	As the unbroken form, A-forms come only in a single variety.
+	They may be long or short, but they are always "A".
+      </para>
+      <para id="s3p3">
+	As the contrast form, A/B-forms come in a boundless array of
+	possibilities.  There may be recurring sections, unique ones,
+	or any combination of both.  For instance, a
+	<term>Rondo</term>--a popular form in Classical
+	music--consists of an alternation of a recurring section and
+	others that occur once each.  It would be labelled
+	A-B-A-C-A-D-A, <foreign>etc</foreign>.  Many twentieth-century
+	composers became fascinated with arch-forms: A-B-C-B-A.
+      </para>
+      <para id="s3p4">
+	An on-going form, with no recurrence whatsoever, is also
+	possible: A-B-C-D-E...  Any sequence of recurring and unique
+	sections may occur.
+      </para> <!--need to change this to an
+	exercise with problem and solution-->
+      <example id="s3e1">
+	<para id="s3e1p1">
+	  How would you describe the following form?  First, click
+	  when you hear a new section. Then, use the pull-down
+	  menu to label each section.
+	</para>
+	<!--Missing: interactive file, total time-->
+	<media id="idm10489456" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Beethoven__Sonata_no_13_opus27_no1_II.mp3" id="s3e1music1" mime-type="audio/mpeg"><param name="composer" value="Beethoven"/><param name="title" value="Sonata no. 13 in E-flat Major, Opus 27, no. 1"/><param name="comments" value="II"/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/musical_form/Beethoven__Sonata_no_13_opus27_no1_II.tt"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/musical_form/Beethoven__Sonata_no_13_opus27_no1_II.int"/><param name="total-time" value=""/><param name="label-number" value="Testament SBT 1189"/><param name="performer" value="Solomon Cutner"/></audio></media>
+	<para id="s3e1p2">
+	  This movement is labeled as an A-B-A form.  It opens with
+	  frantic, somber, rhythmically persistent music. The
+	  contrasting section has a lighter, more carefree feeling and
+	  a new prevailing rhythm.  Finally, the opening section
+	  returns exactly.
+	</para>
+      </example>
+    </section>
+    <section id="s4">
+      <title>Conclusion</title>
+      <para id="s4p1">
+	Understanding the layout of the city is crucial for exploring
+	it: once you understand its topography, you know how to find
+	its landmarks, where the places for recreation or business may
+	lie.  Similarly, determining the form of a piece will tell you
+	a lot about it.  If it is an A-form, your next focus will be
+	on the work's main ideas, and how they are extended across the
+	entire composition.  If it is an A/B-form, your next
+	investigations will be into the specific layout of sections
+	and the nature of the contrasts.
+      </para>
+      <para id="s4p2">
+      </para>
+    </section>
+  </content>
+</document>

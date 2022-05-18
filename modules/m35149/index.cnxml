@@ -1,0 +1,151 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Chromaticism</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35149</md:content-id>
+  <md:title>Listening Gallery: Chromaticism</md:title>
+  <md:abstract/>
+  <md:uuid>668e3f88-bdae-4121-b01e-d2635441bf4e</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-795">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="delete_me">Please listen to the following excerpts and indicate if they are completely diatonic, consisting only of the notes of the key, or include chromaticism.</para><exercise id="eip-892"><q:item id="item_strauss" type="single-response">
+		<q:question>
+			<section id="s_strauss">
+				<para id="p_strauss"> 
+<media id="id1594805" alt="" display="block"><audio src="Strauss01" id="Strauss01" mime-type="audio/mpeg"><param name="composer" value="Johann Strauss Jr."/><param name="title" value="Emperor Waltz, opus 437"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Philadelphia Orchestra, Eugene Ormandy, conductor"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="strauss_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="strauss_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is diatonic.</q:feedback>
+
+		<q:key answer="strauss_D"/>
+	</q:item>
+</exercise><exercise id="eip-304"><q:item id="item_strauss2" type="single-response">
+		<q:question>
+			<section id="s_strauss2">
+				<para id="p_strauss2"> 
+<media id="id1594806" alt="" display="block"><audio src="Strauss02" id="Strauss02" mime-type="audio/mpeg"><param name="composer" value="Johann Strauss Jr."/><param name="title" value="Emperor Waltz, opus 437"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Philadelphia Orchestra, Eugene Ormandy, conductor"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="rauss_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="rauss_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is chromatic.</q:feedback>
+
+		<q:key answer="rauss_C"/>
+	</q:item>
+</exercise><exercise id="eip-39"><q:item id="item_ber" type="single-response">
+		<q:question>
+			<section id="s_ber">
+				<para id="p_ber"> 
+<media id="id1594807" alt="" display="block"><audio src="Berlioz01" id="Berlioz01" mime-type="audio/mpeg"><param name="composer" value="Hector Berlioz"/><param name="title" value="'Sanctus' from Requiem"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="RCA RD86210(2)"/><param name="performer" value="Boston Symphony, Charles Munch, conductor"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="ber_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="ber_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is chromatic.</q:feedback>
+
+		<q:key answer="ber_C"/>
+	</q:item>
+</exercise><exercise id="eip-245"><q:item id="item_schum" type="single-response">
+		<q:question>
+			<section id="s_schum">
+				<para id="p_schum"> 
+<media id="id1594808" alt="" display="block"><audio src="Schumann06" id="Schumann06" mime-type="audio/mpeg"><param name="composer" value="Robert Schumann"/><param name="title" value="'A Song to Hum' from Album for the Young"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Ars Produktion"/><param name="performer" value="Christoph Hammer, fortepiano"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="schum_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="schum_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is diatonic.</q:feedback>
+
+		<q:key answer="schum_D"/>
+	</q:item>
+</exercise><exercise id="eip-960"><q:item id="item_hand" type="single-response">
+		<q:question>
+			<section id="s_hand">
+				<para id="p_hand"> 
+<media id="id1594809" alt="" display="block"><audio src="Handel05" id="Handel05" mime-type="audio/mpeg"><param name="composer" value="Georg Frederic Handel"/><param name="title" value="'Alla Hornpipe' from Water Music"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Alia Vox"/><param name="performer" value="Le Concert des Nations, Jordi Savall"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="hand_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="hand_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is diatonic.</q:feedback>
+
+		<q:key answer="hand_D"/>
+	</q:item>
+</exercise><exercise id="eip-739"><q:item id="item_pur" type="single-response">
+		<q:question>
+			<section id="s_pur">
+				<para id="p_pur"> 
+<media id="id15948010" alt="" display="block"><audio src="Purcell01" id="Purcell01" mime-type="audio/mpeg"><param name="composer" value="Henry Purcell"/><param name="title" value="Fantasia Upon One Note"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Alia Vox"/><param name="performer" value="Hesperion XX, Jordi Savall"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="pur_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="pur_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is chromatic.</q:feedback>
+
+		<q:key answer="pur_C"/>
+	</q:item>
+</exercise><exercise id="eip-96"><q:item id="item_strav" type="single-response">
+		<q:question>
+			<section id="s_strav">
+				<para id="p_strav"> 
+<media id="id15948011" alt="" display="block"><audio src="Stravinsky06" id="Stravinsky06" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinksy"/><param name="title" value="Petrouchka - I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon"/><param name="performer" value="Cleveland Orchestra, Pierre Boulez"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="strav_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="strav_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is diatonic.</q:feedback>
+
+		<q:key answer="strav_D"/>
+	</q:item>
+</exercise><exercise id="eip-509"><q:item id="item_zart" type="single-response">
+		<q:question>
+			<section id="s_zart">
+				<para id="p_zart"> 
+<media id="id15948013" alt="" display="block"><audio src="Mozart04" id="Mozart04" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Piano Concerto No. 17 in G-Major - II"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Murray Perahia, piano, English Chamber Orchestra"/></audio></media>
+</para>
+			</section>
+		</q:question>
+
+		<q:answer id="zart_D"><q:response>Diatonic</q:response></q:answer>
+
+		<q:answer id="zart_C"><q:response>Chromatic</q:response></q:answer>
+
+		<q:feedback>This excerpt is chromatic.</q:feedback>
+
+		<q:key answer="zart_C"/>
+	</q:item>
+</exercise>
+</content>
+
+</document>

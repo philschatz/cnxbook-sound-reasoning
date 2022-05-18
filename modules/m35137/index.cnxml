@@ -1,0 +1,48 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Hearing the Mode</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35137</md:content-id>
+  <md:title>Hearing the Mode</md:title>
+  <md:abstract/>
+  <md:uuid>7a35306d-638c-42a6-a89b-b94465f1f0e3</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166926522430"><emphasis>Common Practice tonality</emphasis> is essentially a two-party system: Music is either in Major or in minor. Composers can blur the situation by shifting quickly between modes or blending them. But, with rare exceptions, these modes are the only alternatives.</para>
+    <para id="id1166923931423">A <term>tonic cadence</term> gives the strongest indication of the music’s mode. Recognizing cadences in in Major and minor will help you distinguish between them.</para>
+    <para id="id1166923608004"><emphasis>Major:</emphasis></para>
+    <example id="eip-340"><media id="id1594805" alt="" display="block"><audio src="Bach23" id="Bach23" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Chorale 'Gloria sei dir gesungen' from Cantata No. 140"/><param name="comments" value="The Bach Ensemble, Joshua Rifkin, conductor"/><param name="total-time" value="15"/><param name="label-number" value="L'Osideau Lyre"/><param name="performer" value=""/></audio></media></example><para id="id1166925439843"><emphasis>Minor:</emphasis></para>
+    <example id="eip-210"><media id="id1594806" alt="" display="block"><audio src="Bach38" id="Bach38" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Chorale 'Herr, ich glaube, hilf mir Schwachen' from Cantata No. 78"/><param name="comments" value="The Bach Ensemble, Joshua Rifkin, conductor"/><param name="total-time" value="12"/><param name="label-number" value="L'Osideau Lyre"/><param name="performer" value=""/></audio></media></example><para id="id1166927053757">Also learn to recognize the different scales of which each mode is comprised:</para>
+    <para id="id1166930054770"><emphasis>Major:</emphasis></para>
+    
+    <example id="eip-131"><media id="id1594803" alt="" display="block"><audio src="Bach39" id="Bach39" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Brandenburg Concerto No. 3 in G-Major"/><param name="comments" value="New London Consort"/><param name="total-time" value="8"/><param name="label-number" value="L'osideau Lyre"/><param name="performer" value=""/></audio></media>
+
+<media id="id1594804" alt="" display="block"><audio src="Beethoven51" id="Beethoven51" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Symphony No. 5, 'Finale'"/><param name="comments" value="Cleveland Orchestra, George Szell, conductor"/><param name="total-time" value="9"/><param name="label-number" value="Sony Classical"/><param name="performer" value=""/></audio></media>
+</example><para id="id1166929028327"><emphasis>Minor:</emphasis></para>
+    <example id="eip-700"><media id="id1594800" alt="" display="block"><audio src="Bach34" id="Bach34" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Johannes Passion"/><param name="comments" value="Collegium Vocale, Philippe Herreweghe, conductor"/><param name="total-time" value="7"/><param name="label-number" value="Harmonia Mundi"/><param name="performer" value=""/></audio></media>
+
+<media id="id1594801" alt="" display="block"><audio src="Bach21" id="Bach21" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Two-part Invention in d-minor"/><param name="comments" value="Peter Serkin, piano"/><param name="total-time" value="10"/><param name="label-number" value="RCA Victor"/><param name="performer" value=""/></audio></media>
+
+
+
+<media id="id1594802" alt="" display="block"><audio src="Schubert23" id="Schubert23" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Quartet in d-minor, 'Death and the Maiden'"/><param name="comments" value="Budapest String Quartet"/><param name="total-time" value="15"/><param name="label-number" value="CBS Masterworks MOK 45969"/><param name="performer" value=""/></audio></media></example><para id="id1166923893974">There are other perceptual cues that aid in discriminating between the modes. Major and minor are often characterized differently. There is so much variety that any prescriptions are inevitably simplistic. Nevertheless, compared to music in Major, music in minor tends to be <emphasis>low, slow</emphasis> and <emphasis>constrained in register</emphasis>; or more <emphasis>frantic, tense</emphasis> and <emphasis>disjunct</emphasis>. Here are some prototypical examples of music in each mode:</para>
+    
+    <para id="id7983663"><emphasis>Music in Major:</emphasis></para>
+    <example id="eip-636"><media id="id1594807" alt="" display="block"><audio src="Bach27" id="Bach27" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Chorale 'Jesu bleibet meine Freude' from Cantata No. 147"/><param name="comments" value="The Bach Ensemble, Joshua Rifkin, conductor"/><param name="total-time" value="20"/><param name="label-number" value="L'Osideau Lyre"/><param name="performer" value=""/></audio></media>
+
+<media id="id1594808" alt="" display="block"><audio src="Mozart26" id="Mozart26" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Piano Concerto No. 21 in C-Major, 'Elvira Madigan,' - II"/><param name="comments" value="Murray Perahia, piano, English Chamber Orchestra"/><param name="total-time" value="32"/><param name="label-number" value=""/><param name="performer" value=""/></audio></media>
+
+<media id="id1594809" alt="" display="block"><audio src="Berlioz04" id="Berlioz04" mime-type="audio/mpeg"><param name="composer" value="Hector Berlioz"/><param name="title" value="Symphonie Fantastique - IV"/><param name="comments" value="Boston Symphony, Charles Munch, conductor"/><param name="total-time" value="26"/><param name="label-number" value="RCA RD86210(2)"/><param name="performer" value=""/></audio></media>
+
+<media id="id15948010" alt="" display="block"><audio src="Schoenberg01" id="Schoenberg01" mime-type="audio/mpeg"><param name="composer" value="Arnold Schoenberg"/><param name="title" value="Verklarte Nacht"/><param name="comments" value="Ensemble Intercontemporain, Pierre Boulez, conductor"/><param name="total-time" value="31"/><param name="label-number" value="Sony Classical 48 465"/><param name="performer" value=""/></audio></media></example><para id="id1166925942176"><emphasis>Music in minor:</emphasis></para>
+    <example id="eip-674"><media id="id15948011" alt="" display="block"><audio src="Bach24" id="Bach24" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Concerto for harpsichord in d-minor, I"/><param name="comments" value="Antonio Janigro and I Solisti di Zagreb"/><param name="total-time" value="21"/><param name="label-number" value="Pro Arte Records"/><param name="performer" value=""/></audio></media>
+
+<media id="id15948012" alt="" display="block"><audio src="Beethoven36" id="Beethoven36" mime-type="audio/mpeg"><param name="composer" value="Ludwig Van Beethoven"/><param name="title" value="Symphony No. 3 - II"/><param name="comments" value="Cleveland Orchestra, George Szell, conductor"/><param name="total-time" value="35"/><param name="label-number" value="Sony Classical 89832"/><param name="performer" value=""/></audio></media>
+
+<media id="id15948013" alt="" display="block"><audio src="Chopin05" id="Chopin05" mime-type="audio/mpeg"><param name="composer" value="Frederic Chopin"/><param name="title" value="Waltz in a-minor, Opus Post."/><param name="comments" value="Vladimir Ashkenazy, piano"/><param name="total-time" value="24"/><param name="label-number" value="London"/><param name="performer" value=""/></audio></media>
+
+<media id="id159480114" alt="" display="block"><audio src="Bruckner02" id="Bruckner02" mime-type="audio/mpeg"><param name="composer" value="Anton Bruckner"/><param name="title" value="Symphony No. 8 in c-minor"/><param name="comments" value="Vienna Philharmonic, Pierre Boulez, conductor"/><param name="total-time" value="17"/><param name="label-number" value="Deutsche Grammophon"/><param name="performer" value=""/></audio></media></example><para id="id1166926654327">You can use your emotional reactions to reinforce your aural analyses. In general, music in Major will provoke feelings of <emphasis>calm, triumph</emphasis> or <emphasis>joy</emphasis>, whereas music in minor will sound more <emphasis>subdued, aggressive, troubled</emphasis> or <emphasis>turbulent</emphasis>. Major is the mode of <emphasis>well-being</emphasis>; minor is the mode of <emphasis>distress</emphasis>.</para>
+    <para id="id1166924704778">Thus, learning to recognize the difference between Major and minor involves more than ear training. It engages <emphasis>mind</emphasis> training and <emphasis>feeling</emphasis> training: Evaluate the musical character and your emotional responses; these, along with analyses of the <term>cadences</term> and <term>scales</term>, will help you master this crucial distinction. </para>
+    <para id="id1166926653316">The exercises that follow are designed to increase your facility in distinguishing between music in <term>Major</term> and <term>minor</term>. </para>
+  </content>
+</document>

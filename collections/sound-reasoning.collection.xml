@@ -1,0 +1,81 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10214</md:content-id>
+    <md:title>Sound Reasoning</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>476d4614-1623-4dca-8907-cf81ec889efd</md:uuid>
+<md:slug>sound-reasoning</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m11466"/>
+    <col:module document="m12953"/>
+    <col:module document="m12954"/>
+    <col:module document="m13861"/>
+    <col:module document="m13862"/>
+    <col:module document="m11629"/>
+    <col:module document="m11630"/>
+    <col:module document="m13842"/>
+    <col:module document="m13843"/>
+    <col:module document="m11607"/>
+    <col:module document="m11631"/>
+    <col:module document="m11434"/>
+    <col:module document="m11625"/>
+    <col:module document="m13848"/>
+    <col:module document="m13845"/>
+    <col:module document="m13844"/>
+    <col:module document="m13846"/>
+    <col:subcollection>
+      <md:title>Part II: Hearing Harmony</md:title>
+      <col:content>
+        <col:module document="m34482"/>
+        <col:module document="m35111"/>
+        <col:module document="m35099"/>
+        <col:module document="m35159"/>
+        <col:module document="m35113"/>
+        <col:module document="m35162"/>
+        <col:module document="m35089"/>
+        <col:module document="m35144"/>
+        <col:module document="m35128"/>
+        <col:module document="m35093"/>
+        <col:module document="m35151"/>
+        <col:module document="m35126"/>
+        <col:module document="m35135"/>
+        <col:module document="m35137"/>
+        <col:module document="m35163"/>
+        <col:module document="m35116"/>
+        <col:module document="m35142"/>
+        <col:module document="m35133"/>
+        <col:module document="m35164"/>
+        <col:module document="m35131"/>
+        <col:module document="m35161"/>
+        <col:module document="m35091"/>
+        <col:module document="m35149"/>
+        <col:module document="m35106"/>
+        <col:module document="m35140"/>
+        <col:module document="m35105"/>
+        <col:module document="m35134"/>
+        <col:module document="m35108"/>
+        <col:module document="m35124"/>
+        <col:module document="m35101"/>
+        <col:module document="m35160"/>
+        <col:module document="m35130"/>
+        <col:module document="m35146"/>
+        <col:module document="m35097"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part III: The Language of Transformation</md:title>
+      <col:content>
+        <col:module document="m15159"/>
+        <col:module document="m15158"/>
+        <col:module document="m15157"/>
+        <col:module document="m15154"/>
+        <col:module document="m15155"/>
+        <col:module document="m15190"/>
+        <col:module document="m15160"/>
+        <col:module document="m15156"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

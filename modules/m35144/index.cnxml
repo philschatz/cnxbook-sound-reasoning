@@ -1,0 +1,159 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Cadences</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35144</md:content-id>
+  <md:title>Listening Gallery: Cadences</md:title>
+  <md:abstract/>
+  <md:uuid>a489d929-5407-421b-b18b-6bdf3d0e2695</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-16">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="eip-52">Please identify if the cadences are <term>fixed</term> or <term>roaming</term>.</para><exercise id="eip-560"><q:item id="item_orff" type="single-response">
+		<q:question>
+			<section id="s_orff">
+				<para id="p_orff"> 
+<media id="id1594805" alt="" display="block"><audio src="Orff3" id="Orff3" mime-type="audio/mpeg"><param name="composer" value="Carl Orff"/><param name="title" value="'O Fortuna' from Carmina Burana"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="The Cleveland Orchestra and Chorus, Michael Tilson Thomas, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="orff_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="orff_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Fixed</q:feedback>
+
+		<q:key answer="orff_Fixed"/>
+	</q:item>
+</exercise><exercise id="eip-512"><q:item id="item_bach" type="single-response">
+		<q:question>
+			<section id="s_bach">
+				<para id="p_bach"> 
+<media id="id1594806" alt="" display="block"><audio src="Bach53" id="Bach53" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Chorale 'Valet will ich dir geben'"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Hanssler Classic"/><param name="performer" value="Andrea Marcon, organ"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="bach_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="bach_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Roaming</q:feedback>
+
+		<q:key answer="bach_Roam"/>
+	</q:item>
+</exercise><exercise id="eip-616"><q:item id="item_hand" type="single-response">
+		<q:question>
+			<section id="s_hand">
+				<para id="p_hand"> 
+<media id="id1594807" alt="" display="block"><audio src="Handel07" id="Handel07" mime-type="audio/mpeg"><param name="composer" value="Georg Frederic Handel"/><param name="title" value="Every valley shall be exalted from Messiah"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="K and K Verlagsanstatt"/><param name="performer" value="Michael Chance, tenor, Hanoverian Court Orchestra, Jurgen Budday, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="hand_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="hand_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Fixed</q:feedback>
+
+		<q:key answer="hand_Fixed"/>
+	</q:item>
+</exercise><exercise id="eip-864"><q:item id="item_ber" type="single-response">
+		<q:question>
+			<section id="s_ber">
+				<para id="p_ber"> 
+<media id="id1594808" alt="" display="block"><audio src="Berlioz07b" id="Berlioz07b" mime-type="audio/mpeg"><param name="composer" value="Hector Berlioz"/><param name="title" value="'March to the Scaffold' from Symphonie Fantastique"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Virgin Veritas"/><param name="performer" value="London Classical Players, Sir Roger Norrington"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="ber_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="ber_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Fixed</q:feedback>
+
+		<q:key answer="ber_Fixed"/>
+	</q:item>
+</exercise><exercise id="eip-88"><q:item id="item_schu" type="single-response">
+		<q:question>
+			<section id="s_schu">
+				<para id="p_schu"> 
+<media id="id1594809" alt="" display="block"><audio src="Schumann02" id="Schumann02" mime-type="audio/mpeg"><param name="composer" value="Robert Schumann"/><param name="title" value="Piano Quintet in E-flat Major - IV"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="CBS Masterworks"/><param name="performer" value="Budapest String Quartet, Mieczyslaw Horszowski, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="schu_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="schu_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Roaming</q:feedback>
+
+		<q:key answer="schu_Roam"/>
+	</q:item>
+</exercise><exercise id="eip-342"><q:item id="item_strau" type="single-response">
+		<q:question>
+			<section id="s_strau">
+				<para id="p_strau"> 
+<media id="id1594801" alt="" display="block"><audio src="Strauss03" id="Strauss03" mime-type="audio/mpeg"><param name="composer" value="Johann Strauss Jr."/><param name="title" value="Blue Danube Waltz"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="TelArc"/><param name="performer" value="Cincinnati Pops Orchestra, Erich Kunzel, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="strau_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="strau_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Roaming</q:feedback>
+
+		<q:key answer="strau_Roam"/>
+	</q:item>
+</exercise><exercise id="eip-229"><q:item id="item_moz" type="single-response">
+		<q:question>
+			<section id="s_moz">
+				<para id="p_moz"> 
+<media id="id1594802" alt="" display="block"><audio src="Mozart41" id="Mozart41" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Piano Sonata in C-Mjaor, K. 330 - I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="RCA Red Seal"/><param name="performer" value="Alicia de Larrocha, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="moz_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="moz_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Fixed</q:feedback>
+
+		<q:key answer="moz_Fixed"/>
+	</q:item>
+</exercise><exercise id="eip-414"><q:item id="item_verdi" type="single-response">
+		<q:question>
+			<section id="s_verdi">
+				<para id="p_verdi"> 
+<media id="id1594803" alt="" display="block"><audio src="Verdi04" id="Verdi04" mime-type="audio/mpeg"><param name="composer" value="Giuseppe Verdi"/><param name="title" value="'Triumphal March' from Aida"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Opera D'Oro"/><param name="performer" value="Orchestra of La Scala, Claudio Abbado, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="verdi_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="Verdi_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Roaming</q:feedback>
+
+		<q:key answer="Verdi_Roam"/>
+	</q:item>
+</exercise><exercise id="eip-958"><q:item id="item_beeth" type="single-response">
+		<q:question>
+			<section id="s_beeth">
+				<para id="p_beeth"> 
+<media id="id1594804" alt="" display="block"><audio src="Beethoven57" id="Beethoven57" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Symphony No. 3 - 'Scherzo'"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Cleveland Orchestra, George Szell, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="beeth_Fixed"><q:response>Fixed cadence goal</q:response></q:answer>
+
+		<q:answer id="beeth_Roam"><q:response>Roaming cadences</q:response></q:answer>
+
+		<q:feedback>Roaming</q:feedback>
+
+		<q:key answer="beeth_Roam"/>
+	</q:item>
+</exercise>
+</content>
+
+</document>

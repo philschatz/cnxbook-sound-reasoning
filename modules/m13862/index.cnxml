@@ -1,0 +1,255 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Listening Gallery: Musical Emphasis</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2c0accc7-5063-488e-936c-6227c39a5bf8</md:uuid>
+</metadata>
+<content>
+<note id="idm1265376">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><exercise id="ex_dido">
+	<q:item id="item_dido" type="multiple-response">
+		<q:question>
+			<section id="s_dido">
+				<para id="id19158726">
+How is the phrase “Remember me” rhetorically reinforced in Dido’s aria from Henry Purcell’s <cite><cite-title>Dido and Aeneas</cite-title></cite>?
+				</para>
+
+				<media id="idm3474016" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/graham_astree.mp3" id="mus_dido" mime-type="audio/mpeg"><param name="composer" value="Henry Purcell"/><param name="title" value="Dido’s aria from Dido and Aeneas"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Veritas 7243 5 45605"/><param name="performer" value="Susan Graham; Le Concert d’Astrée; Emmanuelle Haïm"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="dido_dur"><q:response>Duration: The words are repeated.</q:response></q:answer>
+		<q:answer id="dido_cha"><q:response>Change: New instruments enter.</q:response></q:answer>
+		<q:answer id="dido_exh"><q:response>Extremes: The singer reaches her highest note.</q:response></q:answer>
+		<q:answer id="dido_exp"><q:response>Extremes: There are the longest pauses in the vocal line.</q:response></q:answer>
+
+		<q:feedback><section id="s_dido_feed"><para id="p_dido_feed">
+The first answer and the last two answers are accurate; the second is not. One other feature intensifies the second line. In the first line of text, some words occur only once and others—“am laid” and “no trouble” are repeated as the text gradually unfolds. Then the entire line of text repeats. In the second line (“Remember me, but forget my fate”), the repetition is <emphasis>compressed</emphasis>: Two <emphasis>full</emphasis> statement of the entire line occur in the same time it took to sing the first line once, making the singer’s plea even more poignant.</para></section>
+		</q:feedback>
+
+		<q:key answer="dido_dur,dido_exh,dido_exp"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_ives">
+	<q:item id="i_ives" type="multiple-response">
+		<q:question>
+			<section id="s_ives">
+				<para id="id20764238">
+How is the following line of text rhetorically reinforced in Charles Ives’ <cite><cite-title>Charlie Rutledge</cite-title></cite>? Check all that apply.
+				</para>
+
+				<media id="idm2233552" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/ives_rutledge.mp3" id="mus_ives1" mime-type="audio/mpeg"><param name="composer" value="Charles Ives"/><param name="title" value="Charlie Rutledge"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Etcetera 1020"/><param name="performer" value="Roberta Alexander, Tan Drone"/></audio></media>
+
+				<para id="q1"><quote display="inline" class="no-marks">“While Charlie Rutledge makes the third to be sent to his grave caused…”</quote></para>
+			</section>
+		</q:question>
+
+
+		<q:answer id="ives_dur1_1"><q:response>Duration: The singer’s words are drawn out more gradually.</q:response></q:answer>
+		<q:answer id="ives_dur2_1"><q:response>Duration: The singer’s words are repeated.</q:response></q:answer>
+		<q:answer id="ives_cha1_1"><q:response>Change: The singer changes from speech-like to full-voiced singing.</q:response></q:answer>
+		<q:answer id="ives_cha2_1"><q:response>Change: The singer is briefly left alone for the first time.</q:response></q:answer>
+		<q:answer id="ives_ext_1"><q:response>Extremes: The voice reaches a high register, while the piano sinks to its lowest register.</q:response></q:answer>
+
+		<q:feedback>The first, second, and last are accurate; the third and fourth are not.</q:feedback>
+		
+		<q:key answer="ives_dur1_1,ives_dur2_1,ives_ext_1"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_ives_2">
+	<q:item id="i_ives_2" type="multiple-response">
+		<q:question>
+			<section id="s_ives_2">
+				<para id="iv2">
+How is the following line of text rhetorically reinforced in Charles Ives’ <cite><cite-title>Charlie Rutledge</cite-title></cite>? Check all that apply.
+				</para>
+
+				<media id="idm96976" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/ives_rutledge.mp3" id="mus_ives2" mime-type="audio/mpeg"><param name="composer" value="Charles Ives"/><param name="title" value="Charlie Rutledge"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Etcetera 1020"/><param name="performer" value="Roberta Alexander, Tan Drone"/></audio></media>
+
+				<para id="q2"><quote display="inline" class="no-marks">“Beneath poor Charlie died”</quote></para>
+			</section>
+		</q:question>
+
+
+		<q:answer id="ives_dur1_2"><q:response>Duration: The singer’s words are drawn out more gradually.</q:response></q:answer>
+		<q:answer id="ives_cha1_2"><q:response>Change: There is an extreme change of density.</q:response></q:answer>
+		<q:answer id="ives_cha2_2"><q:response>Change: There are changes of speed both before and after the text.</q:response></q:answer>
+		<q:answer id="ives_cha3_2"><q:response>Change: There is a change of texture. Instead of every syllable of the singer being synchronized with the piano, she singer is left alone to sing a portion of the text.</q:response></q:answer>
+		<q:answer id="ives_ext_2"><q:response>Extremes: “died” is the longest sustained word in the song.</q:response></q:answer>
+
+		<q:feedback>All of the above are true.</q:feedback>
+
+		<q:key answer="ives_dur1_2,ives_cha1_2,ives_cha2_2,ives_cha3_2,ives_ext_2"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_harbison">
+	<q:item type="single-response" id="i_harbison">
+		<q:question><section id="s_harbison">
+			<para id="id19216263">
+In John Harbison’s <cite><cite-title>Simple Daylight</cite-title></cite>, which phrase is treated as the climax of the song?
+			</para>
+
+			<media id="idm1034272" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/harbison_simple.mp3" id="mus_harbison" mime-type="audio/mpeg"><param name="composer" value="John Harbison"/><param name="title" value="Simple Daylight"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Archetypes 60104"/><param name="performer" value="Karol Bennett, John McDonald"/></audio></media>
+		</section></q:question>	
+	
+
+
+		<q:answer id="harbison_all"><q:response>”All but inarticulate cry”</q:response></q:answer>
+		<q:answer id="harbison_spoken"><q:response>”Spoken over and over”</q:response></q:answer>
+		<q:answer id="harbison_wakes"><q:response>”Wakes me”</q:response></q:answer>
+
+		<q:feedback>
+			“Wakes me.” 
+		</q:feedback>
+
+		<q:key answer="harbison_wakes"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_harbison_2">
+	<q:item type="multiple-response" id="i_harbison_2">
+		<q:question><section id="s_harbison_2">
+			<para id="id19934097">In <link target-id="ex_harbison"/>, how is the climax created?</para>
+
+			<media id="idm10210032" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/harbison_simple.mp3" id="mus_harbison2" mime-type="audio/mpeg"><param name="composer" value="John Harbison"/><param name="title" value="Simple Daylight"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Archetypes 60104"/><param name="performer" value="Karol Bennett, John McDonald"/></audio></media>
+		</section></q:question>
+
+		<q:answer id="harbison_duration"><q:response>Duration:.The words are sung as longer values.</q:response></q:answer>
+		<q:answer id="harbison_change_interrupted"><q:response>Change: The rhythmic flow is interrupted.</q:response></q:answer>
+		<q:answer id="harbison_change_thicker"><q:response>Change: Leading into this passage, the piano’s accompaniment becomes gradually more thicker, eventually reaching an extreme..</q:response></q:answer>
+		<q:answer id="harbison_extremes_voice"><q:response>Extremes: The voice reaches her highest note.</q:response></q:answer>
+		<q:answer id="harbison_extremes_piano"><q:response>Extremes: The piano plays in its highest register.</q:response></q:answer>
+		<q:answer id="harbison_extremes_loudest"><q:response>Extremes: It is the loudest passage in the song.</q:response></q:answer>
+
+		<q:feedback>All of the above are true.</q:feedback>
+
+		<q:key answer="harbison_duration,harbison_change_interrupted,harbison_change_thicker,harbison_extremes_voice,harbison_extremes_piano,harbison_extremes_loudest"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_mahler_1">
+	<q:item type="single-response" id="i_mahler_1">
+		<q:question><section id="s_mahler_1">
+			<para id="id18755030">
+In the following excerpt from Gustav Mahler’s <cite><cite-title>Symphony No. 4</cite-title></cite>, the intricate, boisterous opening section gives away, after a brief pause, to a contrasting section initiated by a lyrical cello melody.
+			</para>
+
+			<media id="idm9679584" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/mahler_sym4_1.mp3" id="mus_mahler1_1" mime-type="audio/mpeg"><param name="composer" value="Gustav Mahler"/><param name="title" value="Symphony No. 4, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 103409"/><param name="performer" value="Pierre Boulez; Vienna Philharmonic"/></audio></media>
+
+			<para id="id1272353">
+Later in the movement, both sections return. Which return is more strongly rhetorically reinforced—that of the opening section or the contrasting one?
+			</para>
+
+			<media id="idm9112000" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/mahler_sym4_2.mp3" id="mus_mahler2_1" mime-type="audio/mpeg"><param name="composer" value="Gustav Mahler"/><param name="title" value="Symphony No. 4, I"/><param name="comments" value="return"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 103409"/><param name="performer" value="Pierre Boulez; Vienna Philharmonic"/></audio></media>
+		</section></q:question>
+
+		<q:answer id="mahler_opening"><q:response>The opening section</q:response></q:answer>
+		<q:answer id="mahler_contrasting"><q:response>The contrasting section</q:response></q:answer>
+
+		<q:feedback><section id="s_mahler_feed1"><para id="p_mahler_feed1">
+Stronger rhetorical reinforcement places a greater emphasis on the return of the <emphasis>contrasting</emphasis> section.
+		</para></section></q:feedback>
+
+		<q:key answer="mahler_contrasting"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_mahler_2">
+	<q:item type="multiple-response" id="i_mahler_2">
+		<q:question><section id="s_mahler_2">
+			<para id="id19246963">
+				In <link target-id="ex_mahler_1"/>, how is this return is more strongly rhetorically reinforced?
+			</para>
+		</section></q:question>
+
+		<q:answer id="mahler_overlap"><q:response>The weaker return overlaps with the preceding section; the stronger return has a clear beginning, preceded by silence.</q:response></q:answer>
+		<q:answer id="mahler_higher"><q:response>The stronger return is emphasized by being played higher and louder.</q:response></q:answer>
+		<q:answer id="mahler_lower"><q:response>The weaker return is played in a much lower register.</q:response></q:answer>
+		<q:answer id="mahler_fragments"><q:response>The weaker return presents only fragments of the original theme; the stronger return is more literal and complete.</q:response></q:answer>
+		<q:answer id="mahler_slower"><q:response>The weaker return is played at a much slower speed.</q:response></q:answer>
+
+		<q:feedback><section id="mahler_feed"><para id="p_mahler_feed">
+Stronger rhetorical reinforcement places a greater emphasis on the return of the <emphasis>contrasting</emphasis> section, due to the first, the second and the fourth answer. This is an example of how different degrees of rhetorical reinforcement can make a return more obvious or more indirect.
+		</para></section></q:feedback>
+
+		<q:key answer="mahler_overlap,mahler_higher,mahler_fragments"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_bartok">
+	<q:item type="multiple-response" id="i_bartok">
+		<q:question><section id="s_bartok">
+			<para id="id2099320">
+After a slow introduction, Bela Bartok’s <cite><cite-title>Concerto for Orchestra</cite-title></cite> introduces an agitated string melody. This leads to a contrasting theme, played by the oboe with a delicate string and harp accompaniment.
+			</para>
+
+			<media id="idm10865328" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/bartok_concertorch_1.mp3" id="mus_bartok1" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="Concerto for Orchestra, I"/><param name="comments" value="first excerpt"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 103116"/><param name="performer" value="Pierre Boulez; Chicago Symphony Orchestra"/></audio></media>
+
+			<para id="id17727854">
+In the second excerpt, the contrasting theme will return. How is its return rhetorically reinforced?
+			</para>
+
+			<media id="idp1073824" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/bartok_concertorch_2.mp3" id="mus_bartok2" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="Concerto for Orchestra, I"/><param name="comments" value="second excerpt"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 103116"/><param name="performer" value="Pierre Boulez; Chicago Symphony Orchestra"/></audio></media>
+		</section></q:question>
+
+		<q:answer id="bartok_duration_repetitive"><q:response>Duration: In preparation for the return of the contrasting theme, the music becomes very repetitive.</q:response></q:answer>
+		<q:answer id="bartok_duration_hold"><q:response>Duration: The rhythm holds dramatically just before the contrasting theme enters.</q:response></q:answer>
+		<q:answer id="bartok_change_volume"><q:response>Change: There is a huge build-up in volume, followed by a dramatic drop-off.</q:response></q:answer>
+		<q:answer id="bartok_change_density"><q:response>Change: There is a huge build-up in density, then a huge drop-off.</q:response></q:answer>
+		<q:answer id="bartok_change_primary"><q:response>Change: There is a change of primary instruments, from brass to solo wind and strings.</q:response></q:answer>
+		<q:answer id="bartok_change_single"><q:response>Change: There is a change from multiple ideas simultaneously to a single idea.</q:response></q:answer>
+		<q:answer id="bartok_change_relaxed"><q:response>Change: The pulse is relaxed when the contrasting theme returns.</q:response></q:answer>
+
+		<q:feedback>All of the above are true, making the contrasting theme’s return very emphatic.</q:feedback>
+
+		<q:key answer="bartok_duration_repetitive,bartok_duration_hold,bartok_change_volume,bartok_change_density,bartok_change_primary,bartok_change_single,bartok_change_relaxed"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_stravinsky">
+	<q:item type="single-response" id="i_stravinsky_1">
+		<q:question><section id="s_stravinsky_1">
+			<para id="id16017685">
+Listen to <cite><cite-title>“Orpheus Weeps”</cite-title></cite> from Igor Stravinsky’s ballet <cite><cite-title>Orpheus</cite-title></cite>.
+			</para>
+
+			<media id="idm10238720" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/stravinsky_orpheus_1.mp3" id="mus_stravinsky1" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Orpheus Weeps” from Orpheus"/><param name="comments" value="full movement"/><param name="total-time" value=""/><param name="label-number" value="Chandos 7120"/><param name="performer" value="Neeme Järvi, conductor; Royal Concertgabouw Orchestra"/></audio></media>
+
+			<para id="id20368007">
+Which of the following sound clips do you consider to be most strongly emphasized throughout the movement?
+			</para>
+
+			<media id="idm2379792" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/stravinsky_orpheus_2.mp3" id="mus_stravinsky2" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Orpheus Weeps” from Orpheus"/><param name="comments" value="Sound Clip A"/><param name="total-time" value=""/><param name="label-number" value="Chandos 7120"/><param name="performer" value="Neeme Järvi, conductor; Royal Concertgabouw Orchestra"/></audio></media>
+
+			<media id="idm9061968" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/stravinsky_orpheus_3.mp3" id="mus_stravinsky3" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Orpheus Weeps” from Orpheus"/><param name="comments" value="Sound Clip B"/><param name="total-time" value=""/><param name="label-number" value="Chandos 7120"/><param name="performer" value="Neeme Järvi, conductor; Royal Concertgabouw Orchestra"/></audio></media>
+
+			<media id="idm2443216" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/stravinsky_orpheus_4.mp3" id="mus_stravinsky4" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Orpheus Weeps” from Orpheus"/><param name="comments" value="Sound Clip C"/><param name="total-time" value=""/><param name="label-number" value="Chandos 7120"/><param name="performer" value="Neeme Järvi, conductor; Royal Concertgabouw Orchestra"/></audio></media>
+		</section></q:question>
+
+		<q:answer id="stravinsky_A"><q:response>Sound Clip A</q:response></q:answer>
+		<q:answer id="stravinsky_B"><q:response>Sound Clip B</q:response></q:answer>
+		<q:answer id="stravinsky_C"><q:response>Sound Clip C</q:response></q:answer>
+	
+		<q:feedback>Sound clip A.</q:feedback>
+	</q:item>
+</exercise>
+
+<exercise id="ex_strav_2">
+	<q:item type="single-response" id="i_strav_2">
+		<q:question><section id="s_strav_2">
+			<para id="id19531923">In the most emphasized sound clip from <link target-id="ex_stravinsky"/>, what is the principle means of emphasis?</para>
+		</section></q:question>
+
+		<q:answer id="stravinsky_duration"><q:response>Duration</q:response></q:answer>
+		<q:answer id="stravinsky_change"><q:response>Change</q:response></q:answer>
+		<q:answer id="stravinsky_extremes"><q:response>Extremes</q:response></q:answer>
+		<q:answer id="stravinsky_strong"><q:response>Strong Rhetorical Reinforcement</q:response></q:answer>
+
+		<q:feedback><section id="s_orph"><para id="p_orph">Sound clip A's primary means of emphasis is <emphasis>duration</emphasis>: The harp and string texture endures the longest.</para></section></q:feedback>
+		
+		<q:key answer="stravinsky_duration"/>
+	</q:item>
+</exercise>
+
+</content>
+</document>

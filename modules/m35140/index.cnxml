@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Leaving the Key</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35140</md:content-id>
+  <md:title>Leaving the Key</md:title>
+  <md:abstract/>
+  <md:uuid>5e51d842-862a-4af1-abc9-33450e9043d3</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-919">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="delete_me">Whereas <emphasis>diatonic</emphasis> progressions remain within a key, <term>modulation</term> involves moving between keys. 
+Because it involves uprooting the music from a tonal center and moving to others, <term>modulation</term> is the most action-oriented part of harmony.
+</para><para id="eip-454">The structural import and expressive impact of a <term>modulation</term> is derived from the inter-relationship of three factors:</para><para id="eip-292"><emphasis>The “harmonic distance” travelled – the time spent in travel – the time spent in arrival</emphasis></para><para id="eip-473">In order to understand this more fully, we need to explore several concepts about <emphasis>Common Practice tonality</emphasis>.</para><section id="eip-277"><title>The Structural Equivalence of Keys</title><para id="eip-866">
+As noted earlier, the term <term>key</term> of the music indicates the <emphasis>tonic</emphasis> and <emphasis>mode</emphasis>. Thus, music in the <term>key</term> of G-Major makes use of the Major scale built on the tonic G; the <term>key</term> of g-minor shares the same tonic—g—but is in the minor mode.
+</para><example id="eip-894"><media id="g_key" alt="Key">
+	   
+  <image mime-type="image/png" src="../../media/Key_of_G1.png"/>
+</media>
+</example><para id="eip-764">Any pitch of the <term>chromatic scale</term> may serve as the <term>tonic</term>: Thus, there are twelve possible <term>keys</term> for each <term>mode</term>.</para><para id="eip-985">In modern tempered tuning, <emphasis>all keys of the same mode are functionally equivalent</emphasis>: They are like Club Scout chapters, sharing the same charter, hierarchy of officers and rituals.   For example, singers sometimes find a song may lie in an uncomfortable range; so they transpose it to a higher or lower key.  The music remains the same: It just slides up or down.</para><para id="eip-810">Here are two performances of Franz Schubert’s song <emphasis>Gesang des Harfners II</emphasis>: The music is identical except for the <term>transposition</term>.</para><example id="eip-314"><media id="id1170036654934" alt="" display="block"><audio src="Schubert15" id="Schubert15" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Gesang des Harfners - II"/><param name="comments" value="Karol Bennett, soprano, John McDonald, piano"/><param name="total-time" value="16"/><param name="label-number" value="Live Performance"/><param name="performer" value=""/></audio></media>
+
+<media id="id1170036654935" alt="" display="block"><audio src="Schubert16" id="Schubert16" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Gesang des Harfners - II"/><param name="comments" value="Ulf Bastien, baritone, Stefan Laux, piano"/><param name="total-time" value="21"/><param name="label-number" value="Naxos"/><param name="performer" value=""/></audio></media></example><para id="eip-999">Because of this <emphasis>equivalence</emphasis>, it is possible to move from key to key without any <emphasis>modification</emphasis> in <emphasis>musical syntax</emphasis>.  Put another way, the rules of harmony don’t change when you change keys. This harmonic consistency makes the modulation intelligible: No written explanations or verbal remarks are required. What holds true in one key holds true in any other.</para><para id="eip-120">Musical commentators often speak of the “coloring” of different keys.  This has largely to do with instrumentation: For instance, the keys of G, D, A and E sound “brighter” on string instruments because they allow for the use of open strings.  Similarly, marches are typically in B-flat Major because of how brass instruments are tuned.  Interpreters sometimes ascribe meaning or significance to particular keys: C-Major is Mozart’s “Coronation” key, “c-minor” is Beethoven’s key for funerals, etc.  Applied too literally or categorically, however, these associations risk obscuring the underlying consistency upon which tonality depends: All keys of the same mode share the identical structure and their progressions are organized the same way.</para></section>
+</content>
+
+</document>

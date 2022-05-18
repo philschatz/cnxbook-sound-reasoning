@@ -1,0 +1,401 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Musical Emphasis</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>18783ee1-47f5-49f0-960e-45631a5da977</md:uuid>
+</metadata>
+<content>
+
+<note id="idm3599936">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="id14914840">
+Emphasis is very important in communication: It helps to establish what is of primary importance, versus what may be supporting or of secondary relevance.
+</para>
+
+<para id="id4535949">
+Verbal communication contains a variety of strategies for creating emphasis. For instance, you’re instructing your children on pool safety: Don’t run next to the pool, no splashing in other people’s faces, etc. But most important of all: No children allowed in the water without a grown-up. How would you emphasize this statement’s import? You might repeat it several times; you might raise your voice; you might grab your child’s hand and look him or her in the eye; you might sit the child, down, pause, and then speak.
+</para>
+
+<para id="id8125022">
+How is emphasis created in a piece of music? Being able to recognize and interpret such emphases is essential to active listening. When a composer is communicating with you through music, it is very helpful to know what he or she considers to be of primary importance.
+</para>
+
+<para id="id5391634">Musical emphasis may be created by duration, change and extremes. When emphases are coordinated to help illuminate musical structure, <emphasis>rhetorical reinforcement</emphasis> is created.
+</para>
+
+<section id="id8601413">
+	<title>Duration</title>
+
+	<para id="id14620354">Music is a time-art: Therefore, if you want to emphasize something in a piece of music, <emphasis>make it last</emphasis>. The longer something is before the listeners’ ears, the greater the importance it assumes.
+	</para>
+
+	<example id="ex_chorale">
+		<para id="id5391075">
+The ends of phrases in this Bach Chorale are emphasized through duration.
+		</para>
+
+		<media id="idm3198928" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/bach_chorale_daswort.mp3" id="mus_chorale" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Chorale: “Das Wort sie sollen lassen stahn” from Cantata: Ein feste Burg ist under Gott"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="L’Oiseau Lyre 455 706-2"/><param name="performer" value="Joshua Rikkin, conductor; The Bach Ensemble"/></audio></media>
+	</example>
+
+	<example id="ex_raub">
+		<para id="id3166092"><emphasis>Duration</emphasis> is used to emphasize the words “Rote fürßtliche Rubine” in this movement from Arnold Schoenberg’s <cite><cite-title>Pierrot Lunaire</cite-title></cite>.
+		</para>
+
+		<media id="idm2251664" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/Schoenberg_raub.mp3" id="mus_raub" mime-type="audio/mpeg"><param name="composer" value="Arnold Schoenberg"/><param name="title" value="“Raub” from Pierrot Lunaire"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Koch 310 117"/><param name="performer" value="Barbara Sukowa, Schoenberg Ensemble, Reinbert de Leeuw"/></audio></media>
+	</example>
+
+	<example id="ex_etudeA"><para id="id14861093">Repetition creates a <emphasis>durational emphasis</emphasis>. As in the Bach Chorale above, the ends of phrases are emphasized in Chopin’s <cite><cite-title>Prelude in A-Major</cite-title></cite>, only this time the chords are repeated rather than held.
+		</para>
+
+		<media id="idm11862352" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/Chopin_etudeA.mp3" id="mus_etudeA" mime-type="audio/mpeg"><param name="composer" value="Frederic Chopin"/><param name="title" value="Prelude in A-Major"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deustche Grammophon 431 584-2"/><param name="performer" value="Martha Argerich, piano"/></audio></media>
+	</example>
+
+	<example id="ex_rite">
+		<para id="id14653409">Repetition is used to create two powerful <emphasis>durational emphases</emphasis> in this excerpt from Igor Stravinsky’s <cite><cite-title>The Rite of Spring</cite-title></cite>.
+		</para>
+
+		<media id="idm12218960" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/stravinsky_riteofspring.mp3" id="mus_rite" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="The Rite of Spring"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 435 769-2"/><param name="performer" value="Pierre Boulez; Cleveland Orchestra"/></audio></media>
+	</example>
+
+	<para id="id14905675">Through repetition and other means of prolongation, durational emphasis can span a whole section of even an entire composition. Marriage is a form of durational emphasis: A favored relationship <emphasis>outlasts</emphasis> passing acquaintances. Similarly, in a piece of music, that which <emphasis>endures</emphasis> has a priority over that which is fleeting. A melodic idea, a rhythmic pattern, a particular texture all may be sustained throughout an entire work.
+	</para>
+
+	<example id="ex_etudec"><para id="id14900774">A rhythmic pattern is prolonged throughout Frederic Chopin’s <cite><cite-title>Piano Prelude in c-minor</cite-title></cite>.
+		</para>
+
+		<media id="idm11865472" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/chopin_etudec.mp3" id="mus_etudec" mime-type="audio/mpeg"><param name="composer" value="Frederic Chopin"/><param name="title" value="Piano Prelude in c-minor"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 431 584-2"/><param name="performer" value="Martha Argerich, piano"/></audio></media>	
+	</example>
+
+	<example id="ex_carter">
+		<para id="id8197662">In the third of Elliott Carter’s <cite><cite-title>Eight Etudes and a Fantasy</cite-title></cite>, a single chord is held throughout the entire piece. The instruments constantly shift so that the chord is never voiced the same way twice. Nevertheless, throughout the subtle surface motions, one sound is clearly emphasized by duration.
+		</para>
+
+		<media id="idm3407424" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/carter_eightetudes.mp3" id="mus_carter" mime-type="audio/mpeg"><param name="composer" value="Elliott Carter"/><param name="title" value="Eight Etudes and a Fantasy, III"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Boston Skyline BSD 137"/><param name="performer" value="New York Woodwind Quintet"/></audio></media>
+	</example>
+
+	<para id="id5465724">When listening to music, concentrate on what is most <emphasis>persistent</emphasis>. That which lasts longest is most essential; everything else is supporting. In a non-verbal, time-dependent art form, <emphasis>duration</emphasis> is the composer’s primary means of emphasis.
+	</para>
+</section>
+
+<section id="id5944610">
+	<title>Change</title>
+
+	<para id="id14842658">
+Change is a second way of creating emphasis. We change into our pajamas to indicate we’re ready to go to sleep. We all notice when the weather changes. If the lights go out, it will catch your attention. If the crowd noise suddenly rises at a sporting match, you will want to know what happened. Likewise, in music, a change—of register, texture, density, speed, dynamic, etc.—will create an emphasis.
+	</para>
+
+	<example id="ex_requiem">
+		<para id="id6314448">In the Berlioz: <cite><cite-title>Requiem</cite-title></cite>, the text “Hosanna in excelsis ” is first sung by high voices and instruments. When low voices and instruments enter, the <emphasis>change in register</emphasis> creates an emphasis.
+		</para>
+
+		<media id="idm4633312" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/berlioz_agnusdei.mp3" id="mus_requiem" mime-type="audio/mpeg"><param name="composer" value="Hector Berlioz"/><param name="title" value="“Agnus Dei” from Requiem"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="RCA RD86210"/><param name="performer" value="Charles Munch; Boston Symphony, New England Conservatory Chorus"/></audio></media>
+	</example>
+
+	<example id="ex_threnody">
+		<para id="id7034238">Similarly, in Kristof Penderecki’s <cite><cite-title>Threnody for the Victims of Hiroshima</cite-title></cite>, each string entrance is emphasized by a change in register.
+		</para>
+
+		<media id="idp1636928" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/penderecki_threnody.mp3" id="mus_threnody" mime-type="audio/mpeg"><param name="composer" value="Kryzsztof Penderecki"/><param name="title" value="Threnody for the Victims of Hiroshima"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Vienna Modern Masters 3010"/><param name="performer" value="Szymon Kawalla, conductor; Polish Radio and Television Orchestra"/></audio></media>	
+	</example>
+
+	<example id="ex_tchaik">
+		<para id="id14860948"><emphasis>The greater the change, the greater the emphasis.</emphasis> In the Finale of Tchaikovsky’s <cite><cite-title>Symphony No. 2</cite-title></cite>, the change in density is sudden and dramatic.
+		</para>
+
+		<media id="idm10236416" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/tchaikovsky_sym2.mp3" id="mus_tchaik" mime-type="audio/mpeg"><param name="composer" value="Peter Ilyich Tchaikovsky"/><param name="title" value="Symphony No. 2, IV"/><param name="comments" value=""/><param name="total-time" value="Chandos 8304"/><param name="label-number" value="Geoffrey Simon, conductor; London Symphony Orchestra"/><param name="performer" value=""/></audio></media>
+	</example>
+
+	<example id="ex_danse">
+		<para id="id14777644">In “Danse de la fureur” from Olivier Messaien’s <cite><cite-title>Quartet for the End of Time</cite-title></cite>, a sudden change in dynamics creates a strong emphasis.
+		</para>
+
+		<media id="idm887312" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/messiaen_danse.mp3" id="mus_danse" mime-type="audio/mpeg"><param name="composer" value="Olivier Messiaen"/><param name="title" value="“Danse de la fureur” from Quartet for the End of Time"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 423 247-2"/><param name="performer" value="Luben Yordanoff, violin; Albert Tetard, cello; Claude Desurmont, clarinet; Daniel Barenboim, piano"/></audio></media>	
+	</example>
+
+	<para id="id14971804">
+The longer a particular state has been maintained, the greater the emphasis of the change.
+	</para>
+	
+	<example id="ex_grosso">
+		<para id="id14937336">The opening of Alfred Schnittke’s <cite><cite-title>Concerto Grosso No. 1</cite-title></cite> begins with spare sounds played on the prepared piano (a piano with objects inserted inside the instrument to make its pitch more undefined). The solo violins enter quietly. But after such a long introduction, a well-marked emphasis is created by the change of instrumentation.
+		</para>
+
+		<media id="idm5051088" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/schnittke_grosso.mp3" id="mus_grosso" mime-type="audio/mpeg"><param name="composer" value="Alfred Schnittke"/><param name="title" value="Concerto Grosso No. 1"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Col Legno Collage 20510"/><param name="performer" value="Yur Bashmet, director; Ensemble-Soloists; Gidon Kremer &amp; Tatiana Grindenko"/></audio></media>
+	</example>
+</section>
+
+<section id="id14900356">
+	<title>Extremes</title>
+
+	<para id="id14911487"><cite><cite-title>Extremes</cite-title></cite> are another powerful means of emphasis: A moment of silence stresses the solemnity of a memorial service; blaring sirens alert us to the dangers of a fire. A solitary figure on the street highlights the late hour; a standing-room only crowd draws attention to a show’s success.
+	</para>
+
+	<para id="id14862040">
+Musical extremes include fastest and slowest, longest and shortest, highest and lowest, loudest and softest, densest and most spare.
+	</para>
+
+	<example id="ex_violin">
+		<para id="id14862031">Beethoven’s <cite><cite-title>Violin Concerto</cite-title></cite> begins with the following melody.
+		</para>
+
+		<media id="idm10355152" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/beethoven_violin_1.mp3" id="mus_violin_1" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Violin Concerto, I"/><param name="comments" value="melody"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 289 471 349-2"/><param name="performer" value="Anne-Sophie Mutter; New York Philharmonic; Kurt Masur"/></audio></media>	
+
+		<para id="id4808337">
+Later, the soloist emphasizes the melody by playing it in an extremely high register.
+		</para>
+
+		<media id="idm11654208" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/beethoven_violin_2.mp3" id="mus_violin_2" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Violin Concerto, I"/><param name="comments" value="emphasis of the melody"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 289 471 349-2"/><param name="performer" value="Anne-Sophie Mutter; New York Philharmonic; Kurt Masur"/></audio></media>
+	</example>
+
+	<example id="ex_ligeti">
+		<para id="id8197652">Gyorgy Ligeti’s <cite><cite-title>Desordre</cite-title></cite> presents a melody in the upper register, echoed in the low.
+		</para>
+
+		<media id="idm1263072" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/ligeti_desordre_1.mp3" id="mus_ligeti_1" mime-type="audio/mpeg"><param name="composer" value="Gyorgy Ligeti"/><param name="title" value="Désordre from Etudes, Book I"/><param name="comments" value="melody"/><param name="total-time" value=""/><param name="label-number" value="Sony 62308"/><param name="performer" value="Pierre-Laurent Aimard"/></audio></media>	
+
+		<para id="id14858316">The melody is particularly emphasized when both of the pianist’s hands play in a very high register.
+		</para>
+
+		<media id="idp2181904" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc1/ligeti_desordre_2.mp3" id="mus_ligeti_2" mime-type="audio/mpeg"><param name="composer" value="Gyorgy Ligeti"/><param name="title" value="Désordre from Etudes, Book I"/><param name="comments" value="emphasis of the melody"/><param name="total-time" value=""/><param name="label-number" value="Sony 62308"/><param name="performer" value="Pierre-Laurent Aimard"/></audio></media>	
+	</example>
+
+	<para id="id14859689">The <emphasis>longer</emphasis> an extreme is maintained, the more emphatic it is.
+	</para>
+</section>
+
+<section id="id14900044">
+	<title>Rhetorical Reinforcement</title>
+
+	<para id="id14895978">An emphasis on its own may catch our attention. When several emphases join together to mark an important structural moment, it creates a stronger accentuation that we will term <emphasis>rhetorical reinforcement</emphasis>.
+	</para>
+
+	<example id="ex_gold">
+
+		<para id="id14859767">Consider the relation between the film and score in a conventional Hollywood film: The role of score is to support the action. The score helps to <emphasis>underline</emphasis> significant moments in the film by being synchronized with them. If you’re familiar with 007 films, you know who appears on screen at the end of this sound-clip:
+		</para>
+
+		<media id="idm11081152" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/barry_goldfinger.mp3" id="mus_gold" mime-type="audio/mpeg"><param name="composer" value="John Barry"/><param name="title" value="Goldfinger"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Capitol 72435-80891-2-7"/><param name="performer" value=""/></audio></media>	
+
+		<para id="id14834261">When James Bond has appeared, there was a change of texture, a steady pulse was established and new instruments entered. The film and music joined together to create a <emphasis>united</emphasis> emphasis. By virtue of its compounding of emphases, rhetorical reinforcement promotes <emphasis>clarity</emphasis>.
+		</para>
+	</example>
+
+	<para id="id14862082">
+Opera and ballet often have a similar relationship between narrative and music.
+	</para>
+
+	<example id="ex_giovanni">
+		<para id="id14911066">The overture of Wolfgang Amadeus Mozart’s <emphasis>Don Giovanni</emphasis> opens with stark chords.
+		</para>
+
+		<media id="idm10568560" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/mozart_dongiovanni_1.mp3" id="mus_gio_1" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Don Giovanni, Overture"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Philips 422 541-2"/><param name="performer" value="Sir Colin Davis; Orchestra of Convent Garden"/></audio></media>
+
+		<para id="id14860718">
+As the stage action begins, Don Giovanni murders the Commendatore, the father of one of his lovers. Many scenes later, Don Giovanni and his servant are scheming in a churchyard when the dead man’s statue issues a warning. Don Giovanni blithely invites the statue to dinner.
+		</para>
+
+		<para id="id14860781">
+The Don is celebrating later at the banquet when the statue of the Commendatore suddenly appears before him. The return of the stark chords--not heard since the overture--heralds the Commendatore’s reappearance: Silence, and abrupt changes in texture and speed contribute to the emphasis. Music and narrative are aligned, creating a powerful dramatic
+arrival point.
+		</para>
+
+		<media id="idm1629440" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/mozart_dongiovanni_2.mp3" id="mus_gio_2" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Don Giovanni, Act III"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Philips 422 541-2"/><param name="performer" value="Sir Colin Davis; Ingvar Wixell, Luigi Roni, Wladimiro Ganzarolli"/></audio></media>
+	</example>
+
+	<example id="ex_poulenc">
+		<para id="id14900111">In Francis Poulenc’s <cite><cite-title>Dialogue of the Carmelites</cite-title></cite>, a group of nuns are sentenced to death during the Reign of Terror. As the nuns are marched to the guillotine, they sing a chorale over a march-like rhythmic accompaniment. As each nun is executed, one singer drops out, finally leaving a single voice alone. The march-like rhythm and final female voice drop out with the fall of the blade: Once again, music and narrative are in perfect alignment.
+		</para>
+
+		<media id="idm5066704" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/poulenc_dialogue.mp3" id="mus_poulenc" mime-type="audio/mpeg"><param name="composer" value="Francis Poulenc"/><param name="title" value="Dialogue of the Carmelites"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Virgin Classics 7 59227 2"/><param name="performer" value="Brigitte Fournier; Orchestre de l’Opéra de Lyon; Kent Nagano"/></audio></media>
+	</example>
+
+	<exercise id="ex_sym5">
+		<q:item id="i_sym5" type="single-response">
+			<q:question>
+				<section id="s_sym5">
+					<para id="id6306536">
+Just as music and story can be coordinated, so too can the various musical dimensions within an abstract musical work: Emphases created by duration, change and extremes can join together to mark significant landmarks. For instance, listen to the following excerpt from Beethoven’s <cite><cite-title>Symphony No. 5</cite-title></cite>. The excerpt will stop on a particular note. In your opinion, is that note emphasized or not?
+					</para>
+
+					<media id="idm3363088" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/beethoven_sym5.mp3" id="mus_sym5" mime-type="audio/mpeg"><param name="composer" value="Beethoven"/><param name="title" value="Symphony No. 5, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony 47651"/><param name="performer" value="George Szell, The Cleveland Orchestra"/></audio></media>
+				</section>
+			</q:question>
+
+			<q:answer id="imp"><q:response>The note is important relative to what has preceded it.</q:response></q:answer>
+			<q:answer id="notimp"><q:response>The note is not important relative to what has preceded it.</q:response></q:answer>
+
+			<q:feedback>
+				<section id="sym5_feed">
+					<para id="p_feed">
+No musical training or theory is required to hear that the note is strongly emphasized. Just by ear, it is possible to analyze how the rhetorical reinforcement was created.
+					</para>
+
+					<list id="list_feed">
+						<item>It is the <emphasis>longest</emphasis> note so far.</item>
+						<item>It is the <emphasis>highest</emphasis> note so far.</item>
+						<item>It is the <emphasis>loudest</emphasis> note so far.</item>
+						<item>The timpani and brass enter.</item>
+						<item>As the note is held, there is a dramatic change in texture from full orchestra to the violins alone.</item>
+					</list>
+
+					<para id="id14860029">
+By aligning emphases of duration, register, dynamics and orchestration, Beethoven has used a <emphasis>compounding of emphases</emphasis> to stress the arrival pitch. The pitch’s importance is impossible to miss, because Beethoven has put so much musical muscle behind it.
+					</para>
+				</section>
+			</q:feedback>
+
+			<q:key answer="imp"/>
+		</q:item>
+	</exercise>
+
+	<example id="ex_sym2">
+		<para id="id14860050">Rhetorical reinforcement is frequently used to highlight the beginning of a new section or the return of an important passage. Listen to the main theme of the first movement of Beethoven’s <cite><cite-title>Symphony No. 2</cite-title></cite>.</para>
+
+		<media id="idm11244064" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/beethoven_sym2_1.mp3" id="mus_sym2_1" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Symphony No. 2, I"/><param name="comments" value="main theme"/><param name="total-time" value=""/><param name="label-number" value="Sony 47651"/><param name="performer" value="George Szell, conductor; Cleveland Orchestra"/></audio></media>	
+
+		<para id="id14860104">We will now fast forward to later in the movement. Do you recognize the return of the opening?  What rhetorically reinforces it?
+		</para>
+
+		<media id="idm585248" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/beethoven_sym2_2.mp3" id="mus_" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Symphony No. 2, I"/><param name="comments" value="return of the opening theme"/><param name="total-time" value=""/><param name="label-number" value="Sony 47651"/><param name="performer" value="George Szell, conductor; "/></audio></media>	
+
+		<para id="id14860143">After an intense flurry of activity, the rhythm suddenly stopped. The texture and dynamics changed. The musical dimensions shifting in coordination signaled that an important formal arrival was taking place.
+		</para>
+	</example>
+
+	<example id="ex_bartok1">
+		<para id="id14860160">The Finale of Bartok’s <cite><cite-title>Concerto No. 1</cite-title></cite> begins with the following explosive theme.
+		</para>
+
+		<media id="idm2877504" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/bartok_concerto_1.mp3" id="mus_bartok1_1" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="Concerto No. 1"/><param name="comments" value="theme"/><param name="total-time" value=""/><param name="label-number" value="Deustche Grammophon 395 323 5"/><param name="performer" value="Maurizio Pollini, piano; Chicago Symphony"/></audio></media>	
+
+		<para id="id14860191">Once again, we will fast forward to later in the movement.  Once again, do you recognize the return of the opening?  What rhetorically reinforces it?
+		</para>
+
+		<media id="idm470736" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/bartok_concerto_2.mp3" id="mus_bartok1_2" mime-type="audio/mpeg"><param name="composer" value="Bela Bartok"/><param name="title" value="Concerto No. 1"/><param name="comments" value="return to the opening idea"/><param name="total-time" value=""/><param name="label-number" value="Deustche Grammophon 395 323 5"/><param name="performer" value="Maurizio Pollini, piano; Chicago Symphony; Claudio Abbado, conductor"/></audio></media>	
+
+<!--<para id="id14860202">Bela Bartok: Concerto No. 1 (3:39 &#x2013; 4:22)</para>-->
+
+		<para id="id14861450">Once again, a compounding of emphases marked the return: The rhythm stopped; there was a loud cymbal crash, followed by a dramatic change in volume and texture. <cite><cite-title>Rhetorical reinforcement</cite-title></cite> has created an unmistakable formal landmark.
+		</para>
+	</example>
+</section>
+
+<section id="id14861467">
+	<title>The Reinforcement of Extremes</title>
+
+	<para id="id14861474">
+When extremes reinforce each other, they create a particularly strong emphasis.
+	</para>
+
+	<example id="ex_franck">
+		<para id="id14861482">In his <cite><cite-title>Symphony in D</cite-title></cite>, Cesar Franck uses extremes of volume and density to emphasize two appearances of his main theme. The theme is initially played softly and sparely.
+		</para>
+
+		<media id="idm2545232" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/franck_symD_II.mp3" id="mus_franck_1" mime-type="audio/mpeg"><param name="composer" value="Cesar Franck"/><param name="title" value="Symphony in D, II"/><param name="comments" value="initial main theme"/><param name="total-time" value=""/><param name="label-number" value="Vanguard 4014"/><param name="performer" value="Sergiu Comissiona; Houston Symphony"/></audio></media>
+
+		<para id="id14861531">
+It returns later, this time played loudly by the full orchestra.
+		</para>
+
+		<media id="idm2471936" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/franck_symD_III.mp3" id="mus_franck_2" mime-type="audio/mpeg"><param name="composer" value="Cesar Franck"/><param name="title" value="Symphony in D, III"/><param name="comments" value="return of the theme"/><param name="total-time" value=""/><param name="label-number" value="Vanguard 4014"/><param name="performer" value="Sergiu Comissiona; Houston Symphony"/></audio></media>
+	</example>
+
+	<example id="ex_boulez">
+		<para id="id14861574">Similarly, in <cite><cite-title>Rituel</cite-title></cite>, Pierre Boulez introduces his primary theme in the solo oboe, with a sparse accompaniment.
+		</para>
+
+		<media id="idm4714320" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/boulez_rituel_1.mp3" id="mus_boulez_1" mime-type="audio/mpeg"><param name="composer" value="Pierre Boulez"/><param name="title" value="Rituel"/><param name="comments" value="primary theme"/><param name="total-time" value=""/><param name="label-number" value="Sony 45839"/><param name="performer" value="Pierre Boulez, BBC Symphony Orchestra"/></audio></media>	
+
+		<para id="id14861611">
+Later, the theme echoes between different instrumental groups, in a prolonged statement made powerful by is massive density and loud volume.
+		</para>
+
+		<media id="idm3958112" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/boulez_rituel_2.mp3" id="mus_boulez_2" mime-type="audio/mpeg"><param name="composer" value="Pierre Boulez"/><param name="title" value="Rituel"/><param name="comments" value="echoing theme"/><param name="total-time" value=""/><param name="label-number" value="Sony 45839"/><param name="performer" value="Pierre Boulez, BBC Symphony Orchestra"/></audio></media>	
+	</example>
+</section>
+<section id="element-245">
+	<title>Musical Climax</title>
+<para id="id14861651">When the greatest number of extremes coincides, a climax is created. A climax is the “most of the mosts:” It represents a work’s <emphasis>maximum emphasis</emphasis>.
+	</para>
+
+	<example id="ex_dissolution">
+		<para id="id14861670">The Finale of Igor Stravinsky’s <cite><cite-title>The Firebird</cite-title></cite> begins with the following theme:
+		</para>
+
+		<media id="idm4949488" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/stravinsky_dissolution_1.mp3" id="mus_dissolution_1" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Dissolution of Kashchei’s Palace “ from The Firebird"/><param name="comments" value="theme"/><param name="total-time" value=""/><param name="label-number" value="Sony 101700"/><param name="performer" value="Pierre Boulez; Chicago Symphony Orchestra"/></audio></media>
+
+		<para id="id14861713">
+Stravinsky brings the work to a close by using maximum repetition, volume, density and speed—both fast and slow--to create a majestic emphasis.
+		</para>
+
+		<media id="idp2142784" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/stravinsky_dissolution_2.mp3" id="mus_dissolution_2" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Dissolution of Kashchei’s Palace “ from The Firebird"/><param name="comments" value="closing"/><param name="total-time" value=""/><param name="label-number" value="Sony 101700"/><param name="performer" value="Pierre Boulez; Chicago Symphony Orchestra"/></audio></media>
+	</example>
+
+	<para id="id14861755">A climax typically highlights that which <emphasis>is most essential</emphasis>: It gives you the most direct, powerful statement of a work’s main idea.
+	</para>
+
+	<example id="ex_berg">
+		<para id="id14861771">In Alban Berg’s opera <cite><cite-title>Wozzeck</cite-title></cite>, the beleaguered soldier Wozzeck becomes convinced of his wife’s infidelity. He lures his wife to a deserted lake and stabs her. Throughout the scene, as Wozzeck is contemplating his wife’s
+murder, a fixed pitch hovers perpetually in the background. After Wozzeck has slain his wife, Berg creates one of the most
+spectacular and climactic rhetorical reinforcements in music history: The fixed pitch swells in intensity until it consumes the entire orchestra. Emphases of duration, volume, register and density are all joined together. That which is most essential is given its strongest emphasis.
+		</para>
+
+		<media id="idm11305632" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/berg_wozzeck.mp3" id="mus_berg" mime-type="audio/mpeg"><param name="composer" value="Alban Berg"/><param name="title" value="Wozzeck, Act III, Scene 2"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="CBS 30852"/><param name="performer" value="Walter Berry, Isabel Strauss; Orchestre de l’Opera Paris; Pierre Boulez, conductor"/></audio></media>
+	</example>
+</section>
+
+<section id="id14862660">
+	<title>The Absence of Rhetorical Reinforcement</title>
+
+	<para id="id14862667">When a player for the home team hits a home run, the crowd rises to its feet cheering, music plays, the scoreboard flashes a replay: Strong rhetorical reinforcement occurs. But if a player for the visiting team hits a home run, the stadium is quiet: No one cheers, no sirens go off, no replays are shown. The fans refuse to acknowledge that an important event has occurred. There is an <emphasis>absence</emphasis> of rhetorical reinforcement.
+	</para>
+
+	<para id="id14862693">
+Such equanimity is crucial when you play cards: If you are dealt four aces, it is important to maintain a “poker face,” betraying no hint of your good fortune.
+	</para>
+
+	<para id="id14862706">
+Similarly, in music, it is possible for the rhetorical reinforcement to be weak or absent.
+	</para>
+
+	<example id="ex_schubert"><para id="id14862715">Listen to the opening of Schubert’s <cite><cite-title>Quintet in C for two violins, viola and two cellos</cite-title></cite>.
+		</para>
+
+		<media id="idm11065376" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/schubert_quintetC_1.mp3" id="mus_schubert_1" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Quintet in C, I"/><param name="comments" value="opening"/><param name="total-time" value=""/><param name="label-number" value="Sony 53983"/><param name="performer" value="Isaac Stern, Cho-Liang Lin, violins: Jaime Laredo, viola: Yo-Yo Ma, Sharon Robinson, cellos"/></audio></media>
+
+<para id="id14862756">Once again, we will fast forward to later in the movement. Do you recognize the return?
+</para>
+
+		<media id="idm3542688" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/schubert_quintetC_2.mp3" id="mus_schubert_2" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Quintet in C, I"/><param name="comments" value="return of the opening"/><param name="total-time" value=""/><param name="label-number" value="Sony 53983"/><param name="performer" value="Isaac Stern, Cho-Liang Lin, violins: Jaime Laredo, viola: Yo-Yo Ma, Sharon Robinson, cellos"/></audio></media>
+
+<para id="id14862789">
+You may have hesitated this time. Why? This time, the rhetorical reinforcement is much less emphatic.
+</para>
+
+<para id="id14862802">
+At the opening, the strings move together in very slow values.
+</para>
+
+		<media id="idm1534208" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/schubert_quintetC_3.mp3" id="mus_schubert_3" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Quintet in C, I"/><param name="comments" value="slow opening"/><param name="total-time" value=""/><param name="label-number" value="Sony 53983"/><param name="performer" value="Isaac Stern, Cho-Liang Lin, violins: Jaime Laredo, viola: Yo-Yo Ma, Sharon Robinson, cellos"/></audio></media>
+
+<para id="id14862834">At the return, the instruments <emphasis>should</emphasis> change speed, texture and dynamic together. But the first violin does not cooperate! Instead, it continues with its pattern from the <emphasis>previous</emphasis>  section. Thus, a united emphasis does not take place: The first violin is <emphasis>out-of-phase</emphasis> with the other instruments, creating a weaker acknowledgment of the form.
+</para>
+
+		<media id="idp2733104" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/schubert_quintetC_4.mp3" id="mus_schubert_4" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Quintet in C, I"/><param name="comments" value="changes in the return"/><param name="total-time" value=""/><param name="label-number" value="Sony 53983"/><param name="performer" value="Isaac Stern, Cho-Liang Lin, violins: Jaime Laredo, viola: Yo-Yo Ma, Sharon Robinson, cellos"/></audio></media>
+
+		<para id="id14862893">Whereas strong rhetorical reinforcement promotes <emphasis>clarity</emphasis>, weak or absent rhetorical reinforcement creates <emphasis>ambiguity</emphasis>. The degree of rhetorical reinforcement is one of the strongest measures of compositional intent. Schubert <emphasis>could have</emphasis> created a strongly articulated return. However, he chose to maintain a “poker face,” making the return less obvious. Why? This question can become a point-of-entry into a more in-depth study of the piece.
+		</para>
+	</example>
+
+	<example id="ex_feldman">
+		<para id="id14862932">Climaxes depend on coordination between the musical dimensions. As a result, highly <emphasis>unrhetorical</emphasis> music will tend <emphasis>not</emphasis> to have a climax: The different dimensions are too out-of-phase from one another to create a clear structural alignment. In Morton Feldman’s <cite><cite-title>Why Patterns?</cite-title></cite>, the three players—flute, glockenspiel and piano—are instructed to proceed independently through the score. The synchronization of the players varies from one performance to the next; each time, the combination of the parts is unique. Under such conditions, rhetorical reinforcement and a reliable climax are impossible to produce. Feldman related this to the absence of perspective in Abstract Expressionist art: He wrote of “flattening the aural canvas” so that it lacked rhetorical peaks.
+		</para>
+
+		<media id="idm3239872" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/emphasis/disc2/feldman_whypatterns.mp3" id="mus_feldman" mime-type="audio/mpeg"><param name="composer" value="Morton Feldman"/><param name="title" value="Why Patterns?"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="New Albion 039"/><param name="performer" value="The California E.A.R. Unit"/></audio></media>	
+	</example>
+</section>
+
+<section id="id14863009">
+	<title>Conclusion</title>
+
+	<para id="id14863016">Duration, change and extremes are primary ways of creating emphasis in a musical composition. Being alert to such emphases--how they are created and what they are signaling—helps you to recognize significant musical events. When emphases are aligned to signal a formal landmark, <emphasis>rhetorical reinforcement</emphasis> is created. Strong rhetorical reinforcement promotes clarity; weak or absent rhetorical reinforcement promotes ambiguity.
+	</para>
+</section>
+</content>
+</document>

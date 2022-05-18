@@ -1,0 +1,123 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Final Closure</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35160</md:content-id>
+  <md:title>Listening Gallery: Final Closure</md:title>
+  <md:abstract/>
+  <md:uuid>1c673f99-03f4-40e5-9ef3-20e9b530e28e</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-89">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="delete_me">Each of these excerpts are from works in <term>minor</term>.  How do they <emphasis>end?</emphasis></para><exercise id="eip-397"><q:item id="item_bach" type="single-response">
+		<q:question>
+			<section id="s_bach">
+				<para id="p_bach"> 
+<media id="id1594805" alt="" display="block"><audio src="Bach44" id="Bach44" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Two-Part Invention in d-minor"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Glenn Gould, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="bach_final"><q:response>Final cadence in minor</q:response></q:answer>
+
+		<q:answer id="bach_third"><q:response>Picardy Third</q:response></q:answer>
+
+<q:answer id="bach_close"><q:response>Closing section in Major</q:response></q:answer>
+
+		<q:feedback>Final cadence in minor.  If you noticed brief postponement of closer in the final phrase, you're correct!</q:feedback>
+
+		<q:key answer="bach_final"/>
+	</q:item>
+</exercise><exercise id="eip-469"><q:item id="item_bach2" type="single-response">
+		<q:question>
+			<section id="s_bach2">
+				<para id="p_bach2"> 
+<media id="id1594806" alt="" display="block"><audio src="Bach46" id="Bach46" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Two-Part Invention in c-minor"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Glenn Gould, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="bach2_final"><q:response>Final cadence in minor</q:response></q:answer>
+
+		<q:answer id="bach2_third"><q:response>Picardy Third</q:response></q:answer>
+
+<q:answer id="bach2_close"><q:response>Closing section in Major</q:response></q:answer>
+
+		<q:feedback>Picardy Third</q:feedback>
+
+		<q:key answer="bach2_third"/>
+	</q:item>
+</exercise><exercise id="eip-851"><q:item id="item_hay" type="single-response">
+		<q:question>
+			<section id="s_hay">
+				<para id="p_hay"> 
+<media id="id1594807" alt="" display="block"><audio src="Haydn12" id="Haydn12" mime-type="audio/mpeg"><param name="composer" value="Joseph Haydn"/><param name="title" value="String Quartet in d-minor, Opus 76m no. 2, 'Quinten' Finale"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Vox"/><param name="performer" value="The Concord String Quartet"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="hay_final"><q:response>Final cadence in minor</q:response></q:answer>
+
+		<q:answer id="hay_third"><q:response>Picardy Third</q:response></q:answer>
+
+<q:answer id="hay_close"><q:response>Closing section in Major</q:response></q:answer>
+
+		<q:feedback>Closing Section in Major</q:feedback>
+
+		<q:key answer="hay_close"/>
+	</q:item>
+</exercise><exercise id="eip-589"><q:item id="item_chop" type="single-response">
+		<q:question>
+			<section id="s_chop">
+				<para id="p_chop"> 
+<media id="id1594808" alt="" display="block"><audio src="Chopin06" id="Chopin06" mime-type="audio/mpeg"><param name="composer" value="Frederic Chopin"/><param name="title" value="Prelude in b-minor"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon"/><param name="performer" value="Martha Argerich, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="chop_final"><q:response>Final cadence in minor</q:response></q:answer>
+
+		<q:answer id="chop_third"><q:response>Picardy Third</q:response></q:answer>
+
+<q:answer id="chop_close"><q:response>Closing section in Major</q:response></q:answer>
+
+		<q:feedback>Final cadence in minor</q:feedback>
+
+		<q:key answer="chop_final"/>
+	</q:item>
+</exercise><exercise id="eip-565"><q:item id="item_rak" type="single-response">
+		<q:question>
+			<section id="s_rak">
+				<para id="p_rak"> 
+<media id="id1594809" alt="" display="block"><audio src="Dvorak05" id="Dvorak05" mime-type="audio/mpeg"><param name="composer" value="Antonin Dvorak"/><param name="title" value="Symphony No. 9 'From the New World,' - IV"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="New York Philharmonic, Leonard Bernstein"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="rak_final"><q:response>Final cadence in minor</q:response></q:answer>
+
+		<q:answer id="rak_third"><q:response>Picardy Third</q:response></q:answer>
+
+<q:answer id="rak_close"><q:response>Closing section in Major</q:response></q:answer>
+
+		<q:feedback>Closing section in major</q:feedback>
+
+		<q:key answer="rak_close"/>
+	</q:item>
+</exercise><exercise id="eip-132"><q:item id="item_beat" type="single-response">
+		<q:question>
+			<section id="s_beat">
+				<para id="p_beat"> 
+<media id="id1594801" alt="" display="block"><audio src="Beatles01" id="Beatles01" mime-type="audio/mpeg"><param name="composer" value="Paul McCartney/John Lennon"/><param name="title" value="And I Love Her"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Impulse International"/><param name="performer" value="The London Symphony Orchestra and Chorus"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="beat_final"><q:response>Final cadence in minor</q:response></q:answer>
+
+		<q:answer id="beat_third"><q:response>Picardy Third</q:response></q:answer>
+
+<q:answer id="beat_close"><q:response>Closing section in Major</q:response></q:answer>
+
+		<q:feedback>Picardy Third</q:feedback>
+
+		<q:key answer="beat_third"/>
+	</q:item>
+</exercise>
+</content>
+
+</document>

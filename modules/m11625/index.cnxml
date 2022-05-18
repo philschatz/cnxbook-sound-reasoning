@@ -1,0 +1,223 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+  <title>Listening Gallery: Time's Effect</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>162f7739-f9e0-4f85-9a1d-158d957e31dd</md:uuid>
+</metadata>
+
+  <content>
+    <note id="idm711392">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><exercise id="e1">
+      <q:item type="single-response" id="e1i">
+	<q:question>
+	  <section id="e1q">
+	    <para id="e1qp1">
+	      Listen to this movement from Bach's <cite><cite-title>Cantata
+	      No. 52</cite-title></cite>.  <!--Click when the opening passage returns.-->
+              Does time have an effect on the material?
+	    </para>
+	    <!--need a time value-->
+	    <!--No interactive files yet-->
+	    <media id="idm11365120" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/Bach__Hochster.mp3" id="e1qmusic1" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Hochster, from Cantata No. 52"/><param name="comments" value="Jauchzet Gott in allen Landen"/><param name="total-time" value="262"/><param name="label-number" value="L'Oiseau-Lyre 455 706-2"/><param name="performer" value="Julianne Baird, The Bach Ensemble, Joshua Rifkin"/></audio></media>
+	  </section>
+	</q:question>
+	<q:answer id="e1a1">
+	  <q:response>
+	    Time does not have an effect.
+	  </q:response>
+	</q:answer>
+	<q:answer id="e1a2">
+	  <q:response>
+	    Time does have an effect.
+	  </q:response>
+	</q:answer>
+	<q:feedback>
+	  The opening section is reprised exactly and in its entirety.
+	  Time does not have an effect.
+	</q:feedback>
+	<q:key answer="e1a1"/>
+      </q:item>
+    </exercise>
+    <exercise id="e2">
+      <q:item type="single-response" id="e2i">
+	<q:question>
+	  <section id="e2qs1">
+	    <para id="e2qs1p1">
+	      Listen to the second, third and fourth movements of Earl
+	      Kim's <cite><cite-title>Now and Then</cite-title></cite>.  The second movement,
+	      <cite><cite-title>Thither</cite-title></cite>, is reprised.  Does time have an
+	      effect?
+	    </para>
+	    <!--doublecheck performer value-->
+	    <media id="idp3522416" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/38_Earl_Kim_Now_and_Then_II.mp3" id="e2qmusic1" mime-type="audio/mpeg"><param name="composer" value="Earl Kim"/><param name="title" value="Now and Then"/><param name="comments" value="II, thither"/><param name="total-time" value="39"/><param name="label-number" value="New World 80561-2"/><param name="performer" value="Karol Bennett, Jean deMart"/></audio></media>
+	    <media id="idm11379664" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/38_Earl_Kim_Now_and_Then_III.mp3" id="e2qmusic2" mime-type="audio/mpeg"><param name="composer" value="Earl Kim"/><param name="title" value="Now and Then"/><param name="comments" value="III, Roundelay"/><param name="total-time" value="183"/><param name="label-number" value="New World 80561-2"/><param name="performer" value="Karol Bennett, Jean deMart"/></audio></media>
+	    <media id="idm4522288" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/38_Earl_Kim_Now_and_Then_IV.mp3" id="e2qmusic3" mime-type="audio/mpeg"><param name="composer" value="Earl Kim"/><param name="title" value="Now and Then"/><param name="comments" value="IV, thither (reprise)"/><param name="total-time" value="39"/><param name="label-number" value="New World 80561-2"/><param name="performer" value="Karol Bennett, Jean deMart"/></audio></media>
+	  </section>
+	</q:question>
+	<q:answer id="e2a1">
+	  <q:response>
+	    Time does not have an effect.
+	  </q:response>
+	</q:answer>
+	<q:answer id="e2a2">
+	  <q:response>
+	    Time does have an effect.
+	  </q:response>
+	</q:answer>
+	<q:feedback>
+	  <section id="e2fs1">
+	    <para id="e2fs1p1">
+	      The second movement song, <cite><cite-title>Thither</cite-title></cite>, is
+	      replayed identically.  Time does not have an effect.
+	    </para>
+	  </section>
+	</q:feedback>
+	<q:key answer="e2a1"/>
+      </q:item>
+    </exercise>
+
+    <exercise id="e5">
+      <problem id="idp2493520">
+	<para id="e5prp1">
+	  Click when you hear a new section.  Use the pull-down
+	  menus to label the section.  Use the prime notation if a
+	  refrain is transformed in some way.
+	</para>
+	<media id="idm704736" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/Beethoven__Piano_Sonata_C_minor_opus_13.mp3" id="e5music1" mime-type="audio/mpeg"><param name="composer" value="Ludwig Van Beethoven"/><param name="title" value="Piano Sonata in c-minor, Opus 13,      Pathetique"/><param name="comments" value=""/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/times_effect/Beethoven__Piano_Sonata_C_minor_opus_13.tt"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/times_effect/Beethoven__Piano_Sonata_C_minor_opus_13.int"/><param name="total-time" value=""/><param name="label-number" value="Philips 289 468 140-2"/><param name="performer" value="Friedrich Gulda"/></audio></media>
+      </problem>
+      <solution id="idm927584">
+	<para id="e5sop1">
+	  The first refrain of the A-section is literal.  The only
+	  change is that, this time, the melody is played only once
+	  and then proceeds directly into the C-section, rendering the
+	  connection more impulsive.
+	</para>
+	<para id="e5sop2">
+	  The C-section is characterized by a new, faster underlying
+	  rhythm.  When the A-section once again returns, the
+	  accompaniment does <emphasis>not</emphasis> revert to its
+	  earlier speed as expected.  Instead, the C-section's faster
+	  rhythm <emphasis>continues</emphasis>, blurring the
+	  distinction between the two sections.  Instead of reverting
+	  to the original A-section, Beethoven's ending is gently
+	  <emphasis>progressive</emphasis>.
+	</para>
+      </solution>
+    </exercise> 
+ 
+    <exercise id="e6">
+      <problem id="idm1835616">
+	<para id="e6prp1">
+	  Click whenever you hear a return to the opening passage.  Has
+	  time had an effect?
+	</para>
+	<media id="idm2815952" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/Mozart__Piano_Sonata_C_minor_III.mp3" id="e6music1" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Piano Sonata in c-minor, KV 457"/><param name="comments" value=""/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/times_effect/Mozart__Piano_Sonata_C_minor_III.int"/><param name="total-time" value=""/><param name="label-number" value="Bis-CD-839"/><param name="performer" value="Rondald Brautigan"/></audio></media>
+      </problem>
+      <solution id="idm3704448">
+	<para id="e6sop1">
+	  The first refrain of the A-section is literal and complete.
+	  The second begins identically, but then a haunting
+	  transformation takes place: The theme, which had been
+	  continuous, is broken up into fragments, separated by
+	  silences.
+	</para>
+	<media id="idm2255984" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/Mozart__Piano_Sonata_C_minor_III_sub1.mp3" id="e6music2" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Piano Sonata in c-minor, KV 457"/><param name="comments" value=""/><param name="total-time" value="16"/><param name="label-number" value="Bis-CD-839"/><param name="performer" value="Rondald Brautigan"/></audio></media>
+	<para id="e6sop2">
+	  Time has had an effect! Where do the silences come from?
+	  Compare the starting and stopping nature of the
+	  A′-section with this passage from earlier in the work:
+	  <media id="idm828000" alt=""><audio src="http://music.cnx.rice.edu/Brandt/times_effect/Mozart__Piano_Sonata_C_minor_III_sub2.mp3" id="e6music3" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Piano Sonata in c-minor, KV 457"/><param name="comments" value=""/><param name="total-time" value="26"/><param name="label-number" value="Bis-CD-839"/><param name="performer" value="Rondald Brautigan"/></audio></media>
+	</para>
+	<para id="e6sop3">
+	  Mozart never returns to the original A-section: The
+	  fragmented version is the last one we hear.
+	</para>
+      </solution>
+    </exercise>
+
+    <exercise id="e7">
+      <problem id="idm1143200">
+	<para id="e7prp1">
+	  Click whenever you hear a return to the opening passage.
+	  Has time had an effect?
+	</para>
+	<media id="idm9908928" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/Rochberg__String_Quartet_no_6_IV.mp3" id="e7music1" mime-type="audio/mpeg"><param name="composer" value="George Rochberg"/><param name="title" value="String Quartet No. 6"/><param name="comments" value="IV"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/times_effect/Rochberg__String_Quartet_no_6_IV.int"/><param name="total-time" value=""/><param name="label-number" value="New World 80551-2"/><param name="performer" value="The Concord String Quartet"/></audio></media>
+      </problem>
+      <solution id="idm3310976">
+	<media id="idm3310720" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/Rochberg__String_Quartet_no_6_IV.mp3" id="e7music2" mime-type="audio/mpeg"><param name="composer" value="George Rochberg"/><param name="title" value="String Quartet No. 6"/><param name="comments" value="IV"/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/times_effect/Rochberg__String_Quartet_no_6_IV.tt"/><param name="total-time" value=""/><param name="label-number" value="New World 80551-2"/><param name="performer" value="The Concord String Quartet"/></audio></media>
+	<para id="e7sop1">
+	  At the first refrain, time does have an effect.  The opening
+	  rhythmic patterns return only in the lower strings,
+	  juxtaposed against a lyrical melody in the first violin.  As
+	  the section is prolonged, the rhythmic patterns and melodic
+	  fragments circulate among the instruments.
+	</para>
+	<para id="e7sop2">
+	  At the final refrain, time does not have an effect.  The
+	  ending is a literal restatement of the opening passage.  It
+	  is, however, cut short and ends unexpectedly in the middle
+	  of a phrase.  If you chose that "time does have an
+	  effect" for this reason, then you have a valid argument.
+	</para>
+	<para id="e8sop3">
+	  The second half of this movement is filled with fragmentary
+	  refrains of earlier passages. These fragments are relatively
+	  equal in length; the final refrain of the A-section fits the
+	  expected proportion.  So, although it is abbreviated, the
+	  final refrain is not shockingly short: The music has never
+	  offered a complete restatement; it has taught us to expect
+	  only excerpts.  In all other respects, the final
+	  refrain's identity is secure. That is why, in my
+	  opinion, the listener will consider that time has not had an
+	  effect--or has had a negligible one--at the
+	  movement's close.  Nevertheless, the movement ends
+	  suspensively, preparing the way for the quartet to continue.
+	</para>
+      </solution>
+    </exercise>  
+
+	<exercise id="ex_schubert">
+		
+		<q:item id="i_schubert" type="single-response">
+			<q:question><section id="s_beethoven">
+				<para id="p1_beethoven">
+					Listen to the opening of Schubert’s <cite><cite-title>String Quartet no. 15 in G-Major</cite-title></cite> and compare it with its refrain later in the movement.  Has time had an effect on the material?
+				</para>
+
+				<media id="idm2744912" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/schubert_quartet_1.mp3" id="mus_schubert_1" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="String Quartet in G-Major, D. 887, I"/><param name="comments" value="opening"/><param name="total-time" value=""/><param name="label-number" value="Gunmar 2018"/><param name="performer" value="The Franz Schubert String Quartet"/></audio></media>
+
+<media id="idp2433584" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/schubert_quartet_2.mp3" id="mus_schubert_2" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="String Quartet in G-Major, D. 887, I"/><param name="comments" value="refrain"/><param name="total-time" value=""/><param name="label-number" value="Gunmar 2018"/><param name="performer" value="The Franz Schubert String Quartet"/></audio></media>
+			</section></q:question>	
+
+			<q:answer id="schubert_yes"><q:response>Yes, time has an effect.</q:response></q:answer>
+			<q:answer id="schubert_no"><q:response>No, time does not have effect.</q:response></q:answer>
+
+			<q:feedback><section id="feed1"><para id="p_feed">
+					Yes, time has an effect.  The refrain has a very different character than the opening: It is more gentle and lyrical.  Plucked sounds take the place of the aggressive chords.  The dotted rhythms of the opening are smoothed out. The melody hesitates where it didn’t before and adds embellishments.  All of these changes support a remarkable feature: The original version begins with a sustained G-Major triad that is replaced by a sharply accentuated g-minor chord.  The refrain does the <emphasis>reverse</emphasis>: It is the minor that enters first, only to be replaced by the Major one, this time gracefully plucked!  Even if the tonal contrast between Major and minor is unfamiliar or hard to hear, you won’t miss the other transformations that support this switch.</para></section>
+			</q:feedback>
+
+			<q:key answer="schubert_yes"/>
+		</q:item>
+	
+	</exercise>
+
+	<exercise id="ex_shost">
+		<q:item id="i_shost" type="single-response">
+			<q:question><section id="s_shost">
+				<para id="p_shost">
+					Listen to the following excerpt from Dmitri Shostakovich’s <cite><cite-title>String Quartet No. 7</cite-title></cite>.  When the reprise of the opening occurs, does time have an effect on the material?
+				</para>
+				
+				<media id="idp2540528" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/times_effect/shostakovich_quartet.mp3" id="mus_shost" mime-type="audio/mpeg"><param name="composer" value="Dmitri Shostakovich"/><param name="title" value="String Quartet No. 7, I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Decca B0000042HV"/><param name="performer" value="Fitzwilliam String Quartet"/></audio></media>	
+			</section></q:question>
+
+			<q:answer id="shost_yes"><q:response>Yes, time has an effect.</q:response></q:answer>
+			<q:answer id="shost_no"><q:response>No, time does not have effect.</q:response></q:answer>
+
+			<q:feedback>
+				Yes, time has an effect.  In the return, the theme is mainly plucked, rather than bowed.  There are sudden interjections.  The rhythms are also subtly changed.
+			</q:feedback>
+			
+			<q:key answer="shost_yes"/>
+		</q:item>
+	</exercise><para id="element-450">FURTHER LISTENING: Maurice Ravel's "Bolero" is a seminal example of time strengthening the material.  The piece consists of the same melody repeated over and over, each time with heavier orchestration.  Alvin Lucier's "I Am Sitting In A Room" is an experimental example of time weakening the material.  The composer recorded himself reading a brief text.  He then broadcast the recording into a room and recorded it. He took that recording, broadcast it and recorded it.  As he repeated this circular process, the fidelity of the recording gradually degraded, until all that was left was the resonance frequency of the room vibrating with the rhythm of his voice.  </para>
+
+  </content>
+</document>

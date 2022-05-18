@@ -1,0 +1,169 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+<title>Listening Gallery: Expository and Developmental</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5400e5ea-b868-423f-a141-cddad521fa2b</md:uuid>
+</metadata>
+<content>
+<note id="idm1247040">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><exercise id="ex_rach">
+	<q:item id="item_rach" type="single-response">
+		<q:question>
+			<section id="s_rach">
+				<para id="p_rach"> Please listen to each pair of excerpts, and indicate which is 					expository and which developmental.</para>
+
+				<media id="idm3287424" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/rachmaninoff_piano3_1.mp3" id="mus_rach_1" mime-type="audio/mpeg"><param name="composer" value="Rachmaninoff"/><param name="title" value="Piano Concerto No. 3, I"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="TelArc CD-80259"/><param name="performer" value="Horacio Gutiérrez, piano; Lorin Maazel, Pittsburgh Symphony Orchestra"/></audio></media>
+
+				<media id="idm24704" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/rachmaninoff_piano3_2.mp3" id="mus_rach_2" mime-type="audio/mpeg"><param name="composer" value="Rachmaninoff"/><param name="title" value="Piano Concerto No. 3, I"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="TelArc CD-80259"/><param name="performer" value="Horacio Gutiérrez, piano; Lorin Maazel, Pittsburgh Symphony Orchestra"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="rach1_exp"><q:response>Excerpt 1 is expository; excerpt 2 is developmental.</q:response></q:answer>
+
+		<q:answer id="rach1_dev"><q:response>Excerpt 1 is developmental; excerpt 2 is expository.</q:response></q:answer>
+
+		<q:feedback>The first excerpt is expository. The solo piano presents a lyrical melody, supported by 			the orchestra.  The second excerpt is developmental: It is fast changing, with an intricate dialogue 			between the piano and the orchestra.</q:feedback>
+
+		<q:key answer="rach1_exp"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_stravinsky">
+	<q:item id="item_strav" type="single-response">
+		<q:question>
+			<section id="s_strav">
+
+				<para id="p_strav">
+					Please listen to each pair of excerpts, and indicate which is expository and 						which developmental.
+				</para>
+
+				<media id="idm1358496" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/" id="mus_strav1" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Infernal dance of King Kachtchei” from The Firebird"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="DG 101700"/><param name="performer" value="Pierre Boulez, Chicago Symphony"/></audio></media>
+
+				<media id="idm2871968" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/" id="mus_strav2" mime-type="audio/mpeg"><param name="composer" value="Igor Stravinsky"/><param name="title" value="“Infernal dance of King Kachtchei” from The Firebird"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="DG 101700"/><param name="performer" value="Pierre Boulez, Chicago Symphony"/></audio></media>
+			</section>
+		</q:question>
+		
+		<q:answer id="strav1_exp"><q:response>excerpt 1 is expository; excerpt 2 is developmental.</q:response></q:answer>
+	
+		<q:answer id="strav2_exp"><q:response>excerpt 1 is developmental; excerpt 2 is expository.</q:response></q:answer>
+
+		<q:feedback>
+			The first excerpt is expository: It is repetitive, presenting successive statements of the 				theme. The second excerpt presents overlapping entrances of the theme in rapidly changing 				instruments and registers. It is developmental.
+		</q:feedback>
+
+		<q:key answer="strav1_exp"/>
+	</q:item>
+</exercise>
+<exercise id="ex_jazz">
+	<q:item id="item_jazz" type="single-response">
+		<q:question>
+			<section id="s_jazz">
+				<para id="id7900472">
+					Please listen to the following short work. Which predominates---the 						expository or the developmental?
+				</para>
+
+				<media id="idm4101584" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/anderson_legato.mp3" id="mus_jazz" mime-type="audio/mpeg"><param name="composer" value="Leroy Anderson"/><param name="title" value="Jazz Legato"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="MCAD-11710"/><param name="performer" value="Leroy Anderson, conductor"/></audio></media>
+			</section>
+		</q:question>
+		
+		<q:answer id="jazz_exp"><q:response>Exposition predominates.</q:response></q:answer>
+		<q:answer id="jazz_dev"><q:response>Development predominates.</q:response></q:answer>
+
+		<q:feedback>
+			Exposition predominates: The entire piece is characterized by uninterrupted phrases, 				repetitions of large sections and consistency of texture.
+		</q:feedback>
+
+		<q:key answer="jazz_exp"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_copland">
+	<q:item id="item_copland" type="single-response">
+		<q:question>
+			<section id="s_copland">
+				<para id="p_copland">
+					Please listen to the following short work. Which predominates---the 						expository or the developmental?
+				</para>
+
+				<media id="idm1415584" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/copland_countrylane.mp3" id="mus_copland" mime-type="audio/mpeg"><param name="composer" value="Aaron Copland"/><param name="title" value="Down a Country Lane"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="SM2K 47236"/><param name="performer" value="London Symphony Orchestra; Aaron Copland, conductor"/></audio></media>
+			</section>
+		</q:question>
+		
+		<q:answer id="copland_exp"><q:response>Exposition predominates.</q:response></q:answer>
+		<q:answer id="copland_dev"><q:response>Development predominates.</q:response></q:answer>
+
+		<q:feedback>
+			Exposition predominates. A short developmental section separates the opening thematic 				statement and its closing restatement.
+		</q:feedback>
+	
+		<q:key answer="copland_exp"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_bolcom">
+	<q:item id="item_bolcom" type="single-response">
+		<q:question>
+			<section id="s_bolcom">
+				<para id="p_bolcom">
+					Please listen to the following short work. Which predominates---the 						expository or the developmental?
+				</para>
+
+				<media id="idm4067232" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/bolcom_fast.mp3" id="mus_bolcom" mime-type="audio/mpeg"><param name="composer" value="William Bolcom"/><param name="title" value="“Fast and furious” from Twleve New Etudes"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="New World Records 354-2"/><param name="performer" value="Marc-André Hamelin, piano"/></audio></media>
+			</section>
+		</q:question>
+		
+		<q:answer id="bolcom_exp"><q:response>Exposition predominates.</q:response></q:answer>
+		<q:answer id="bolcom_dev"><q:response>Development predominates.</q:response></q:answer>
+
+		<q:feedback>
+			Development predominates. The etude traverses the entire range of the piano, is fleet, 				fragmentary and non-repetitive.
+		</q:feedback>
+
+		<q:key answer="bolcom_dev"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_chopin">
+	<q:item id="item_chopin" type="single-response">
+		<q:question>
+			<section id="s_chopin">
+				<para id="p_chopin">
+					Please listen to the following short work. Which predominates---the 						expository or the developmental?
+				</para>
+
+				<media id="idp2815616" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/chopin_prelude18.mp3" id="mus_chopin" mime-type="audio/mpeg"><param name="composer" value="Frederic Chopin"/><param name="title" value="Prelude No. 18 in f-minor"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 431 584-2"/><param name="performer" value="Martha Argerich, piano"/></audio></media>
+			</section>
+		</q:question>
+
+		<q:answer id="chopin_exp"><q:response>Exposition predominates.</q:response></q:answer>
+		<q:answer id="chopin_dev"><q:response>Development predominates.</q:response></q:answer>
+
+		<q:feedback>
+			The Prelude barely stands still. Therefore, development predominates. The music’s virtuosic 				character is created by its thorough, rapid progress and lack of extendive repetition.
+		</q:feedback>
+
+		<q:key answer="chopin_dev"/>
+	</q:item>
+</exercise>
+
+<exercise id="ex_messiaen">
+	<q:item id="item_messiaen" type="single-response">
+		<q:question>
+			<section id="s_messaien">
+				<para id="p_messaien">
+					Please listen to the following short work. Which predominates---the 						expository or the developmental?
+				</para>
+
+				<media id="idm487648" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/expository/messiaen_liturgie.mp3" id="mus_messiaen" mime-type="audio/mpeg"><param name="composer" value="Olivier Messiaen"/><param name="title" value="“Liturgie de Cristal” from Quartet for the End of Time"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 423 247-2"/><param name="performer" value="Luben Yordanoff, violin; Albert Tetard, cello; Claude Desurmont, clarinet; Daniel Barenboim, piano"/></audio></media>
+			</section>
+		</q:question>
+		
+		<q:answer id="messiaen_exp"><q:response>Exposition predominates.</q:response></q:answer>
+		<q:answer id="messiaen_dev"><q:response>Development predominates.</q:response></q:answer>
+
+		<q:feedback>
+			Exposition predominates. The music is strongly grounded. The violin and piano play a 				repetitive, rhythmically continuous accompaniment that “shimmers” as the clarinet’s unfurls a 				long, constantly evolving tune. The Liturgie certainly has developmental attributes: The 				improvisatory nature of the clarinet’s line keeps the music from sounding redundant or 				predictable. However, the underlying stability of the accompaniment and the persistent 				prominence of the clarinet make this primarily an expository statement.
+		</q:feedback>
+
+		<q:key answer="messiaen_exp"/>
+	</q:item>
+</exercise>
+</content>
+</document>

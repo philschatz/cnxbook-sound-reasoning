@@ -1,0 +1,141 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Harmonic Rhythm</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35162</md:content-id>
+  <md:title>Listening Gallery: Harmonic Rhythm</md:title>
+  <md:abstract/>
+  <md:uuid>9f955d4d-4457-48b6-b4ce-8848e0fbd74e</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-123">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="delete_me">In each example, does the <term>harmonic rhythm</term> speed up, slow down or stay the same?</para><exercise id="eip-550"><q:item id="item_schu" type="single-response">
+		<q:question>
+			<section id="s_schu">
+				<para id="p_schu"> 
+<media id="id1594805" alt="" display="block"><audio src="Schubert23" id="Schubert23" mime-type="audio/mpeg"><param name="composer" value="Franz Schubert"/><param name="title" value="Quartet in d-minor, 'Death and the Maiden'"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="CBS Masterworks MPK 45096"/><param name="performer" value="The Budapest String Quartet"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="schu_speed"><q:response>The harmonic rhythm speeds up</q:response></q:answer>
+
+		<q:answer id="schu_slow"><q:response>The harmonic rhythm slows down</q:response></q:answer>
+
+<q:answer id="schu_stay"><q:response>The harmonic rhythm stays the same</q:response></q:answer>
+
+		<q:feedback>The harmonic rhythm slows down.</q:feedback>
+
+		<q:key answer="schu_slow"/>
+	</q:item>
+</exercise><exercise id="eip-297"><q:item id="item_bach" type="single-response">
+		<q:question>
+			<section id="s_bach">
+				<para id="p_bach"> 
+<media id="id1594806" alt="" display="block"><audio src="Bach45" id="Bach45" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Three-Part Invetion in c-minor"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Glenn Gould, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="bach_speed"><q:response>The harmonic rhythm speeds up</q:response></q:answer>
+
+		<q:answer id="bach_slow"><q:response>The harmonic rhythm slows down</q:response></q:answer>
+
+<q:answer id="bach_stay"><q:response>The harmonic rhythm stays the same</q:response></q:answer>
+
+		<q:feedback>The harmonic rhythm stays the same.</q:feedback>
+
+		<q:key answer="bach_stay"/>
+	</q:item>
+</exercise><exercise id="eip-284"><q:item id="item_chop" type="single-response">
+		<q:question>
+			<section id="s_chop">
+				<para id="p_chop"> 
+<media id="id1594807" alt="" display="block"><audio src="Chopin07" id="Chopin23" mime-type="audio/mpeg"><param name="composer" value="Frederic Chopin"/><param name="title" value="Prelude no. 18 in f-minor"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon"/><param name="performer" value="Martha Argerich, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="chop_speed"><q:response>The harmonic rhythm speeds up</q:response></q:answer>
+
+		<q:answer id="chop_slow"><q:response>The harmonic rhythm slows down</q:response></q:answer>
+
+<q:answer id="chop_stay"><q:response>The harmonic rhythm stays the same</q:response></q:answer>
+
+		<q:feedback>The harmonic rhythm speeds up.</q:feedback>
+
+		<q:key answer="chop_speed"/>
+	</q:item>
+</exercise><exercise id="eip-330"><q:item id="item_bach2" type="single-response">
+		<q:question>
+			<section id="s_bach2">
+				<para id="p_bach2"> 
+<media id="id1594808" alt="" display="block"><audio src="Bach52" id="Bach52" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="'Prelude in c-minor' from The Well-Tempered Clavier, Book I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Celestial Harmonies"/><param name="performer" value="Roger Woodward, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="bach2_speed"><q:response>The harmonic rhythm speeds up</q:response></q:answer>
+
+		<q:answer id="bach2_slow"><q:response>The harmonic rhythm slows down</q:response></q:answer>
+
+<q:answer id="bach2_stay"><q:response>The harmonic rhythm stays the same</q:response></q:answer>
+
+		<q:feedback>The harmonic rhythm stays the same.</q:feedback>
+
+		<q:key answer="bach2_stay"/>
+	</q:item>
+</exercise><exercise id="eip-994"><q:item id="item_ber" type="single-response">
+		<q:question>
+			<section id="s_ber">
+				<para id="p_ber"> 
+<media id="id1594809" alt="" display="block"><audio src="Berlioz06" id="Berlioz06" mime-type="audio/mpeg"><param name="composer" value="Hector Berlioz"/><param name="title" value="Symphonie Fantastique, 'Un bal'"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Virgin Veritas"/><param name="performer" value="London Classical Players, Sir Roger Norrington"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="ber_speed"><q:response>The harmonic rhythm speeds up</q:response></q:answer>
+
+		<q:answer id="ber_slow"><q:response>The harmonic rhythm slows down</q:response></q:answer>
+
+<q:answer id="ber_stay"><q:response>The harmonic rhythm stays the same</q:response></q:answer>
+
+		<q:feedback>The harmonic rhythm speeds up.</q:feedback>
+
+		<q:key answer="ber_speed"/>
+	</q:item>
+</exercise><para id="eip-377">What happens to the harmonic rhythm when the choir sings "Parum sexcentenummate"?</para><exercise id="eip-950"><q:item id="item_orff" type="single-response">
+		<q:question>
+			<section id="s_orff">
+				<para id="p_orff"> 
+<media id="id1594801" alt="" display="block"><audio src="Orff2" id="Orff2" mime-type="audio/mpeg"><param name="composer" value="Carl Orff"/><param name="title" value="Carmina Burana"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Cleveland Orchestra and Chorus, Michael Tilson Thomas, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="orff_speed"><q:response>The harmonic rhythm speeds up</q:response></q:answer>
+
+		<q:answer id="orff_slow"><q:response>The harmonic rhythm slows down</q:response></q:answer>
+
+<q:answer id="orff_stay"><q:response>The harmonic rhythm stays the same</q:response></q:answer>
+
+		<q:feedback>The harmonic rhythm slows down.</q:feedback>
+
+		<q:key answer="orff_slow"/>
+	</q:item>
+</exercise><exercise id="eip-184"><q:item id="item_orff2" type="single-response">
+		<q:question>
+			<section id="s_orff2">
+				<para id="p_orff2"> 
+<media id="id1594802" alt="" display="block"><audio src="Orff1" id="Orff1" mime-type="audio/mpeg"><param name="composer" value="Carl Orff"/><param name="title" value="Carmina Burana"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Cleveland Orchestra and Chorus, Michael Tilson Thomas, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="orff2_speed"><q:response>The harmonic rhythm speeds up</q:response></q:answer>
+
+		<q:answer id="orff2_slow"><q:response>The harmonic rhythm slows down</q:response></q:answer>
+
+<q:answer id="orff2_stay"><q:response>The harmonic rhythm stays the same</q:response></q:answer>
+
+		<q:feedback>The harmonic rhythm speeds up.</q:feedback>
+
+		<q:key answer="orff2_speed"/>
+	</q:item>
+</exercise>
+</content>
+
+</document>

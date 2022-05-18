@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Harmonic Distance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35105</md:content-id>
+  <md:title>Harmonic Distance</md:title>
+  <md:abstract/>
+  <md:uuid>6243844c-55e3-46c6-99b7-be037ec52bcb</md:uuid>
+</metadata>
+
+<content>
+    <note id="eip-154">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="id1165739243253">The first element of a <term>modulation</term> is the <emphasis effect="bold">distance traveled</emphasis>. What does that mean in musical terms?</para>
+    <para id="id1165735292068">The primary measure of relatedness between keys is the <emphasis>number of notes shared in common: </emphasis>The greater the overlap, the more closely related the keys. Each Major key contains seven notes: Thus, the greatest possible overlap is six notes. Because there are twelve pitches in the chromatic scale, the minimum overlap is two notes (five distinct for each key plus two shared=all twelve pitches of the chromatic scale.)</para>
+    <para id="id1165729242250">In the West, hearing and vision are often correlated: For instance, we speak of pitches as “high” and “low” and of melodies “rising” and “falling.” This cross-domain mapping is not universal: As ethnomusicologists have shown, to the ancient Greeks, pitches were “sharp” or “heavy,” in Bali they are “small” or “large,” to the Saya people of the Amazon “young” and “old.” In Zimbabawe, what we call low pitches are “crocodiles,” whereas high ones are “those who follow crocodiles.” (Eitan and Timmers, “Beethoven’s last piano sonatas and those who follow crocodiles,” 9<sup>th</sup> International Conference on Music Perception and Cognition, 2006).</para>
+    <para id="id1165734062245">To Western ears, our musical-spatial framework is so ingrained, it is hard to realize it is only a cultural metaphor: To us. the piccolo is “above” the tuba, the singer “reaches” for her high note and voices may move in “parallel” or “contrary motion.”</para>
+    <para id="id1745083">While individual pitches are aligned on a <emphasis>vertical</emphasis> plane—up and down--keys tend to be “visualized” on a <emphasis>horizontal</emphasis> plane — near and far. Closely related keys are perceived as ”neighboring,” whereas those that are not are perceived as “distant.”</para>
+    <para id="id3821051">For instance, the pitches B and C lie very close together:</para>
+    <example id="eip-251"><media id="id1170036654934" alt="" display="block"><audio src="MIDI20" id="MIDI20" mime-type="audio/mpeg"><param name="composer" value=""/><param name="title" value="Pitch Example 1"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media></example><para id="id1165722949942">Meanwhile, there is a wider interval between C and G:</para>
+    <example id="eip-817"><media id="id1170036654935" alt="" display="block"><audio src="MIDI21" id="MIDI21" mime-type="audio/mpeg"><param name="composer" value=""/><param name="title" value="Pitch Example 2"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media></example><para id="id1165741397841">With respect to keys, however, the opposite is true: Because the keys of C-Major and G-Major share six notes in common, they are perceived as neighboring. </para>
+    <example id="eip-320"><media id="id1170036654936" alt="" display="block"><audio src="MIDI22" id="MIDI22" mime-type="audio/mpeg"><param name="composer" value=""/><param name="title" value="Pitch Example 3"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media></example><para id="id1165735308806">Meanwhile, C-Major and B-Major—which share only 2 of 7 notes—are heard as far apart.</para>
+    <example id="eip-793"><media id="id1170036654937" alt="" display="block"><audio src="MIDI23" id="MIDI23" mime-type="audio/mpeg"><param name="composer" value=""/><param name="title" value="Pitch Example 4"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value=""/><param name="performer" value=""/></audio></media>
+</example><para id="id1165734063539">The <term>circle of fifths</term> is an iconic diagram of keys arrayed in circle, like the face of a clock: The more notes two keys share in common, the closer they lie on the circle. </para>
+    <example id="eip-208"><title>Circle of Fifths</title><media id="circle_fifths" alt="fifths">
+	   
+  <image mime-type="image/png" src="../../media/Circle_of_fifths3.png"/>
+</media>
+</example><para id="id1165721203987">Each Major key is paired with the minor one whose “natural” form shares the same scale: For instance, the keys of C-Major and a-natural minor share exactly the same seven pitches. These are called the <emphasis>relative</emphasis> Major and minor, because their pitch content is so closely <emphasis>related</emphasis>. </para>
+    <para id="id1165743340413">The <term>circle of fifths</term> is the primary way of visualizing harmonic distance. It is common to speak of “traveling” around the circle. Note that, just as with the twelve-hour time cycle, twelve steps around the circle of fifths returns you to your starting point.</para>
+  </content>
+</document>

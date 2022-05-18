@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Listening Gallery: Musical Form</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>34e252fa-3e3e-46d9-a024-37339dcf158b</md:uuid>
+</metadata>
+
+  <content>
+    <note id="idp3893536">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="p1">
+      For each exercise, click when you hear a change of section.
+      Then, use the pull-down menus to label each section.  An A-form
+      requires no input. After you have listened to the example,
+      "click for solution" to check your analysis.
+    </para>
+    <exercise id="e1">
+      <problem id="idp3812128">
+	<!--Missing: total time, performer-->
+	<media id="idp2597584" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Schubert__An_den_Mond.mp3" id="e1music1" mime-type="audio/mpeg"><param name="composer" value="Schubert"/><param name="title" value="An Den Mond"/><param name="comments" value=""/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/musical_form/Schubert__An_den_Mond.tt"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/musical_form/Schubert__An_den_Mond.int"/><param name="total-time" value=""/><param name="label-number" value="CD AFA 7027"/><param name="performer" value=""/></audio></media>
+      </problem>
+      <solution id="idm6109264">
+	<para id="e1sop1">
+	  This is an A-B-A form.  The A-section is in the minor
+	  mode. It opens with a brief introduction, establishing the
+	  piano accompaniment's undulating rhythm; the voice then
+	  enters.  The A-section concludes with a long stopping
+	  point--the first interruption of the steady rhythm.
+	</para>
+	<para id="e1sop2">
+	  The B-section is in the contrasting Major mode.  It
+	  introduces a new melody and accompanying rhythm.  Just as
+	  the A-section, the B-section ends with a long stopping
+	  point.
+	</para>
+	<para id="e1sop3">
+	  The A-section then returns, beginning immediately at the
+	  entrance of the voice.  The original vocal line is reprised
+	  with minor changes.
+	</para>
+      </solution>
+    </exercise>
+    <exercise id="e2">
+      <problem id="idp6889248">
+	<media id="idp7742608" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Chopin__Prelude_in_C_major.mp3" id="e2music1" mime-type="audio/mpeg"><param name="composer" value="Chopin"/><param name="title" value="Prelude in C-Major"/><param name="comments" value=""/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/musical_form/Chopin__Prelude_in_C_major.tt"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/musical_form/Chopin__Prelude_in_C_major.int"/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 431 584-2"/><param name="performer" value="Martha Argerich, piano"/></audio></media>
+      </problem>
+      <solution id="idp4981040">
+	<para id="e2sop1">
+	  This is an A-form: The rhythm and texture remain constant
+	  throughout the composition.
+	</para>
+      </solution>
+    </exercise>
+    <exercise id="e3">
+      <problem id="idp7682640">
+	<media id="idp7682896" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Carter__Moto_Perpetuo.mp3" id="e3music1" mime-type="audio/mpeg"><param name="composer" value="Elliott Carter"/><param name="title" value="Eight Pieces for Timpani"/><param name="comments" value="Moto Perpetuo"/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/musical_form/Carter__Moto_Perpetuo.tt"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/musical_form/Carter__Moto_Perpetuo.int"/><param name="total-time" value=""/><param name="label-number" value="Bridge 9111"/><param name="performer" value="Daniel Druckman"/></audio></media>
+      </problem>
+      <solution id="idp2524144">
+	<para id="e3sop1">
+	  This is an A-form: As in the Chopin Prelude, the rhythm and
+	  texture remain constant throughout the composition.  (In
+	  this case, the texture is the oscillation between two
+	  timpani notes.)  The dynamic (loud/soft) is varied, but
+	  these fluctuations are too brief to create a strong
+	  contrast.
+	</para>
+      </solution>
+    </exercise>
+    <exercise id="e4">
+      <problem id="idp1975584">
+	<!--Missing: total time-->
+	<media id="idm6057328" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Powell__Thigamagig.mp3" id="e4music1" mime-type="audio/mpeg"><param name="composer" value="Mel Powell"/><param name="title" value="Thigamagig"/><param name="comments" value=""/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/musical_form/Powell__Thigamagig.tt"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/musical_form/Powell__Thigamagig.int"/><param name="total-time" value=""/><param name="label-number" value="Vanguard 79602-2"/><param name="performer" value="Mel Powell,, Ruby Braff, Bobby Donaldson"/></audio></media>
+      </problem>
+      <solution id="idp3565456">
+	<para id="e4sop1">
+	  There are two plausible ways of reading the form of this
+	  jazz composition.  The first is an A-B-A: The A-section is
+	  the song's main material, presented by all three
+	  instruments as an ensemble.  The B-section consists of
+	  improvisatory solos.  Then the A-section returns in its
+	  entirety.
+	</para>
+	<para id="e4sop2">
+	  A-B-C-D-A is another possible reading of the form.  This
+	  reading takes into account that there are three
+	  improvisations: first, the piano solo; second, the trumpet
+	  solo, accompanied by the piano; third, the drum solo,
+	  periodically punctuated by the other two instruments.
+	</para>
+	<para id="e4sop3">
+	  Throughout the solos, the rhythmic drive is steady.  The
+	  link between solos are carefully blurred: The piano keeps
+	  playing when the trumpet enters; both trumpet and piano play
+	  repeatedly during the drum solo.  As a result, a large
+	  A-B-A, in which the B-section is divided into three
+	  sub-sections, would be my preferred reading.
+	</para>
+      </solution>
+    </exercise>
+    <exercise id="e5">
+      <problem id="idm5515824">
+	<!--Missing: total time-->
+	<media id="idm5334240" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/musical_form/Schumann__Piano_Quartet_in_E_flat_major_III.mp3" id="e5music1" mime-type="audio/mpeg"><param name="composer" value="Robert Schumann"/><param name="title" value="Piano Quintet in E-Flat Major"/><param name="comments" value="III"/><param name="timed-text" value="http://music.cnx.rice.edu/Brandt/musical_form/Schumann__Piano_Quartet_in_E_flat_major_III.tt"/><param name="interactive" value="http://music.cnx.rice.edu/Brandt/musical_form/Schumann__Piano_Quartet_in_E_flat_major_III.int"/><param name="total-time" value=""/><param name="label-number" value="MPK 45885"/><param name="performer" value="Budapest String Quartet, Rudolf Serkin"/></audio></media>
+      </problem>
+      <solution id="idm6156704">
+	<para id="e5sop1">
+	  The sections in this movement are strongly contrasting and
+	  well-differentiated from each other.  The A-section is
+	  energetic and bold, with repeated upward scalar figures
+	  traded among the instruments.  The B-section is lyrical and
+	  softer.  The C-section is aggressive and turbulent,
+	  ratcheting up the tension to its highest peak.
+	</para>
+	<para id="e5sop2">
+	  The A-section is played three times.  The final time, it is
+	  extended to create a closing section or coda.
+	</para>
+      </solution>
+    </exercise>
+  </content>
+  
+</document>

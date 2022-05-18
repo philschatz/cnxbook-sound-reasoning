@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Maintaining Identity</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3a5a13f5-33d9-4aa1-b305-8a5f6fbd5fa9</md:uuid>
+</metadata>
+  <content>
+<note id="idp7823984">You must have the latest version of Macromedia's free <link url="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash&amp;application/x-shockwave-flash">Flash plugin</link> to play the musical
+	examples.  </note><para id="element-77">Once a musical identity has been established, how is it maintained?  <term>Literal repetition</term>—the same music played over and over –is the most direct way of maintaining identity.</para><example id="element-555"><para id="element-657">In this excerpt from Antonio Vivaldi’s <emphasis>The Four Seasons</emphasis>, all that changes in the repetition is the dynamics.
+	</para>
+
+<media id="idp9310096" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/maintainingidentity/ex1.mp3" id="ex1" mime-type="audio/mpeg"><param name="composer" value="Antonio Vivaldi"/><param name="title" value="Spring from The Four Seasons"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Harmonia Mundi 05472-77384-2"/><param name="performer" value="Freiburg Baroque Orchestra, Gottfried von der Goltz "/></audio></media>
+</example><example id="element-658"><para id="element-122">
+Popular music relies heavily on <emphasis>literal repetition</emphasis> to maintain identity:
+	</para>
+
+<media id="idp422768" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/maintainingidentity/ex2.mp3" id="ex2" mime-type="audio/mpeg"><param name="composer" value="Baha Men"/><param name="title" value="Who Let the Dogs Out"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Artemis Records B000o4UAQ0"/><param name="performer" value="Baha Men"/></audio></media>
+</example><para id="element-125">A <term>round</term> is a polyphonic way of maintaining identity.  In a <term>round</term>, the voices enter in turn, each playing the same melody.  A <term>round</term> is the most self-sufficient musical form:  The entire work is created from the melody, in combination with itself.  As the imitative voices one after the other, the original line ends up creating its own accompaniment and supplying its own harmony. 
+
+</para><example id="element-45"><para id="element-144">
+For the opening of the third movement of his <emphasis>Symphony No. 1</emphasis>, Mahler created a round based on the familiar folk melody, <emphasis>Frère Jacques</emphasis>.  Mahler wrote that the inspiration for this movement was a woodcut titled <emphasis>The Hunter’s Funeral Procession</emphasis>.  To depict the march of mourners, the melody is played in minor, making it more solemn
+	</para>
+
+<media id="idp12295296" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/maintainingidentity/ex3.mp3" id="ex3" mime-type="audio/mpeg"><param name="composer" value="Gustav Mahler"/><param name="title" value="Symphony No. 1, III"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="EMI Classics 103109"/><param name="performer" value="Chicago Symphony Orchestra, Klaus Tennstedt"/></audio></media>
+
+</example><para id="element-807"><term>Heterophony</term> is a looser way of maintaining identity.  In a <emphasis>heterophonic texture</emphasis>, multiple instruments or voices each perform the same line simultaneously, but each in their own way.  </para><example id="element-907"><para id="element-80">
+In the following excerpt from Benjamin Britten’s <emphasis>Curlew River</emphasis>, the instruments join in playing the same melody, each in a slightly different rhythm.  Like a caterpillar slinking forward, the melody moves sinuously, as the instruments fall in an out of phase with each other.  
+	</para>
+
+<media id="idp12980256" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/maintainingidentity/ex4.mp3" id="ex4" mime-type="audio/mpeg"><param name="composer" value="Benjamin Brittten"/><param name="title" value="'Good souls' from Curlew River"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="London 421 858-2"/><param name="performer" value="English Opera Group, Benjamin Britten"/></audio></media>
+</example>
+
+
+       
+  </content>
+  
+</document>

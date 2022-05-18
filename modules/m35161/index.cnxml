@@ -1,0 +1,112 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Postponing Closure</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35161</md:content-id>
+  <md:title>Listening Gallery: Postponing Closure</md:title>
+  <md:abstract/>
+  <md:uuid>edae6028-2514-4799-89db-72d9289771f6</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-965">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="delete_me">Do the following examples include postponement of closure?</para><exercise id="eip-345"><q:item id="item_moz1" type="single-response">
+		<q:question>
+			<section id="s_moz1">
+				<para id="p_moz1"> 
+<media id="id1594805" alt="" display="block"><audio src="Mozart02" id="Mozart02" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="The Marriage of Figaro"/><param name="comments" value="excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Harmonia Mundi"/><param name="performer" value="Lorenso Regazzo, baritone, Cologne Concerto, Rene Jacobs, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="moz1_Yes"><q:response>Yes</q:response></q:answer>
+
+		<q:answer id="moz1_No"><q:response>No</q:response></q:answer>
+
+		<q:feedback>This excerpt includes postponement of closure.</q:feedback>
+
+		<q:key answer="moz1_No"/>
+	</q:item>
+</exercise><exercise id="eip-455"><q:item id="item_moz2" type="single-response">
+		<q:question>
+			<section id="s_moz2">
+				<para id="p_moz2"> 
+<media id="id1594806" alt="" display="block"><audio src="Mozart03" id="Mozart03" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="The Marriage of Figaro"/><param name="comments" value="excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Harmonia Mundi"/><param name="performer" value="Lorenso Regazzo, baritone, Cologne Concerto, Rene Jacobs, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="moz2_Yes"><q:response>Yes</q:response></q:answer>
+
+		<q:answer id="moz2_No"><q:response>No</q:response></q:answer>
+
+		<q:feedback>This time, Figaro's aria is prolonged by deceptive cadences.</q:feedback>
+
+		<q:key answer="moz2_Yes"/>
+	</q:item>
+</exercise><exercise id="eip-967"><q:item id="item_beeth" type="single-response">
+		<q:question>
+			<section id="s_beeth">
+				<para id="p_beeth"> 
+<media id="id1594807" alt="" display="block"><audio src="Beethoven12" id="Beethoven12" mime-type="audio/mpeg"><param name="composer" value="Ludwig van Beethoven"/><param name="title" value="Piano Concerto No. 5 in E-flat Major, 'Emperor'"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="EMI"/><param name="performer" value="Edwin Fischer, piano, Philharmonia Orchestra, Wilhelm Furtwângler, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="Beeth_Yes"><q:response>Yes</q:response></q:answer>
+
+		<q:answer id="Beeth_No"><q:response>No</q:response></q:answer>
+
+		<q:feedback>A deceptive cadence prolongs the phrase.</q:feedback>
+
+		<q:key answer="Beeth_Yes"/>
+	</q:item>
+</exercise><exercise id="eip-658"><q:item id="item_moz3" type="single-response">
+		<q:question>
+			<section id="s_moz3">
+				<para id="p_moz3"> 
+<media id="id1594808" alt="" display="block"><audio src="Mozart18" id="Mozart18" mime-type="audio/mpeg"><param name="composer" value="Wolfgang Amadeus Mozart"/><param name="title" value="Piano Sonata in a-minor, K. 310 - I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony Classical"/><param name="performer" value="Murray Perahia, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="moz3_Yes"><q:response>Yes</q:response></q:answer>
+
+		<q:answer id="moz3_No"><q:response>No</q:response></q:answer>
+
+		<q:feedback>The tonic cadence is disrupted.</q:feedback>
+
+		<q:key answer="moz3_Yes"/>
+	</q:item>
+</exercise><exercise id="eip-519"><q:item id="item_bach" type="single-response">
+		<q:question>
+			<section id="s_bach">
+				<para id="p_bach"> 
+<media id="id1594809" alt="" display="block"><audio src="Bach26" id="Bach26" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Italian Concerto in F-major - I"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Intervox Production Music Publishing GmbH"/><param name="performer" value="Dubravka Tomsic, piano"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="Bach_Yes"><q:response>Yes</q:response></q:answer>
+
+		<q:answer id="Bach_No"><q:response>No</q:response></q:answer>
+
+		<q:feedback>The first attempt at a tonic cadence is disrupted, briefly postponing closure.</q:feedback>
+
+		<q:key answer="Bach_Yes"/>
+	</q:item>
+</exercise><exercise id="eip-102"><q:item id="item_ber" type="single-response">
+		<q:question>
+			<section id="s_ber">
+				<para id="p_ber"> 
+<media id="id15948010" alt="" display="block"><audio src="Berlioz05" id="Berlioz05" mime-type="audio/mpeg"><param name="composer" value="Hector Berlioz"/><param name="title" value="Symphonie Fantastique - V"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="RCA RD86210(2)"/><param name="performer" value="Boston Symphony, Charles Munch, conductor"/></audio></media>
+</para>		</section>
+		</q:question>
+
+		<q:answer id="Ber_Yes"><q:response>Yes</q:response></q:answer>
+
+		<q:answer id="Ber_No"><q:response>No</q:response></q:answer>
+
+		<q:feedback>The cadence of the clarinet solo is rudely interrupted.</q:feedback>
+
+		<q:key answer="Ber_Yes"/>
+	</q:item>
+
+</exercise>
+</content>
+
+</document>

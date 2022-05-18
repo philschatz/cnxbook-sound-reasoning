@@ -1,0 +1,134 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Listening Gallery: Reharmonizing a Melody</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35146</md:content-id>
+  <md:title>Listening Gallery: Reharmonizing a Melody</md:title>
+  <md:abstract/>
+  <md:uuid>e1352368-bb26-4fda-a09a-71e24bb3caf1</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-488">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="delete_me">The following examples pair two examples of a melody from the same work.  Evaluate whether the harmonizations are essentially the same or substantially reharmonized.</para><exercise id="eip-750"><q:item id="item_bach" type="single-response">
+		<q:question>
+			<section id="s_bach">
+				<para id="p_bach"> 
+<media id="id15948011" alt="" display="block"><audio src="Bach54" id="Bach54" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Chorale 'Befiehl du deine Wege' from St. Matthew Passion"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon"/><param name="performer" value="Munich Bach Orchestra, Karl Richter, conductor"/></audio></media>
+		 
+
+<media id="id15948012" alt="" display="block"><audio src="Bach55" id="Bach55" mime-type="audio/mpeg"><param name="composer" value="J.S. Bach"/><param name="title" value="Chorale 'Und ob gleich alle Teufel' from Cantata No. 153"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Accent"/><param name="performer" value="La Petite Bande, Sigiswald Kuijken, conductor"/></audio></media></para>		
+</section>
+		</q:question>
+
+		<q:answer id="bach_same"><q:response>The harmonizations are the same</q:response></q:answer>
+
+		<q:answer id="bach_diff"><q:response>The harmonizations are different</q:response></q:answer>
+
+
+<q:feedback>The harmonizations are different: The two excerpts share only the last two chords!  Without altering the melody, Bach even manages to harmonize the first phrases in different modes: That of “Befiehl” in Major whereas  “Und ob gleich” is in minor.</q:feedback>
+
+		<q:key answer="bach_same"/>
+	</q:item>
+</exercise><exercise id="eip-998"><q:item id="item_ger" type="single-response">
+		<q:question>
+			<section id="s_ger">
+				<para id="p_ger"> 
+<media id="id15948013" alt="" display="block"><audio src="Gershwin01" id="Gershwin01" mime-type="audio/mpeg"><param name="composer" value="George Gershwin"/><param name="title" value="Fascinating Rhythm from the movie Girl Crazy"/><param name="comments" value="Excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Rhino"/><param name="performer" value="Tommy Dorsey and his Orchestra with Mickey Rooney, piano"/></audio></media>
+		 
+
+<media id="id15948014" alt="" display="block"><audio src="Gershwin02" id="Gershwin02" mime-type="audio/mpeg"><param name="composer" value="George Gershwin"/><param name="title" value="Fascinating Rhythm from the movie Girl Crazy"/><param name="comments" value="Excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Rhino"/><param name="performer" value="Tommy Dorsey and his Orchestra with Mickey Rooney, piano"/></audio></media></para>		
+</section>
+		</q:question>
+
+		<q:answer id="ger_same"><q:response>The harmonizations are essentially the same; only the last chords are different</q:response></q:answer>
+
+		<q:answer id="ger_diff"><q:response>The melody is  substantially reharmonized</q:response></q:answer>
+
+
+<q:feedback>The harmonizations are essentially the same; only the last chords are different.</q:feedback>
+
+		<q:key answer="ger_same"/>
+	</q:item>
+</exercise><exercise id="eip-161"><q:item id="item_hay" type="single-response">
+		<q:question>
+			<section id="s_hay">
+				<para id="p_hay"> 
+<media id="id1594805" alt="" display="block"><audio src="Haydn10" id="Haydn10" mime-type="audio/mpeg"><param name="composer" value="Joseph Haydn"/><param name="title" value="String Quartet in b-minor, Opus 64, no. 2, Finale"/><param name="comments" value="Excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="EMI"/><param name="performer" value="Medici Quartet"/></audio></media>
+		 
+<media id="id1594806" alt="" display="block"><audio src="Haydn11" id="Haydn11" mime-type="audio/mpeg"><param name="composer" value="Joseph Haydn"/><param name="title" value="String Quartet in b-minor, Opus 64, no. 2, Finale"/><param name="comments" value="Excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="EMI"/><param name="performer" value="Medici Quartet"/></audio></media>
+</para>		
+</section>
+		</q:question>
+
+		<q:answer id="hay_same"><q:response>The harmonizations are the same</q:response></q:answer>
+
+		<q:answer id="hay_diff"><q:response>The harmonizations are different</q:response></q:answer>
+
+
+<q:feedback>The harmonizations are different.  The first excerpt is in minor, the second in Major.</q:feedback>
+
+		<q:key answer="hay_diff"/>
+	</q:item>
+</exercise><exercise id="eip-855"><q:item id="item_deb" type="single-response">
+		<q:question>
+			<section id="s_deb">
+				<para id="p_deb"> 
+<media id="id1594807" alt="" display="block"><audio src="Debussy09" id="Debussy09" mime-type="audio/mpeg"><param name="composer" value="Claude Debussy"/><param name="title" value="Hommage a Rameau"/><param name="comments" value="Excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Philips 422 404-2"/><param name="performer" value="Zoltan Kocsis, piano"/></audio></media>
+		 
+
+<media id="id1594808" alt="" display="block"><audio src="Debussy10" id="Debussy10" mime-type="audio/mpeg"><param name="composer" value="Claude Debussy"/><param name="title" value="Hommage a Rameau"/><param name="comments" value="Excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Philips 422 404-2"/><param name="performer" value="Zoltan Kocsis, piano"/></audio></media></para>		
+</section>
+		</q:question>
+
+		<q:answer id="deb_same"><q:response>The harmonizations are exactly the same</q:response></q:answer>
+
+		<q:answer id="deb_diff"><q:response>The harmonizations are different</q:response></q:answer>
+
+
+<q:feedback>The harmonizations are different.  The first excerpt begins with the melody unaccompanied, while the second one adds harmony throughout; and the first excerpt is completely diatonic until the last chord while the second one is considerably more chromatic.</q:feedback>
+
+		<q:key answer="deb_diff"/>
+	</q:item>
+</exercise><exercise id="eip-5"><q:item id="item_rus" type="single-response">
+		<q:question>
+			<section id="s_rus">
+				<para id="p_rus"> 
+<media id="id1594801" alt="" display="block"><audio src="Russia01" id="Russia01" mime-type="audio/mpeg"><param name="composer" value="John Barry"/><param name="title" value="From Russia with Love"/><param name="comments" value="Excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Silva Screen Records"/><param name="performer" value="City of Prague Philharmonic"/></audio></media>
+		 
+
+<media id="id1594802" alt="" display="block"><audio src="Russia02" id="Russia02" mime-type="audio/mpeg"><param name="composer" value="John Barry"/><param name="title" value="From Russia with Love"/><param name="comments" value="Excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Silva Screen Records"/><param name="performer" value="City of Prague Philharmonic"/></audio></media></para>		
+</section>
+		</q:question>
+
+		<q:answer id="rus_same"><q:response>The harmonizations are the same</q:response></q:answer>
+
+		<q:answer id="rus_diff"><q:response>The harmonizations are different</q:response></q:answer>
+
+
+<q:feedback>The second excerpt has a thicker orchestration and new voicings and voice-leading but the harmonizations are the same.</q:feedback>
+
+		<q:key answer="rus_same"/>
+	</q:item>
+</exercise><exercise id="eip-302"><q:item id="item_rach" type="single-response">
+		<q:question>
+			<section id="s_rach">
+				<para id="p_rach"> 
+<media id="id1594803" alt="" display="block"><audio src="Rachmaninoff02" id="Rachmaninoff02" mime-type="audio/mpeg"><param name="composer" value="Sergei Rachmaninoff"/><param name="title" value="Rhapsody on a Theme by Paganini"/><param name="comments" value="Excerpt 1"/><param name="total-time" value=""/><param name="label-number" value="Mirare"/><param name="performer" value="Boris Berezovsky, piano Orchestre Philharmonique de l'Oural, Dmitri Liss, conductor"/></audio></media>
+		 
+<media id="id1594804" alt="" display="block"><audio src="Rachmaninoff03" id="Rachmaninoff03" mime-type="audio/mpeg"><param name="composer" value="Sergei Rachmaninoff"/><param name="title" value="Rhapsody on a Theme by Paganini"/><param name="comments" value="Excerpt 2"/><param name="total-time" value=""/><param name="label-number" value="Mirare"/><param name="performer" value="Boris Berezovsky, piano Orchestre Philharmonique de l'Oural, Dmitri Liss, conductor"/></audio></media></para>		
+</section>
+		</q:question>
+
+		<q:answer id="rach_same"><q:response>The harmonizations are the same</q:response></q:answer>
+
+		<q:answer id="rach_diff"><q:response>The harmonizations are different</q:response></q:answer>
+
+
+<q:feedback>The harmonizations are spectacularly different: The second has a more elaborate harmonic palette and is more chromatic. </q:feedback>
+
+		<q:key answer="rach_diff"/>
+	</q:item>
+</exercise>
+</content>
+
+</document>

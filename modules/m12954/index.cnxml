@@ -1,0 +1,395 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+  <title>Listening Gallery: How Music Makes Sense</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12954</md:content-id>
+  <md:title>Listening Gallery: How Music Makes Sense</md:title>
+  <md:abstract>This module includes exercises to practice listening for
+varied repetition.</md:abstract>
+  <md:uuid>9ff9f103-f775-4ce7-91ab-c0df6ced88e9</md:uuid>
+</metadata>
+  <content>
+
+    <note id="id1164055367594">Please note that you must have the most recent copy of Macromedia's Flash plugin installed to play the musical examples.</note><para id="id4839240">
+      The following short works or excerpts are each based on a single
+      pattern that is repeated throughout the work.
+    </para>
+
+
+    <para id="id6928702">
+      These terms will help you answer the questions about how the
+      basic patterns are varied.
+    </para>
+
+    <definition id="accomp">
+      <term>Accompainiment</term>
+      <meaning id="id1164049598083">
+	The support underlying a melody. For instance, in a typical
+	show tune, the singer performs the melody, while the band
+	provides the accompaniment.
+      </meaning>
+    </definition>
+    
+    <definition id="contour">
+      <term>Contour</term>
+      <meaning id="id8634680">
+	Whether the basic pattern is played right side up or upside
+	down
+      </meaning>
+    </definition>
+
+    <definition id="density">
+      <term>Density</term>
+      <meaning id="id1164053460892">
+	How many notes are played at the same time. For instance, if
+	a pianist plays a chord with all ten fingers, that sound is
+	of higher density that if she or he were to just play with a
+	single finger.
+      </meaning>
+    </definition>
+
+    <definition id="dynam">
+      <term>Dynamics</term>
+      <meaning id="id1164052444221">
+	The loudness of the music
+      </meaning>
+    </definition>
+    
+    <definition id="frag">
+      <term>Fragmentation</term>
+      <meaning id="id3739321">
+	Smaller segments of the basic pattern are repeated, rather
+	than the whole
+      </meaning>
+    </definition>
+    
+    <definition id="orch">
+      <term>Orchestration</term>
+      <meaning id="id1453644">
+	The instruments that are playing the pattern.
+      </meaning>
+    </definition>
+    
+    <definition id="register">
+      <term>Register</term>
+      <meaning id="id1164052326882">
+	How "high" or "low" the pattern is played. Men sing in the low
+	register, women in the upper. The pianist's left hand generally
+	plays in the low register, the right hand in the upper.
+      </meaning>
+    </definition>
+    
+    <definition id="speed"><term>Speed</term>
+      <meaning id="id1164049591748">
+	How fast the pattern is played
+      </meaning>
+    </definition>
+
+    <para id="eip-941"><definition id="quarter-def"><term>Grouping</term>
+  <meaning id="meaning-part">
+    The number of notes in a pattern.
+
+For instance, the pattern "da-da-dum, da-da-dum, da-da-dum " consists of a series of three note groupings, whereas "da-da-da-dum, da-da-da-dum, da-da-da-dum" is made up of four note groupings.
+"Da-dum, da-da-da-dum, da-da-dum" consists of mixed groupings.
+  </meaning>
+  
+ </definition>
+</para><exercise id="ex1"><q:item id="ex1item1" type="multiple-response">
+	<q:question>
+	  <section id="s1">
+	    <para id="para1">
+	      Listen to Bach's <cite><cite-title>Invention no. 14 in B-flat
+	      Major</cite-title></cite>.
+
+	      <media id="id1164055597157" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/sense/Bach_Invention14.mp3" id="ex1music1" mime-type="audio/mpeg"><param name="composer" value="Johann Sebastian Bach"/><param name="title" value="Invention in B-flat Major"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony SK87754"/><param name="performer" value="Glenn Gould, piano"/></audio></media>
+	      
+	      In the following list, mark <emphasis>all</emphasis> of
+	      the ways that Bach uses to vary the repetition of his
+	      basic pattern:
+	    </para>
+	  </section>
+	</q:question>
+	<q:answer id="ex1a1">
+	  <q:response>Register</q:response>
+	</q:answer>
+	<q:answer id="ex1a2">
+	   <q:response>Contour</q:response>
+	</q:answer>
+	<q:answer id="ex1a3">
+	   <q:response>Density</q:response>
+	</q:answer>
+	<q:answer id="ex1a4">
+	   <q:response>Speed</q:response>
+	</q:answer>
+	<q:answer id="ex1a5">
+	  <q:response> Fragmentation</q:response>
+	</q:answer>
+	<q:feedback>
+	  The pattern always occurs at the same speed. Otherwise, Bach
+	  uses all of the other means of varying the repetition: The
+	  melody is played high and low. It is turned right side up
+	  and upside down. It is sometimes in one hand alone,
+	  sometimes in both together. It is fragmented, creating
+	  passages of greater momentum.
+	</q:feedback>
+	<q:key answer="ex1a1,ex1a2,ex1a3,ex1a5"/>
+      </q:item>
+    </exercise>
+
+    <exercise id="ex2"><q:item id="ex2item1" type="single-response">
+	<q:question>
+	  <section id="s2">
+	    <para id="s2p1">
+	      From the following list, what <emphasis>most</emphasis>
+	      contributes to varying the repetition in Chopin's
+	      <cite><cite-title>Prelude No. 23 in F-Major</cite-title></cite>?
+	      <media id="id6572045" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/sense/Chopin_Prelude23.mp3" id="ex2music1" mime-type="audio/mpeg"><param name="composer" value="Frédéric Chopin"/><param name="title" value="Prelude No. 23 in F-Major"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Deutsche Grammophon 431 584-2"/><param name="performer" value="Martha Argerich, piano"/></audio></media>
+	    </para>
+	  </section>
+	</q:question>
+	<q:answer id="ex2a1">
+	  <q:response>Speed</q:response>
+	</q:answer>
+	<q:answer id="ex2a2">
+	  <q:response>Dynamics</q:response>
+	</q:answer>
+	<q:answer id="ex2a3">
+	  <q:response>Register</q:response>
+	</q:answer>
+	<q:feedback>
+	  Register. The pattern constantly shifts register, getting
+	  higher and higher until finally sinking at the ending.
+	</q:feedback>
+	<q:key answer="ex2a3"/>
+      </q:item>
+    </exercise>
+
+      
+    <exercise id="ex3"><q:item id="ex3i1" type="single-response">
+	<q:question>
+	  <section id="s3">
+	    <para id="s3p1">
+	      In the following excerpt from Gustav Holst's <cite><cite-title>The
+	      Planets</cite-title></cite>, the short melody is repeated fifteen
+	      times. How many times is the melody repeated
+	      <emphasis>exactly</emphasis> the same way?
+	      <media id="id6332187" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/sense/Holst_Mercury.mp3" id="ex3music1" mime-type="audio/mpeg"><param name="composer" value="Gustav Holst"/><param name="title" value="The Planets, 'Mercury'"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="LSO 029"/><param name="performer" value="Sir Colin Davis, London Symphony Orchestra"/></audio></media>
+	    </para>
+	  </section>
+	</q:question>
+	<q:answer id="ex3a0">
+	  <q:response>0</q:response>
+	</q:answer>
+	<q:answer id="ex3a1">
+	  <q:response>1</q:response>
+	</q:answer>
+	<q:answer id="ex3a2">
+	  <q:response>2</q:response>
+	</q:answer>
+	<q:answer id="ex3a3">
+	  <q:response>3</q:response>
+	</q:answer>
+	<q:answer id="ex3a4">
+	  <q:response>4</q:response>
+	</q:answer>
+	<q:answer id="ex3a5">
+	  <q:response>5</q:response>
+	</q:answer>
+	<q:answer id="ex3a6">
+	  <q:response>6</q:response>
+	</q:answer>
+	<q:answer id="ex3a7">
+	  <q:response>7</q:response>
+	</q:answer>
+	<q:feedback>
+	  0. It is never repeated the same way twice.
+	</q:feedback>
+	<q:key answer="ex3a0"/>
+      </q:item>
+    </exercise>
+
+    <exercise id="ex4">
+      <q:item id="ex4i1" type="multiple-response">
+	<q:question>
+	  <section id="section">
+	    <para id="para">
+	      From the following list, mark <emphasis>all</emphasis>
+	      of the ways that Holst uses to vary the repetitions of
+	      the melody.
+	    </para>
+	  </section>
+	</q:question>
+	<q:answer id="ex4a1">
+	  <q:response>Accompaniment</q:response>
+	</q:answer>
+	<q:answer id="ex4a2">
+	  <q:response>Contour</q:response>
+	</q:answer>
+	<q:answer id="ex4a3">
+	  <q:response>Dynamics</q:response>
+	</q:answer> 
+	<q:answer id="ex4a4">
+	  <q:response>Orchestration</q:response>
+	</q:answer>  
+	<q:answer id="ex4a5">
+	  <q:response>Speed</q:response>
+	</q:answer>
+	<q:answer id="ex4a6">
+	  <q:response>Register</q:response>
+	</q:answer>
+	<q:feedback>
+	  The melody is always played with the same contour and at the
+	  same speed. Holst uses all of the other means to create
+	  variety: The accompaniment to the melody changes from a
+	  gentle pulse to a more passionate underpinning. The dynamics
+	  get gradually louder, then softer. The orchestration changes
+	  with almost every appearance of the melody: It begins in the
+	  violin, then it is played by the oboe, flute and
+	  glockenspiel. Register is also used to vary the melody: The
+	  glockenspiel plays it very high; later in the excerpt, the
+	  lower strings take over the melody.
+	</q:feedback>
+	<q:key answer="ex4a1,ex4a3,ex4a4,ex4a6"/>
+      </q:item>
+    </exercise>
+
+    <exercise id="ex5"><q:item id="ex5i" type="multiple-response">
+	<q:question>
+	  <section id="s4">
+	    <para id="s4p">
+	      In Charles Ives' song <cite><cite-title>The Cage</cite-title></cite>, the piano
+	      accompaniment is extremely unified. Except for the
+	      unexpected chord at the word "Wonder," the accompaniment
+	      consists only of varied repetitions a single, complex
+	      chord-as a way of showing a leopard confined in its
+	      cage.
+	      <media id="id1164049183071" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/sense/Ives_Cage.mp3" id="ex5music1" mime-type="audio/mpeg"><param name="composer" value="Charles Ives"/><param name="title" value="The Cage"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Etcetera 1020"/><param name="performer" value="Roberta Alexander, soprano; Tan Crone, piano"/></audio></media>
+	      In the following list, mark <emphasis>all</emphasis> of
+	      the ways that Ives uses to vary the repetition of the
+	      chord:
+	    </para>
+	  </section>
+	</q:question>
+	<q:answer id="ex5a1">
+	  <q:response>Speed</q:response>
+	</q:answer>
+	<q:answer id="ex5a2">
+	  <q:response>Register</q:response>
+	</q:answer>
+	<q:answer id="ex5a3">
+	  <q:response>Dynamics</q:response>
+	</q:answer>
+	<q:feedback>
+	  All of the above! Ives uses speed, register and dynamics to
+	  vary how the chord is played. In the middle section of the
+	  song, for instance, the chords become quite spaced apart
+	  (speed). At the opening, the chords are low and loud; when
+	  the voice enters, they get higher and softer.
+	</q:feedback>
+	<q:key answer="ex5a1,ex5a2,ex5a3"/>
+      </q:item>
+    </exercise>
+    <exercise id="ex6"><q:item id="ex6i" type="multiple-response">
+	<q:question>
+	  <section id="s5">
+	    <para id="s5p">
+	      Ligeti's <cite><cite-title>Musica ricercata No. 1</cite-title></cite> is based on
+	      just a single note: Only the very last note is
+	      different! In the following list, mark
+	      <emphasis>all</emphasis> of the ways that Ligeti uses to
+	      vary the repetition of the single note.
+	      <media id="id6343544" alt="" display="block"><audio src="http://music.cnx.rice.edu/Brandt/sense/Ligeti_MusicaRicercata1.mp3" id="ex6music1" mime-type="audio/mpeg"><param name="composer" value="Gyorgy Ligeti"/><param name="title" value="Musica ricercata No. 1"/><param name="comments" value=""/><param name="total-time" value=""/><param name="label-number" value="Sony 62308"/><param name="performer" value="Pierre-Laurent Aimard, piano"/></audio></media>
+	    </para>
+	  </section>
+	</q:question>
+	<q:answer id="ex6a1">
+	  <q:response>Speed</q:response>
+	</q:answer>
+	<q:answer id="ex6a2">
+	  <q:response>Density</q:response>
+	</q:answer>
+	<q:answer id="ex6a3">
+	  <q:response>Dynamics</q:response>
+	</q:answer>
+	<q:answer id="ex6a4">
+	  <q:response>Groupings</q:response>
+	</q:answer>
+	<q:answer id="ex6a5">
+	  <q:response>Register</q:response>
+	</q:answer>
+	<q:feedback>
+	  All of the above! Thanks to all of these means, Ligeti is
+	  able to create a very vibrant and dramatic piece using only
+	  one note!
+	</q:feedback>
+	<q:key answer="ex6a1,ex6a2,ex6a3,ex6a4,ex6a5"/>
+      </q:item>
+    </exercise><para id="element-736">FURTHER LISTENING: Bernard Rand's "Le Tambourin" is a suite of orchestral pieces drawn from his opera about Vincent Van Gogh.  In the movement "Sorrow," Rands creates repetition without redundancy by modeling his compositional method on a technique used by Van Gogh.  In sketching his model, Van Gogh placed three sheets of paper on top of one another.  His first, rather spare sketch left imprints on the pages beneath.  He then removed the top sheet and repeated the process, adding more detail.  He then performed the same operation with the third sheet, making it the most elaborate.  Rands treats his music in an analogous manner: He presents an initial passage of music.  He then repeats this music identically, but adds new details.  A third layer of music is then added to the first two.  Thus, the music gradually accumulates in the same way as Van Gogh's imprints.</para>
+
+  </content>
+  <glossary>
+    <definition id="accomp1">
+      <term>Accompainiment</term>
+      <meaning id="id8401196">
+	The support underlying a melody. For instance, in a typical
+	show tune, the singer performs the melody, while the band
+	provides the accompaniment.
+      </meaning>
+    </definition>
+    
+    <definition id="contour1">
+      <term>Contour</term>
+      <meaning id="id1164043431934">
+	Whether the basic pattern is played right side up or upside
+	down
+      </meaning>
+    </definition>
+
+    <definition id="density1">
+      <term>Density</term>
+      <meaning id="id1164051348145">
+	How many notes are played at the same time. For instance, if
+	a pianist plays a chord with all ten fingers, that sound is
+	of higher density that if she or he were to just play with a
+	single finger.
+      </meaning>
+    </definition>
+
+    <definition id="dynam1">
+      <term>Dynamics</term>
+      <meaning id="id1164052417503">
+	The loudness of the music
+      </meaning>
+    </definition>
+    
+    <definition id="frag1">
+      <term>Fragmentation</term>
+      <meaning id="id1164050418472">
+	Smaller segments of the basic pattern are repeated, rather
+	than the whole
+      </meaning>
+    </definition>
+    
+    <definition id="orch1">
+      <term>Orchestration</term>
+      <meaning id="id1164053248595">
+	The instruments that are playing the pattern.
+      </meaning>
+    </definition>
+    
+    <definition id="register1">
+      <term>Register</term>
+      <meaning id="id1164053107358">
+	How "high" or "low" the pattern is played. Men sing in the low
+	register, women in the upper. The pianist's left hand generally
+	plays in the low register, the right hand in the upper.
+      </meaning>
+    </definition>
+    
+    <definition id="speed1">
+      <term>Speed</term>
+      <meaning id="id1164036420660">
+	How fast the pattern is played
+      </meaning>
+    </definition>
+  </glossary>
+</document>
