@@ -1,0 +1,29 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10400</md:content-id>
+    <md:title>Michael's Sound Reasoning</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>04209f73-a51c-4213-b83d-fa71fcbeff75</md:uuid>
+<md:slug>michael-s-sound-reasoning</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m11466"/>
+    <col:module document="m12953"/>
+    <col:module document="m12954"/>
+    <col:module document="m13861"/>
+    <col:module document="m13862"/>
+    <col:module document="m11629"/>
+    <col:module document="m11630"/>
+    <col:module document="m13842"/>
+    <col:module document="m13843"/>
+    <col:module document="m11607"/>
+    <col:module document="m11631"/>
+    <col:module document="m11434"/>
+    <col:module document="m11625"/>
+    <col:module document="m13848"/>
+    <col:module document="m13845"/>
+    <col:module document="m13844"/>
+    <col:module document="m13846"/>
+  </col:content>
+</col:collection>
