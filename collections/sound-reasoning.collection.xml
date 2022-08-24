@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Anthony Brandt">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10214</md:content-id>
     <md:title>Sound Reasoning</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>476d4614-1623-4dca-8907-cf81ec889efd</md:uuid>
-<md:slug>sound-reasoning</md:slug>
-</metadata>
+    <md:slug>sound-reasoning</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m11466"/>
     <col:module document="m12953"/>
