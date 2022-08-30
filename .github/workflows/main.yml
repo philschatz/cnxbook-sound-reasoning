@@ -4,7 +4,7 @@ jobs:
   build:
     name: Build book
     runs-on: ubuntu-latest
-    container: samuelklutse/enki_epub:latest # TODO change this line. But committing a change here to see if the Action is triggered
+    container: samuelklutse/enki_epub:latest # TODO change this line. But committing a change here to see if the Action is triggered 2
     permissions:
       deployments: write
       packages: write
